@@ -1,0 +1,3001 @@
+Date,Shift,Machine/Workstation ID,Operator Name,Product Name / Part Number,Target Output,Actual Output,Cumulative Output,Defects/Rework Units,downtime_minutes,Reason for Downtime,Operator Remarks
+2025-04-14,Morning,M101,Meera,P001,40,30,60,3,0,,Check sensor
+2025-04-02,Afternoon,M102,Raj,P003,60,53,53,4,0,,Check sensor
+2025-04-07,Night,M102,Meera,P003,43,43,86,0,21,Material shortage,Check sensor
+2025-04-01,Night,M101,Raj,P003,45,43,86,3,22,,
+2025-04-15,Morning,M102,Anita,P001,49,44,132,5,0,,
+2025-04-02,Afternoon,M103,Raj,P002,47,40,200,5,0,,Need maintenance
+2025-04-14,Morning,M102,John,P002,47,39,117,2,0,,All good
+2025-04-07,Afternoon,M103,John,P003,47,38,114,5,0,,
+2025-04-09,Afternoon,M101,Anita,P001,47,45,90,1,0,,
+2025-04-14,Morning,M101,Raj,P003,41,38,152,0,0,,All good
+2025-04-07,Morning,M101,Meera,P003,44,38,190,5,0,,Need maintenance
+2025-04-05,Morning,M103,John,P001,47,41,82,1,0,,Need maintenance
+2025-04-12,Afternoon,M101,Meera,P001,49,43,215,5,0,,
+2025-04-05,Night,M103,Meera,P001,58,54,162,3,0,,Check sensor
+2025-04-08,Night,M102,John,P002,54,52,208,3,0,,All good
+2025-04-06,Afternoon,M101,Anita,P002,59,49,147,5,0,,Check sensor
+2025-04-06,Afternoon,M101,John,P003,50,40,80,2,30,Machine issue,Need maintenance
+2025-04-01,Morning,M101,Raj,P001,43,36,108,1,0,,
+2025-04-13,Morning,M101,John,P001,50,44,44,0,2,Maintenance,Check sensor
+2025-04-14,Morning,M103,Anita,P002,44,41,205,2,0,,Check sensor
+2025-04-01,Afternoon,M102,Raj,P003,41,41,164,1,0,,Check sensor
+2025-04-11,Morning,M102,Anita,P003,57,54,270,2,0,,Check sensor
+2025-04-02,Morning,M103,Anita,P002,41,33,33,5,0,,
+2025-04-12,Night,M101,Raj,P002,46,45,180,5,0,,
+2025-04-02,Afternoon,M103,Raj,P003,48,47,188,4,0,,Check sensor
+2025-04-09,Morning,M103,Anita,P002,57,54,216,3,0,,Check sensor
+2025-04-03,Morning,M101,Anita,P001,55,54,216,4,0,,Check sensor
+2025-04-03,Morning,M103,John,P003,46,43,86,3,0,,Check sensor
+2025-04-06,Morning,M102,Raj,P003,53,43,86,4,0,,
+2025-04-10,Morning,M103,Meera,P001,45,38,114,4,0,,All good
+2025-04-08,Afternoon,M101,Anita,P002,45,39,78,2,17,Material shortage,Check sensor
+2025-04-06,Afternoon,M101,Raj,P001,60,53,265,0,12,Power cut,Need maintenance
+2025-04-04,Night,M103,Meera,P003,45,42,168,4,0,,All good
+2025-04-12,Morning,M102,Meera,P001,49,46,138,2,22,,All good
+2025-04-09,Night,M103,John,P001,44,40,160,0,6,Material shortage,
+2025-04-13,Afternoon,M102,Anita,P002,55,50,100,0,0,,
+2025-04-07,Morning,M103,Meera,P002,50,45,90,0,0,,Check sensor
+2025-04-06,Afternoon,M102,Raj,P003,44,39,78,2,0,,Need maintenance
+2025-04-15,Night,M103,Anita,P002,51,48,240,4,0,,Check sensor
+2025-04-01,Morning,M102,Meera,P001,49,41,82,4,0,,Check sensor
+2025-04-02,Morning,M103,Meera,P003,52,46,92,2,25,Maintenance,Check sensor
+2025-04-04,Morning,M101,Meera,P003,44,35,175,1,30,Material shortage,Check sensor
+2025-04-07,Afternoon,M102,John,P002,40,39,39,0,11,Maintenance,All good
+2025-04-01,Night,M102,Raj,P001,60,60,120,2,0,,
+2025-04-02,Night,M102,John,P002,48,40,200,0,11,Machine issue,
+2025-04-14,Morning,M102,Raj,P003,47,42,84,0,0,,
+2025-04-12,Morning,M102,Meera,P001,47,40,40,4,11,Machine issue,
+2025-04-04,Night,M102,Raj,P003,49,41,205,4,25,Maintenance,Check sensor
+2025-04-13,Afternoon,M101,Anita,P001,44,40,200,4,4,Power cut,Check sensor
+2025-04-15,Night,M103,Raj,P003,53,45,90,1,6,Maintenance,All good
+2025-04-14,Afternoon,M102,Raj,P003,59,56,112,5,0,,
+2025-04-01,Night,M101,Meera,P003,42,32,96,0,0,,
+2025-04-05,Morning,M103,Anita,P003,56,54,54,3,0,,
+2025-04-15,Afternoon,M101,John,P003,55,48,192,1,10,,Check sensor
+2025-04-03,Afternoon,M103,Meera,P003,52,43,43,5,0,,
+2025-04-06,Morning,M103,Meera,P002,59,50,200,4,0,,Need maintenance
+2025-04-10,Morning,M102,John,P003,40,37,148,0,27,Power cut,Need maintenance
+2025-04-15,Afternoon,M102,Meera,P002,44,35,175,3,0,,Need maintenance
+2025-04-07,Afternoon,M101,Anita,P001,49,44,220,1,20,,Check sensor
+2025-04-11,Afternoon,M102,Meera,P002,60,51,204,5,0,,All good
+2025-04-05,Afternoon,M102,Meera,P002,60,60,300,4,29,Material shortage,Need maintenance
+2025-04-10,Night,M103,Meera,P003,42,37,37,2,0,,All good
+2025-04-09,Night,M103,Meera,P002,55,55,275,3,27,Maintenance,All good
+2025-04-04,Morning,M102,Raj,P002,48,43,172,4,0,,
+2025-04-03,Afternoon,M102,Meera,P001,59,56,224,1,0,,
+2025-04-02,Morning,M101,Raj,P002,45,41,82,5,0,,Need maintenance
+2025-04-07,Morning,M103,Meera,P003,54,51,51,5,0,,Need maintenance
+2025-04-12,Afternoon,M101,Raj,P003,53,46,92,1,0,,
+2025-04-08,Night,M101,Meera,P001,57,56,112,4,0,,
+2025-04-01,Afternoon,M101,Raj,P003,54,45,135,1,0,,
+2025-04-03,Morning,M103,Anita,P001,42,42,42,3,0,,
+2025-04-11,Night,M101,Anita,P002,60,56,224,4,0,,Check sensor
+2025-04-10,Afternoon,M103,Raj,P003,57,54,216,5,12,Power cut,
+2025-04-13,Afternoon,M101,Meera,P003,50,42,126,4,0,,
+2025-04-04,Afternoon,M101,Anita,P002,50,43,129,5,8,,
+2025-04-09,Morning,M101,Meera,P003,49,49,49,0,29,Machine issue,Need maintenance
+2025-04-11,Afternoon,M101,Meera,P001,45,43,172,3,15,Material shortage,
+2025-04-09,Afternoon,M103,Raj,P003,50,41,205,0,0,,
+2025-04-04,Night,M101,Raj,P001,56,51,204,2,0,,Need maintenance
+2025-04-02,Night,M102,Meera,P001,44,40,160,3,12,Power cut,
+2025-04-12,Morning,M103,Anita,P003,44,37,111,5,0,,All good
+2025-04-12,Morning,M102,John,P001,59,55,165,0,0,,All good
+2025-04-11,Afternoon,M102,Raj,P001,45,45,45,0,0,,All good
+2025-04-11,Morning,M101,Anita,P001,46,38,38,4,0,,All good
+2025-04-11,Night,M101,Raj,P001,43,37,37,2,0,,
+2025-04-07,Morning,M101,John,P002,52,49,98,5,4,Machine issue,Check sensor
+2025-04-01,Night,M101,Anita,P001,55,49,147,0,28,Machine issue,All good
+2025-04-06,Night,M102,Raj,P001,54,47,47,5,0,,
+2025-04-07,Afternoon,M102,Anita,P002,54,46,230,5,0,,Check sensor
+2025-04-06,Night,M102,Meera,P003,43,35,105,4,0,,Check sensor
+2025-04-12,Afternoon,M103,John,P001,44,34,170,2,0,,
+2025-04-06,Afternoon,M103,Meera,P001,53,53,265,1,0,,Check sensor
+2025-04-06,Night,M103,John,P002,45,41,82,5,0,,Check sensor
+2025-04-11,Afternoon,M103,Raj,P002,57,52,260,4,0,,Check sensor
+2025-04-07,Afternoon,M103,Anita,P001,49,40,80,3,0,,All good
+2025-04-06,Morning,M103,Meera,P002,54,51,153,2,0,,
+2025-04-03,Morning,M101,Anita,P001,49,49,245,1,26,Maintenance,Need maintenance
+2025-04-09,Night,M103,John,P002,52,43,129,0,7,Machine issue,Need maintenance
+2025-04-13,Afternoon,M102,John,P001,60,53,212,0,0,,Need maintenance
+2025-04-03,Night,M101,John,P003,41,41,164,0,0,,Need maintenance
+2025-04-11,Night,M102,Anita,P003,55,51,51,1,0,,
+2025-04-15,Morning,M102,Raj,P003,41,31,62,3,0,,Need maintenance
+2025-04-04,Morning,M103,Raj,P002,59,58,58,1,0,,Need maintenance
+2025-04-04,Night,M103,Anita,P002,43,41,205,4,0,,Check sensor
+2025-04-07,Afternoon,M101,Raj,P002,50,47,94,2,0,,
+2025-04-12,Night,M101,John,P001,43,43,129,4,16,Power cut,
+2025-04-07,Afternoon,M103,Anita,P001,41,36,72,0,0,,All good
+2025-04-10,Afternoon,M103,Meera,P001,52,49,49,3,0,,Need maintenance
+2025-04-14,Afternoon,M101,Anita,P003,57,50,50,3,0,,Check sensor
+2025-04-09,Night,M102,Raj,P003,43,34,68,0,14,,Need maintenance
+2025-04-08,Morning,M101,Raj,P002,45,42,84,0,0,,Need maintenance
+2025-04-14,Afternoon,M101,Meera,P001,46,41,164,5,0,,Check sensor
+2025-04-13,Afternoon,M103,John,P001,56,55,110,5,16,Material shortage,All good
+2025-04-11,Afternoon,M101,Raj,P002,40,31,93,1,0,,Need maintenance
+2025-04-13,Morning,M102,Anita,P002,46,36,72,2,0,,Need maintenance
+2025-04-04,Morning,M101,Meera,P001,58,56,224,0,0,,Need maintenance
+2025-04-01,Morning,M101,John,P002,60,52,156,1,0,,Check sensor
+2025-04-13,Morning,M101,Anita,P003,58,50,200,2,0,,All good
+2025-04-12,Night,M103,Raj,P002,50,49,49,5,0,,All good
+2025-04-14,Afternoon,M103,Meera,P002,41,35,105,5,0,,All good
+2025-04-06,Afternoon,M102,Meera,P002,54,53,265,2,16,Machine issue,
+2025-04-09,Night,M102,John,P002,52,42,126,4,0,,Need maintenance
+2025-04-05,Night,M101,Raj,P003,60,51,255,5,28,Machine issue,Need maintenance
+2025-04-09,Night,M101,John,P001,52,50,50,0,0,,Need maintenance
+2025-04-01,Afternoon,M101,Raj,P003,52,51,102,2,8,Machine issue,
+2025-04-13,Night,M103,Meera,P002,51,50,250,4,28,Material shortage,All good
+2025-04-09,Morning,M103,Anita,P003,52,51,153,1,0,,Check sensor
+2025-04-06,Morning,M102,John,P002,57,57,171,0,14,Maintenance,Need maintenance
+2025-04-12,Morning,M103,Anita,P003,45,36,180,5,0,,Check sensor
+2025-04-13,Morning,M102,Anita,P003,59,56,168,5,0,,Need maintenance
+2025-04-09,Night,M101,John,P002,41,38,190,2,0,,Check sensor
+2025-04-06,Morning,M101,Meera,P003,60,55,275,1,0,,Need maintenance
+2025-04-15,Morning,M101,Meera,P003,57,57,171,1,0,,
+2025-04-03,Morning,M101,John,P003,59,55,165,3,0,,
+2025-04-12,Afternoon,M103,Meera,P001,47,42,126,2,0,,All good
+2025-04-06,Night,M101,Meera,P001,56,55,55,2,0,,Check sensor
+2025-04-09,Night,M103,Anita,P003,52,49,196,5,0,,Need maintenance
+2025-04-13,Morning,M101,Meera,P003,41,37,185,5,0,,Need maintenance
+2025-04-06,Morning,M101,John,P001,46,46,230,1,0,,Need maintenance
+2025-04-13,Night,M103,Raj,P003,57,48,192,1,12,Maintenance,All good
+2025-04-03,Morning,M103,Anita,P003,57,53,265,3,0,,All good
+2025-04-09,Night,M103,Meera,P001,42,38,38,4,0,,Need maintenance
+2025-04-09,Morning,M101,John,P003,46,44,132,2,8,Power cut,All good
+2025-04-06,Morning,M103,Meera,P003,51,47,94,2,0,,
+2025-04-08,Night,M103,Anita,P003,41,32,64,1,0,,Need maintenance
+2025-04-07,Night,M103,John,P001,47,41,164,3,0,,
+2025-04-01,Afternoon,M103,Raj,P003,45,45,180,5,30,Maintenance,All good
+2025-04-13,Morning,M101,John,P002,43,42,84,0,0,,All good
+2025-04-10,Morning,M102,Anita,P003,51,45,180,0,0,,Need maintenance
+2025-04-09,Afternoon,M103,Meera,P002,44,44,44,1,0,,All good
+2025-04-08,Afternoon,M101,John,P003,47,45,45,3,0,,All good
+2025-04-09,Night,M101,Meera,P001,53,51,102,4,17,Maintenance,Need maintenance
+2025-04-04,Afternoon,M102,Meera,P001,58,56,280,3,0,,
+2025-04-11,Night,M103,Raj,P003,55,49,147,2,0,,All good
+2025-04-08,Morning,M101,Anita,P001,43,33,165,4,0,,Check sensor
+2025-04-15,Afternoon,M102,Anita,P003,52,45,90,4,0,,
+2025-04-12,Night,M102,Meera,P003,41,35,70,4,0,,All good
+2025-04-13,Night,M101,John,P002,52,47,94,0,0,,
+2025-04-02,Afternoon,M103,Meera,P003,46,42,210,3,0,,
+2025-04-03,Afternoon,M103,Raj,P003,42,42,210,0,0,,Check sensor
+2025-04-03,Night,M103,John,P003,46,41,82,4,0,,Need maintenance
+2025-04-14,Morning,M101,Meera,P003,52,48,144,2,0,,Check sensor
+2025-04-08,Afternoon,M101,Anita,P003,60,50,50,2,0,,
+2025-04-10,Night,M101,Anita,P002,57,47,47,1,29,Material shortage,Check sensor
+2025-04-14,Morning,M102,Raj,P003,49,48,48,4,0,,Need maintenance
+2025-04-09,Morning,M101,John,P003,43,42,84,0,27,Material shortage,Need maintenance
+2025-04-11,Afternoon,M101,Raj,P003,55,49,245,0,0,,Need maintenance
+2025-04-10,Night,M103,Raj,P001,60,57,171,3,9,Material shortage,Need maintenance
+2025-04-07,Afternoon,M102,John,P001,59,50,250,3,30,Machine issue,Need maintenance
+2025-04-14,Night,M102,John,P001,60,51,102,3,29,Power cut,
+2025-04-11,Afternoon,M103,John,P002,44,43,43,3,30,Power cut,Need maintenance
+2025-04-12,Afternoon,M103,Meera,P001,52,44,132,5,0,,All good
+2025-04-14,Night,M102,Anita,P001,54,50,250,4,0,,Check sensor
+2025-04-11,Morning,M101,Raj,P001,58,50,150,4,0,,Check sensor
+2025-04-13,Morning,M103,John,P003,47,41,123,5,0,,
+2025-04-12,Night,M102,John,P002,46,45,90,1,0,,Check sensor
+2025-04-03,Afternoon,M101,Meera,P003,43,37,37,5,0,,Check sensor
+2025-04-10,Morning,M103,John,P003,60,50,50,1,0,,All good
+2025-04-13,Morning,M103,Anita,P003,56,47,47,2,0,,Need maintenance
+2025-04-02,Morning,M102,John,P001,41,36,108,3,0,,
+2025-04-03,Night,M103,Anita,P001,45,36,180,2,24,Maintenance,Need maintenance
+2025-04-08,Afternoon,M101,Raj,P001,53,44,176,3,28,Power cut,Check sensor
+2025-04-13,Morning,M103,Raj,P003,55,45,135,5,0,,Need maintenance
+2025-04-13,Morning,M102,Meera,P002,51,47,141,5,22,Power cut,All good
+2025-04-12,Morning,M103,Raj,P001,50,44,220,1,0,,Need maintenance
+2025-04-12,Night,M101,Meera,P002,46,44,88,1,25,Material shortage,Need maintenance
+2025-04-12,Morning,M101,Raj,P003,42,39,195,3,0,,
+2025-04-07,Afternoon,M101,Meera,P001,48,48,144,2,0,,Check sensor
+2025-04-13,Night,M102,Meera,P003,58,52,208,1,0,,Check sensor
+2025-04-15,Morning,M101,John,P002,43,33,165,5,0,,
+2025-04-12,Morning,M101,Raj,P002,53,53,106,2,0,,Check sensor
+2025-04-10,Morning,M101,Meera,P003,56,53,265,2,0,,Need maintenance
+2025-04-04,Morning,M102,Meera,P001,60,57,285,0,27,Material shortage,All good
+2025-04-11,Afternoon,M102,Meera,P001,43,37,111,3,0,,All good
+2025-04-10,Morning,M102,Raj,P001,60,59,177,5,19,Material shortage,Check sensor
+2025-04-01,Night,M102,Anita,P003,48,39,117,0,30,Power cut,Need maintenance
+2025-04-12,Morning,M101,Anita,P002,53,52,260,0,0,,Check sensor
+2025-04-14,Night,M103,John,P001,41,35,105,4,0,,All good
+2025-04-15,Afternoon,M103,John,P001,53,44,88,2,0,,Check sensor
+2025-04-15,Morning,M103,Raj,P003,60,52,260,4,0,,Check sensor
+2025-04-13,Night,M103,Meera,P002,53,52,52,3,6,Material shortage,All good
+2025-04-14,Night,M103,Meera,P003,41,40,200,0,0,,Need maintenance
+2025-04-04,Night,M102,Anita,P001,40,40,120,3,0,,All good
+2025-04-08,Night,M102,Anita,P001,49,43,86,3,19,Maintenance,Check sensor
+2025-04-04,Night,M103,Anita,P001,51,41,41,0,6,Machine issue,
+2025-04-01,Night,M103,Meera,P002,56,54,216,4,0,,
+2025-04-06,Afternoon,M103,John,P003,50,49,196,3,0,,All good
+2025-04-01,Night,M103,Raj,P001,52,42,168,4,29,Maintenance,Check sensor
+2025-04-08,Morning,M102,John,P002,42,40,120,2,16,Material shortage,Need maintenance
+2025-04-07,Morning,M101,Anita,P001,59,54,216,5,0,,Check sensor
+2025-04-02,Night,M103,Meera,P001,42,36,180,3,0,,All good
+2025-04-14,Night,M101,John,P002,59,56,168,2,0,,Check sensor
+2025-04-05,Night,M103,Raj,P001,52,52,104,1,0,,Check sensor
+2025-04-11,Afternoon,M103,Raj,P003,60,58,174,0,0,,
+2025-04-07,Afternoon,M101,Anita,P003,49,41,82,1,0,,All good
+2025-04-03,Night,M101,Anita,P001,40,35,70,5,0,,Need maintenance
+2025-04-03,Morning,M102,John,P001,47,42,210,1,0,,Need maintenance
+2025-04-13,Morning,M102,Raj,P003,52,46,184,4,0,,Check sensor
+2025-04-09,Night,M101,Raj,P003,49,43,86,4,0,,
+2025-04-06,Night,M102,Raj,P001,59,49,49,2,0,,
+2025-04-03,Night,M103,Anita,P003,46,46,138,0,9,Machine issue,
+2025-04-02,Afternoon,M102,John,P002,57,50,100,5,0,,Check sensor
+2025-04-07,Morning,M103,Anita,P003,48,48,96,2,0,,All good
+2025-04-02,Morning,M103,Anita,P001,50,44,176,3,0,,Need maintenance
+2025-04-12,Afternoon,M102,John,P001,60,56,168,5,0,,Check sensor
+2025-04-02,Afternoon,M101,Anita,P003,48,38,152,3,0,,
+2025-04-09,Night,M101,John,P003,40,31,93,4,0,,Need maintenance
+2025-04-05,Night,M103,Anita,P001,43,39,39,1,14,Power cut,Check sensor
+2025-04-07,Afternoon,M103,John,P003,53,51,204,5,0,,
+2025-04-04,Night,M102,Raj,P001,44,38,190,3,3,Machine issue,Check sensor
+2025-04-03,Night,M101,Raj,P001,55,54,216,5,0,,All good
+2025-04-11,Morning,M102,Meera,P001,42,36,108,2,0,,Need maintenance
+2025-04-05,Morning,M103,Anita,P001,60,52,156,5,19,Power cut,Need maintenance
+2025-04-04,Night,M103,Raj,P002,43,33,132,3,0,,All good
+2025-04-09,Morning,M101,John,P001,55,52,52,0,0,,All good
+2025-04-13,Night,M102,Meera,P002,55,55,55,5,0,,Check sensor
+2025-04-15,Night,M103,Anita,P003,50,44,88,3,0,,All good
+2025-04-14,Morning,M102,Raj,P001,55,45,180,1,15,,All good
+2025-04-02,Afternoon,M101,Raj,P001,45,43,43,5,0,,Need maintenance
+2025-04-09,Afternoon,M102,Anita,P003,55,52,156,5,0,,
+2025-04-03,Night,M102,John,P003,55,49,98,5,0,,Need maintenance
+2025-04-02,Afternoon,M103,Anita,P003,42,39,156,1,0,,
+2025-04-15,Morning,M103,Raj,P003,45,42,42,3,17,Maintenance,
+2025-04-06,Afternoon,M102,Raj,P002,48,48,144,2,0,,
+2025-04-15,Morning,M101,John,P002,44,40,40,3,0,,Need maintenance
+2025-04-10,Night,M102,Raj,P001,50,40,120,5,23,Maintenance,
+2025-04-13,Morning,M103,John,P001,55,51,51,2,7,Maintenance,
+2025-04-07,Night,M102,Raj,P003,60,51,51,4,0,,All good
+2025-04-15,Night,M102,Anita,P001,45,36,180,5,19,Material shortage,
+2025-04-08,Morning,M101,Raj,P002,58,58,174,3,0,,All good
+2025-04-10,Afternoon,M103,John,P002,55,48,192,4,0,,All good
+2025-04-06,Night,M102,John,P003,42,32,64,0,0,,
+2025-04-08,Afternoon,M103,Raj,P003,53,47,141,5,0,,Need maintenance
+2025-04-10,Afternoon,M101,Raj,P001,46,41,123,0,0,,Check sensor
+2025-04-10,Morning,M101,Raj,P001,46,46,92,4,0,,
+2025-04-08,Night,M102,John,P001,50,47,141,3,7,Machine issue,Need maintenance
+2025-04-08,Afternoon,M103,Anita,P001,46,39,39,2,0,,Need maintenance
+2025-04-10,Afternoon,M101,Raj,P001,53,44,220,4,0,,Check sensor
+2025-04-01,Morning,M101,John,P001,47,46,46,5,3,Maintenance,Need maintenance
+2025-04-05,Afternoon,M102,Raj,P001,46,40,160,3,0,,All good
+2025-04-01,Morning,M102,Anita,P003,59,49,49,2,0,,Check sensor
+2025-04-14,Afternoon,M103,John,P003,51,49,98,4,0,,Need maintenance
+2025-04-10,Morning,M103,Raj,P001,56,52,260,5,24,Maintenance,Need maintenance
+2025-04-04,Night,M101,Anita,P002,40,30,150,0,13,Power cut,All good
+2025-04-10,Afternoon,M103,Meera,P002,53,50,100,3,0,,Check sensor
+2025-04-04,Morning,M101,Anita,P002,58,54,54,3,12,Maintenance,All good
+2025-04-05,Afternoon,M103,John,P002,59,58,116,0,19,Maintenance,All good
+2025-04-08,Afternoon,M103,John,P002,46,38,76,1,0,,Check sensor
+2025-04-11,Morning,M101,Meera,P001,55,55,110,5,0,,Need maintenance
+2025-04-14,Morning,M102,John,P002,58,54,216,5,11,Material shortage,Check sensor
+2025-04-09,Morning,M101,Raj,P003,53,53,106,1,0,,Check sensor
+2025-04-14,Night,M102,Anita,P001,43,36,180,4,5,Power cut,Need maintenance
+2025-04-02,Morning,M103,Meera,P002,53,44,132,1,24,Material shortage,
+2025-04-06,Morning,M102,Raj,P003,47,38,114,3,11,Power cut,
+2025-04-11,Night,M103,Meera,P002,48,42,126,5,26,Machine issue,Need maintenance
+2025-04-10,Night,M102,Anita,P003,50,41,205,2,30,Maintenance,
+2025-04-11,Night,M101,Raj,P001,48,41,82,2,0,,Check sensor
+2025-04-05,Afternoon,M103,Meera,P001,44,42,126,3,0,,Need maintenance
+2025-04-14,Afternoon,M102,Anita,P001,50,47,141,4,27,Power cut,All good
+2025-04-11,Night,M103,John,P002,45,44,220,5,0,,Need maintenance
+2025-04-02,Morning,M101,John,P002,55,46,230,3,14,Power cut,
+2025-04-12,Afternoon,M103,Meera,P001,48,40,80,4,16,,Check sensor
+2025-04-14,Night,M102,John,P001,53,50,250,4,0,,All good
+2025-04-06,Afternoon,M102,Raj,P003,54,45,225,3,15,Maintenance,Need maintenance
+2025-04-04,Afternoon,M101,Anita,P001,56,51,102,0,24,Power cut,
+2025-04-05,Morning,M102,Anita,P001,41,31,31,3,0,,Check sensor
+2025-04-04,Afternoon,M102,Anita,P001,56,55,165,5,0,,Need maintenance
+2025-04-10,Morning,M101,John,P002,44,34,170,1,0,,
+2025-04-10,Night,M102,Raj,P001,54,49,196,1,0,,Need maintenance
+2025-04-08,Afternoon,M102,John,P002,59,49,147,3,0,,All good
+2025-04-13,Afternoon,M101,John,P002,48,47,188,0,0,,Need maintenance
+2025-04-12,Afternoon,M103,Meera,P001,40,39,39,1,0,,
+2025-04-06,Morning,M102,Meera,P001,40,31,31,0,28,Power cut,All good
+2025-04-07,Morning,M102,Anita,P001,59,53,106,0,0,,All good
+2025-04-01,Night,M101,Anita,P002,53,49,49,4,0,,All good
+2025-04-02,Morning,M101,John,P003,57,48,96,1,0,,All good
+2025-04-02,Morning,M102,Raj,P002,59,57,57,5,0,,Check sensor
+2025-04-12,Afternoon,M101,Raj,P003,48,47,94,5,16,Material shortage,All good
+2025-04-04,Morning,M103,John,P001,41,41,82,2,12,Power cut,Check sensor
+2025-04-14,Afternoon,M102,Raj,P003,58,51,51,2,0,,
+2025-04-06,Afternoon,M102,Raj,P001,54,53,53,0,0,,Need maintenance
+2025-04-02,Night,M102,Meera,P003,60,52,260,3,0,,Need maintenance
+2025-04-12,Night,M101,John,P002,43,37,185,2,0,,Need maintenance
+2025-04-01,Afternoon,M101,Meera,P002,42,42,168,2,26,Maintenance,
+2025-04-12,Afternoon,M102,Meera,P001,60,60,180,5,2,Machine issue,Need maintenance
+2025-04-14,Afternoon,M101,Anita,P003,50,48,192,1,0,,
+2025-04-02,Morning,M102,Meera,P002,49,49,147,3,7,Maintenance,All good
+2025-04-11,Night,M101,John,P003,40,38,152,0,0,,Check sensor
+2025-04-11,Night,M101,John,P003,52,47,47,4,0,,All good
+2025-04-06,Afternoon,M103,John,P003,50,42,126,1,0,,
+2025-04-01,Afternoon,M102,Anita,P002,51,47,141,3,0,,All good
+2025-04-06,Afternoon,M101,Raj,P001,51,43,215,1,0,,
+2025-04-07,Afternoon,M101,Raj,P002,47,43,172,5,0,,
+2025-04-12,Morning,M103,Raj,P001,47,39,117,3,0,,Need maintenance
+2025-04-04,Night,M103,John,P003,53,49,147,4,0,,
+2025-04-07,Afternoon,M101,John,P003,44,38,38,3,29,Material shortage,
+2025-04-05,Night,M102,Meera,P002,56,52,260,4,0,,All good
+2025-04-04,Night,M102,John,P003,45,39,195,3,16,,Need maintenance
+2025-04-14,Night,M103,Anita,P001,53,51,51,1,13,Material shortage,Need maintenance
+2025-04-13,Morning,M103,Raj,P001,57,53,159,4,0,,All good
+2025-04-06,Afternoon,M102,Anita,P003,60,54,270,2,0,,Check sensor
+2025-04-02,Morning,M103,Raj,P003,53,47,188,1,19,Maintenance,All good
+2025-04-08,Morning,M103,Meera,P001,41,36,144,5,0,,All good
+2025-04-05,Night,M103,Meera,P002,53,47,47,2,0,,
+2025-04-07,Night,M103,Anita,P001,44,42,168,2,0,,
+2025-04-13,Night,M102,Raj,P002,49,44,220,4,0,,Check sensor
+2025-04-14,Night,M102,Anita,P003,55,49,196,1,0,,All good
+2025-04-04,Morning,M102,Anita,P003,44,35,70,1,0,,
+2025-04-10,Afternoon,M102,Raj,P002,46,43,129,5,0,,Need maintenance
+2025-04-08,Afternoon,M101,Anita,P002,41,37,74,2,19,Material shortage,Check sensor
+2025-04-11,Night,M102,John,P001,58,49,147,1,0,,
+2025-04-03,Afternoon,M101,Anita,P001,55,54,108,1,0,,Need maintenance
+2025-04-08,Afternoon,M103,John,P002,49,39,156,2,0,,Need maintenance
+2025-04-05,Morning,M101,Meera,P001,49,44,220,2,0,,Check sensor
+2025-04-15,Afternoon,M101,John,P001,50,48,192,4,21,Maintenance,Need maintenance
+2025-04-09,Morning,M102,Raj,P003,56,47,141,0,0,,
+2025-04-06,Afternoon,M102,Meera,P001,47,38,190,3,26,Power cut,All good
+2025-04-09,Afternoon,M101,Anita,P003,53,43,86,5,0,,Check sensor
+2025-04-10,Afternoon,M103,Anita,P002,45,35,175,0,2,Machine issue,
+2025-04-03,Night,M103,Raj,P002,45,45,225,4,0,,
+2025-04-07,Night,M101,Raj,P002,60,57,57,0,0,,All good
+2025-04-13,Morning,M101,John,P001,41,40,120,2,0,,All good
+2025-04-15,Night,M102,John,P002,40,32,160,4,0,,All good
+2025-04-05,Morning,M102,Raj,P002,51,51,102,1,0,,Check sensor
+2025-04-05,Afternoon,M101,John,P003,59,51,153,1,25,Maintenance,
+2025-04-10,Night,M103,Anita,P001,48,47,94,4,0,,Check sensor
+2025-04-06,Night,M102,Meera,P001,46,37,185,4,2,Machine issue,
+2025-04-09,Afternoon,M102,Raj,P001,51,49,49,2,0,,Check sensor
+2025-04-12,Night,M102,Meera,P002,46,42,210,2,0,,Need maintenance
+2025-04-11,Night,M102,Meera,P003,41,39,195,2,0,,
+2025-04-11,Morning,M103,Raj,P001,46,42,210,4,0,,Need maintenance
+2025-04-13,Morning,M103,Meera,P001,41,41,164,1,1,Machine issue,
+2025-04-14,Morning,M102,Meera,P002,48,44,176,4,0,,
+2025-04-05,Morning,M102,Meera,P003,40,40,160,0,0,,Need maintenance
+2025-04-01,Morning,M101,John,P002,45,36,72,0,27,Power cut,Check sensor
+2025-04-02,Night,M101,Raj,P001,60,58,232,4,0,,
+2025-04-03,Afternoon,M103,Raj,P001,46,43,43,2,17,Material shortage,All good
+2025-04-15,Morning,M103,John,P002,44,34,102,4,10,Power cut,Need maintenance
+2025-04-06,Morning,M101,Anita,P002,48,40,120,5,15,Maintenance,
+2025-04-03,Afternoon,M103,Meera,P002,41,39,39,4,21,Power cut,Check sensor
+2025-04-14,Afternoon,M101,Anita,P001,43,33,165,1,0,,Check sensor
+2025-04-04,Night,M103,Anita,P002,41,37,185,2,10,Machine issue,All good
+2025-04-09,Night,M103,Raj,P003,60,55,165,0,0,,
+2025-04-11,Night,M101,John,P003,54,46,138,5,23,Maintenance,All good
+2025-04-14,Afternoon,M102,Meera,P003,57,56,112,2,1,Power cut,
+2025-04-11,Night,M103,John,P001,59,51,255,2,30,Power cut,Need maintenance
+2025-04-14,Morning,M103,Meera,P001,44,37,185,4,0,,All good
+2025-04-05,Afternoon,M102,John,P001,40,32,32,3,12,Machine issue,Need maintenance
+2025-04-03,Night,M101,John,P003,57,49,98,3,0,,Need maintenance
+2025-04-07,Night,M103,John,P003,41,36,36,4,0,,All good
+2025-04-10,Night,M101,Raj,P002,43,42,168,3,0,,All good
+2025-04-13,Night,M102,John,P001,56,51,51,0,0,,Need maintenance
+2025-04-15,Morning,M102,John,P001,43,36,108,5,0,,Check sensor
+2025-04-04,Morning,M101,Anita,P001,60,59,118,1,16,,All good
+2025-04-08,Night,M102,Anita,P003,40,34,170,4,27,Material shortage,Check sensor
+2025-04-03,Night,M101,Raj,P001,51,44,88,4,0,,
+2025-04-08,Afternoon,M102,Raj,P003,51,41,164,5,0,,Check sensor
+2025-04-07,Afternoon,M102,Anita,P003,57,47,235,0,0,,
+2025-04-13,Morning,M101,John,P003,56,47,94,5,0,,All good
+2025-04-06,Morning,M102,Raj,P002,59,49,245,2,0,,
+2025-04-05,Afternoon,M103,John,P003,48,41,123,5,0,,
+2025-04-05,Night,M102,John,P001,55,53,212,1,9,Material shortage,Check sensor
+2025-04-02,Afternoon,M103,Meera,P002,48,45,45,4,0,,
+2025-04-14,Night,M102,Meera,P001,42,42,84,3,0,,Need maintenance
+2025-04-13,Morning,M103,Meera,P002,60,55,165,3,0,,Need maintenance
+2025-04-13,Night,M101,Anita,P003,43,36,36,5,4,,Check sensor
+2025-04-01,Afternoon,M101,Anita,P002,57,51,204,0,0,,Need maintenance
+2025-04-11,Afternoon,M102,Meera,P003,47,38,76,5,0,,All good
+2025-04-03,Morning,M101,Anita,P001,43,37,74,3,0,,Check sensor
+2025-04-07,Night,M102,John,P002,57,56,224,0,0,,
+2025-04-08,Morning,M103,Anita,P002,44,41,123,0,0,,All good
+2025-04-09,Afternoon,M101,Meera,P003,56,49,49,2,0,,All good
+2025-04-01,Night,M101,Raj,P001,46,40,40,5,0,,
+2025-04-03,Night,M103,Anita,P002,60,56,280,5,0,,Check sensor
+2025-04-14,Morning,M101,John,P001,50,43,215,2,0,,Need maintenance
+2025-04-13,Morning,M101,Meera,P003,45,43,129,1,0,,Need maintenance
+2025-04-08,Morning,M101,Raj,P003,54,54,270,0,0,,
+2025-04-01,Morning,M101,Anita,P001,53,43,215,4,0,,
+2025-04-10,Night,M103,John,P002,49,49,147,2,0,,
+2025-04-10,Morning,M102,Meera,P002,40,38,76,3,0,,
+2025-04-04,Night,M103,Raj,P002,48,43,172,5,0,,Need maintenance
+2025-04-09,Afternoon,M103,Raj,P002,45,35,35,2,0,,All good
+2025-04-13,Night,M102,John,P003,40,32,160,1,14,Power cut,
+2025-04-03,Afternoon,M101,Anita,P003,42,37,111,2,0,,Check sensor
+2025-04-03,Afternoon,M103,Raj,P001,50,43,86,4,0,,All good
+2025-04-07,Morning,M102,Raj,P003,59,51,51,0,0,,All good
+2025-04-06,Night,M101,John,P003,47,47,141,1,0,,All good
+2025-04-12,Morning,M101,Anita,P001,45,44,176,0,0,,
+2025-04-02,Morning,M103,Anita,P001,47,38,76,1,0,,All good
+2025-04-02,Morning,M102,Meera,P002,42,38,190,5,0,,Check sensor
+2025-04-03,Night,M102,Meera,P003,42,42,42,2,0,,
+2025-04-04,Night,M103,Anita,P003,42,34,136,2,21,Power cut,All good
+2025-04-05,Afternoon,M101,Raj,P001,56,48,144,2,0,,Need maintenance
+2025-04-07,Afternoon,M103,Meera,P002,46,39,195,4,0,,Check sensor
+2025-04-14,Morning,M101,John,P001,52,46,184,0,0,,
+2025-04-12,Afternoon,M102,Meera,P001,50,44,220,3,0,,Need maintenance
+2025-04-03,Morning,M103,Meera,P001,59,57,285,4,0,,Check sensor
+2025-04-01,Morning,M101,Raj,P002,49,45,225,5,0,,Check sensor
+2025-04-01,Night,M102,Anita,P001,48,48,192,4,0,,
+2025-04-14,Afternoon,M101,Raj,P002,54,50,100,3,0,,Need maintenance
+2025-04-15,Morning,M103,John,P002,58,58,116,5,2,,Need maintenance
+2025-04-06,Morning,M101,Meera,P003,54,46,138,5,0,,All good
+2025-04-05,Afternoon,M101,Anita,P002,50,49,98,5,8,Maintenance,All good
+2025-04-12,Afternoon,M103,Meera,P002,41,33,99,1,25,Power cut,All good
+2025-04-12,Morning,M103,Anita,P001,40,37,185,5,0,,
+2025-04-07,Afternoon,M103,John,P001,47,40,80,2,0,,Need maintenance
+2025-04-15,Morning,M101,Meera,P002,54,53,212,1,0,,Need maintenance
+2025-04-14,Night,M102,Raj,P001,47,43,215,3,0,,
+2025-04-04,Morning,M103,Raj,P001,58,54,162,3,0,,Need maintenance
+2025-04-07,Night,M102,John,P001,52,48,96,3,0,,Need maintenance
+2025-04-11,Afternoon,M102,Raj,P001,54,46,138,1,0,,Check sensor
+2025-04-03,Morning,M103,Raj,P001,41,34,68,0,0,,Check sensor
+2025-04-14,Night,M103,Raj,P002,46,46,138,4,0,,
+2025-04-09,Afternoon,M102,Anita,P001,47,38,190,3,0,,Check sensor
+2025-04-09,Morning,M101,Meera,P003,57,54,216,0,12,,Need maintenance
+2025-04-06,Night,M102,Anita,P003,51,51,153,0,0,,Need maintenance
+2025-04-01,Morning,M102,Meera,P002,60,55,55,5,0,,
+2025-04-04,Afternoon,M103,Anita,P003,44,36,144,3,0,,Check sensor
+2025-04-07,Night,M103,Meera,P002,45,36,180,4,0,,All good
+2025-04-03,Afternoon,M103,Raj,P003,42,39,117,2,0,,
+2025-04-05,Afternoon,M103,Anita,P002,50,40,120,3,0,,All good
+2025-04-13,Morning,M101,Raj,P003,45,35,105,5,0,,
+2025-04-05,Morning,M102,Anita,P002,49,47,47,0,1,Machine issue,Check sensor
+2025-04-02,Morning,M103,John,P001,43,43,215,3,0,,
+2025-04-07,Night,M102,John,P003,48,46,138,0,0,,
+2025-04-12,Afternoon,M101,Meera,P003,54,50,150,4,0,,All good
+2025-04-08,Afternoon,M101,Raj,P003,46,43,172,5,15,Machine issue,
+2025-04-09,Night,M103,Anita,P001,49,49,49,1,0,,All good
+2025-04-11,Morning,M103,Meera,P001,46,36,108,3,0,,Need maintenance
+2025-04-12,Afternoon,M103,Meera,P002,46,46,138,1,0,,All good
+2025-04-05,Morning,M103,Meera,P002,47,37,148,1,0,,Check sensor
+2025-04-04,Night,M101,Meera,P001,42,42,168,2,0,,All good
+2025-04-03,Morning,M102,Raj,P002,52,51,51,3,0,,All good
+2025-04-15,Afternoon,M103,Anita,P002,53,49,49,2,0,,Check sensor
+2025-04-09,Afternoon,M101,Meera,P002,58,56,112,0,0,,Check sensor
+2025-04-08,Morning,M101,Meera,P001,43,36,72,5,0,,Check sensor
+2025-04-08,Afternoon,M103,Anita,P003,54,46,92,4,6,Material shortage,All good
+2025-04-12,Afternoon,M102,Raj,P003,45,37,37,3,0,,Need maintenance
+2025-04-13,Afternoon,M101,Anita,P002,53,48,192,0,0,,Need maintenance
+2025-04-01,Morning,M101,John,P002,60,50,100,5,26,,Need maintenance
+2025-04-04,Afternoon,M102,Raj,P002,40,39,78,3,0,,All good
+2025-04-04,Morning,M103,Raj,P001,54,52,156,5,0,,
+2025-04-10,Afternoon,M101,John,P002,54,47,235,3,9,Material shortage,
+2025-04-14,Night,M103,John,P003,46,36,144,0,23,Power cut,Check sensor
+2025-04-10,Morning,M102,Meera,P002,45,43,86,4,30,Material shortage,Need maintenance
+2025-04-01,Night,M101,Meera,P001,53,46,230,0,0,,Need maintenance
+2025-04-07,Morning,M102,Meera,P002,41,31,31,5,24,Machine issue,Check sensor
+2025-04-12,Morning,M103,John,P003,44,39,78,4,0,,Need maintenance
+2025-04-09,Night,M102,Raj,P002,56,49,196,0,0,,Need maintenance
+2025-04-06,Night,M103,Meera,P003,55,53,106,1,10,Machine issue,Check sensor
+2025-04-10,Morning,M101,John,P003,46,40,120,2,1,,Need maintenance
+2025-04-08,Afternoon,M102,Meera,P003,45,40,120,3,0,,Need maintenance
+2025-04-13,Night,M102,Meera,P001,44,43,43,3,0,,All good
+2025-04-07,Night,M101,Raj,P002,58,48,144,0,0,,Check sensor
+2025-04-11,Night,M101,Meera,P002,44,39,195,3,0,,
+2025-04-11,Afternoon,M103,Raj,P003,44,37,148,2,0,,
+2025-04-10,Morning,M103,Anita,P003,55,49,49,2,0,,Check sensor
+2025-04-02,Afternoon,M101,Meera,P001,57,52,104,2,10,Power cut,
+2025-04-05,Night,M101,Meera,P001,50,47,47,1,10,Maintenance,All good
+2025-04-13,Night,M102,Anita,P003,49,46,230,4,11,Material shortage,Need maintenance
+2025-04-11,Morning,M101,Meera,P002,54,44,132,3,0,,All good
+2025-04-13,Morning,M101,Anita,P002,59,55,220,2,0,,All good
+2025-04-14,Night,M101,Meera,P003,42,42,126,5,0,,Check sensor
+2025-04-03,Afternoon,M103,Raj,P001,56,54,108,4,0,,All good
+2025-04-01,Morning,M102,Anita,P002,59,51,51,0,0,,Need maintenance
+2025-04-02,Afternoon,M102,John,P002,52,42,126,3,4,Machine issue,All good
+2025-04-10,Morning,M103,Raj,P001,49,46,184,5,0,,All good
+2025-04-14,Night,M101,Raj,P003,56,54,216,5,0,,Check sensor
+2025-04-10,Night,M101,John,P003,57,57,114,2,0,,
+2025-04-01,Night,M103,John,P003,58,56,56,5,0,,Need maintenance
+2025-04-09,Morning,M101,Raj,P002,51,46,184,3,0,,Check sensor
+2025-04-09,Night,M101,John,P001,42,36,108,2,0,,Check sensor
+2025-04-06,Morning,M102,John,P003,49,41,205,2,0,,Need maintenance
+2025-04-01,Morning,M102,Meera,P002,45,36,180,4,0,,Need maintenance
+2025-04-06,Night,M102,Raj,P001,40,40,80,1,0,,Check sensor
+2025-04-04,Afternoon,M103,Meera,P002,52,44,88,0,23,Machine issue,Check sensor
+2025-04-10,Afternoon,M101,Anita,P002,57,51,51,1,0,,Need maintenance
+2025-04-11,Night,M103,Anita,P002,60,50,50,1,27,Material shortage,Need maintenance
+2025-04-02,Afternoon,M101,John,P003,43,33,66,1,0,,Need maintenance
+2025-04-09,Night,M101,Anita,P001,53,48,144,4,0,,Check sensor
+2025-04-06,Night,M101,Raj,P001,52,42,42,1,0,,Need maintenance
+2025-04-06,Afternoon,M103,Meera,P003,58,55,55,2,10,Maintenance,All good
+2025-04-08,Night,M103,John,P003,52,47,141,4,0,,Need maintenance
+2025-04-09,Afternoon,M101,Raj,P003,40,36,36,0,0,,Check sensor
+2025-04-06,Night,M101,Meera,P003,46,36,36,0,25,Power cut,All good
+2025-04-06,Afternoon,M103,Meera,P003,47,44,44,4,15,Power cut,Check sensor
+2025-04-05,Night,M103,Meera,P002,53,47,235,5,3,,
+2025-04-06,Afternoon,M103,John,P003,40,30,30,0,0,,Check sensor
+2025-04-11,Afternoon,M101,Raj,P002,45,40,200,0,23,Maintenance,All good
+2025-04-12,Night,M102,Anita,P003,47,37,148,0,0,,Need maintenance
+2025-04-11,Afternoon,M103,Meera,P001,46,37,74,0,0,,Need maintenance
+2025-04-08,Afternoon,M101,Anita,P003,51,51,102,2,12,Material shortage,All good
+2025-04-09,Night,M101,Raj,P002,48,43,43,5,0,,All good
+2025-04-01,Afternoon,M102,Meera,P003,57,56,224,5,0,,Check sensor
+2025-04-04,Afternoon,M101,Meera,P002,51,41,41,0,23,Power cut,
+2025-04-08,Night,M103,Raj,P003,43,43,86,1,0,,
+2025-04-06,Morning,M101,Anita,P001,47,43,172,2,0,,Need maintenance
+2025-04-08,Night,M102,Raj,P001,45,35,175,3,21,Material shortage,All good
+2025-04-06,Morning,M102,Anita,P002,49,40,80,5,0,,All good
+2025-04-11,Night,M103,Raj,P002,46,42,168,3,27,Material shortage,Check sensor
+2025-04-14,Morning,M101,Anita,P002,50,46,138,1,0,,Check sensor
+2025-04-14,Morning,M101,John,P001,41,33,99,3,0,,Check sensor
+2025-04-09,Night,M101,Raj,P002,47,42,168,0,0,,
+2025-04-15,Night,M101,John,P002,41,36,144,2,0,,Check sensor
+2025-04-10,Morning,M102,Meera,P003,55,51,102,5,0,,
+2025-04-13,Night,M101,Raj,P001,54,46,92,3,27,,Check sensor
+2025-04-12,Night,M101,John,P002,50,50,50,4,0,,Check sensor
+2025-04-09,Afternoon,M102,John,P002,52,52,52,3,21,Maintenance,
+2025-04-07,Night,M101,John,P002,59,53,265,3,0,,
+2025-04-10,Afternoon,M103,John,P002,41,41,41,1,0,,Need maintenance
+2025-04-11,Morning,M101,Meera,P002,51,51,102,0,0,,Check sensor
+2025-04-06,Night,M101,Raj,P002,48,41,41,1,0,,All good
+2025-04-07,Morning,M103,Raj,P003,51,51,153,2,12,Material shortage,Check sensor
+2025-04-03,Night,M102,John,P003,45,38,152,3,6,Power cut,
+2025-04-11,Morning,M103,Anita,P001,42,35,140,3,20,Power cut,Check sensor
+2025-04-12,Night,M102,Anita,P002,53,53,159,4,0,,
+2025-04-06,Night,M101,Meera,P002,58,51,102,1,20,Machine issue,Check sensor
+2025-04-02,Night,M101,John,P003,59,52,260,4,0,,Check sensor
+2025-04-14,Night,M102,Meera,P002,45,44,220,2,0,,
+2025-04-11,Morning,M102,Raj,P003,51,47,47,3,4,Power cut,Need maintenance
+2025-04-05,Afternoon,M103,Anita,P001,50,47,235,1,25,,All good
+2025-04-14,Morning,M103,John,P001,46,39,156,4,18,Machine issue,Need maintenance
+2025-04-13,Night,M102,Meera,P003,60,51,51,3,0,,
+2025-04-04,Morning,M103,John,P003,54,47,235,1,0,,
+2025-04-09,Night,M101,Raj,P002,51,46,92,3,0,,
+2025-04-12,Night,M101,Meera,P002,40,34,102,0,0,,Check sensor
+2025-04-04,Night,M103,Meera,P002,46,41,41,5,0,,All good
+2025-04-07,Night,M103,Anita,P002,58,54,162,1,30,Material shortage,All good
+2025-04-06,Morning,M103,John,P003,58,49,245,3,15,Power cut,
+2025-04-11,Morning,M101,John,P002,44,34,102,1,0,,Check sensor
+2025-04-03,Morning,M103,Anita,P002,49,41,164,2,0,,All good
+2025-04-12,Night,M101,Anita,P002,50,44,220,2,0,,Need maintenance
+2025-04-11,Morning,M102,Raj,P003,49,45,180,4,0,,
+2025-04-02,Night,M103,Meera,P003,50,47,47,1,0,,
+2025-04-01,Morning,M102,Meera,P001,41,31,62,0,0,,All good
+2025-04-06,Morning,M102,John,P001,55,48,144,2,0,,
+2025-04-08,Morning,M102,Meera,P002,59,51,204,4,0,,
+2025-04-01,Afternoon,M101,Meera,P003,42,40,40,2,0,,Check sensor
+2025-04-10,Morning,M103,Anita,P002,47,41,41,3,5,Machine issue,Check sensor
+2025-04-04,Morning,M103,Meera,P001,52,49,196,0,18,Maintenance,All good
+2025-04-11,Night,M101,Meera,P003,43,36,36,3,0,,
+2025-04-13,Morning,M101,John,P001,56,51,102,1,0,,All good
+2025-04-14,Morning,M103,Meera,P002,55,51,102,1,21,Material shortage,Check sensor
+2025-04-13,Morning,M102,John,P002,43,35,35,5,29,,All good
+2025-04-15,Night,M101,Anita,P002,46,43,86,3,12,Machine issue,Need maintenance
+2025-04-04,Afternoon,M102,Meera,P001,49,40,200,3,0,,Check sensor
+2025-04-01,Night,M103,Raj,P002,55,45,45,4,0,,All good
+2025-04-07,Morning,M101,Anita,P001,40,40,160,3,0,,All good
+2025-04-02,Afternoon,M101,Meera,P003,58,53,265,0,0,,Need maintenance
+2025-04-07,Afternoon,M101,Raj,P003,54,54,108,2,15,Maintenance,
+2025-04-15,Night,M103,Meera,P002,58,57,285,4,29,Maintenance,All good
+2025-04-05,Afternoon,M102,Raj,P001,50,43,215,1,0,,Check sensor
+2025-04-03,Morning,M103,Anita,P002,49,49,98,1,0,,Check sensor
+2025-04-05,Morning,M102,Raj,P001,56,47,235,4,0,,
+2025-04-08,Morning,M102,Meera,P002,50,44,220,3,0,,Need maintenance
+2025-04-06,Afternoon,M102,Raj,P003,55,48,48,3,23,Power cut,
+2025-04-01,Morning,M102,Anita,P001,59,59,177,3,0,,Check sensor
+2025-04-01,Night,M102,John,P001,40,36,180,3,1,Material shortage,Check sensor
+2025-04-01,Night,M103,Anita,P001,47,45,180,0,0,,All good
+2025-04-04,Afternoon,M101,Anita,P002,56,56,224,2,0,,All good
+2025-04-04,Afternoon,M103,Anita,P002,44,41,82,2,0,,Need maintenance
+2025-04-06,Morning,M103,Raj,P001,53,51,102,5,0,,
+2025-04-14,Night,M102,Anita,P002,56,49,245,1,0,,Check sensor
+2025-04-02,Morning,M103,Anita,P001,58,53,106,3,0,,All good
+2025-04-11,Night,M102,Raj,P003,40,32,64,2,0,,
+2025-04-14,Night,M103,Meera,P001,45,36,144,5,0,,All good
+2025-04-15,Night,M101,John,P002,47,45,135,4,0,,All good
+2025-04-07,Night,M102,Anita,P003,55,46,92,0,0,,Check sensor
+2025-04-03,Morning,M102,Raj,P003,50,44,176,0,13,Material shortage,Check sensor
+2025-04-04,Morning,M102,John,P002,45,40,40,5,0,,All good
+2025-04-06,Afternoon,M103,Raj,P002,58,52,208,2,0,,All good
+2025-04-12,Afternoon,M102,Meera,P003,60,58,58,3,1,Power cut,
+2025-04-10,Afternoon,M103,Anita,P003,52,51,255,1,17,Maintenance,Check sensor
+2025-04-04,Morning,M101,John,P003,60,52,260,2,5,Power cut,All good
+2025-04-06,Afternoon,M101,Raj,P001,56,52,260,4,0,,
+2025-04-13,Night,M101,Meera,P002,49,40,80,2,0,,All good
+2025-04-15,Morning,M102,Anita,P002,40,38,190,5,0,,Check sensor
+2025-04-11,Night,M102,Anita,P003,48,48,48,3,0,,Need maintenance
+2025-04-01,Afternoon,M102,Anita,P003,43,43,215,3,0,,Check sensor
+2025-04-02,Morning,M101,Raj,P001,45,41,41,5,0,,Check sensor
+2025-04-03,Night,M102,Anita,P001,49,44,88,4,0,,
+2025-04-02,Morning,M101,Anita,P002,51,49,98,0,0,,Need maintenance
+2025-04-09,Afternoon,M103,John,P003,57,55,110,5,8,Maintenance,
+2025-04-09,Night,M101,Anita,P003,55,49,147,4,0,,Need maintenance
+2025-04-05,Morning,M103,John,P001,42,33,99,5,21,Power cut,Check sensor
+2025-04-11,Afternoon,M101,John,P003,40,39,117,0,0,,Need maintenance
+2025-04-03,Afternoon,M103,John,P003,42,38,114,3,0,,All good
+2025-04-13,Afternoon,M103,Anita,P001,60,57,228,3,0,,Check sensor
+2025-04-04,Afternoon,M103,Anita,P003,47,37,74,2,0,,
+2025-04-07,Night,M101,Raj,P002,55,46,184,1,0,,Check sensor
+2025-04-05,Afternoon,M103,Meera,P003,54,46,46,5,0,,Check sensor
+2025-04-01,Afternoon,M102,John,P002,54,49,196,2,0,,Need maintenance
+2025-04-02,Afternoon,M103,John,P002,59,49,49,4,9,Machine issue,All good
+2025-04-03,Afternoon,M103,John,P001,48,42,210,3,0,,Check sensor
+2025-04-10,Morning,M101,John,P001,40,37,185,2,0,,Check sensor
+2025-04-01,Afternoon,M101,Raj,P002,44,38,190,1,0,,All good
+2025-04-09,Night,M101,Raj,P001,54,53,53,4,8,Material shortage,Check sensor
+2025-04-13,Morning,M101,Raj,P002,53,52,208,4,0,,Need maintenance
+2025-04-11,Morning,M101,Anita,P003,50,42,168,5,13,Power cut,All good
+2025-04-14,Afternoon,M101,John,P003,49,48,144,2,28,Machine issue,Need maintenance
+2025-04-02,Night,M101,Raj,P001,42,40,200,1,0,,Need maintenance
+2025-04-04,Night,M103,Meera,P003,47,42,168,2,8,Power cut,
+2025-04-09,Morning,M103,John,P001,46,37,74,4,19,Machine issue,Check sensor
+2025-04-12,Night,M103,Anita,P001,50,45,180,3,0,,Check sensor
+2025-04-02,Night,M101,Meera,P002,42,32,128,3,0,,Need maintenance
+2025-04-02,Afternoon,M101,Meera,P002,52,44,132,0,7,,
+2025-04-07,Morning,M103,John,P001,47,46,46,1,0,,
+2025-04-10,Night,M103,Meera,P001,44,34,68,2,0,,All good
+2025-04-08,Afternoon,M102,Anita,P002,50,41,123,3,0,,
+2025-04-07,Afternoon,M102,Anita,P001,48,43,43,3,17,Machine issue,All good
+2025-04-12,Afternoon,M103,Meera,P001,55,46,46,1,0,,Need maintenance
+2025-04-14,Night,M103,Anita,P001,45,40,40,5,0,,Check sensor
+2025-04-03,Night,M101,Meera,P002,51,41,82,4,0,,All good
+2025-04-02,Morning,M103,John,P003,51,51,153,0,5,Machine issue,
+2025-04-10,Night,M103,Anita,P002,45,42,42,0,25,Power cut,Check sensor
+2025-04-05,Night,M103,Raj,P002,42,34,136,3,0,,All good
+2025-04-14,Afternoon,M102,John,P003,41,39,78,0,0,,Need maintenance
+2025-04-14,Morning,M101,Anita,P001,43,36,144,1,0,,Need maintenance
+2025-04-03,Morning,M101,Raj,P002,50,42,168,1,0,,All good
+2025-04-01,Afternoon,M102,John,P002,41,34,102,2,0,,Need maintenance
+2025-04-02,Night,M103,Meera,P002,41,41,82,4,0,,
+2025-04-07,Morning,M101,Anita,P001,60,59,295,2,0,,All good
+2025-04-13,Afternoon,M103,Meera,P002,44,39,156,4,0,,Check sensor
+2025-04-10,Afternoon,M103,John,P002,45,38,114,2,0,,All good
+2025-04-15,Night,M103,Anita,P003,54,44,44,1,23,Machine issue,Need maintenance
+2025-04-12,Afternoon,M101,John,P001,59,49,245,3,0,,Need maintenance
+2025-04-12,Afternoon,M102,Anita,P001,41,40,120,3,0,,All good
+2025-04-12,Night,M102,John,P001,45,36,144,2,0,,All good
+2025-04-02,Afternoon,M101,Anita,P002,59,56,280,5,0,,
+2025-04-06,Afternoon,M102,John,P001,58,56,112,5,0,,Need maintenance
+2025-04-14,Night,M103,Raj,P003,55,53,212,1,0,,All good
+2025-04-12,Morning,M103,Raj,P002,51,45,180,3,0,,Check sensor
+2025-04-12,Morning,M102,Meera,P001,40,35,140,0,0,,Need maintenance
+2025-04-14,Night,M103,John,P002,40,32,64,0,0,,All good
+2025-04-12,Morning,M102,Raj,P002,54,44,44,5,0,,Need maintenance
+2025-04-13,Afternoon,M102,Anita,P003,40,40,80,1,0,,Need maintenance
+2025-04-12,Morning,M103,Anita,P001,51,48,48,1,0,,
+2025-04-05,Night,M103,John,P002,41,38,190,5,6,Power cut,All good
+2025-04-09,Night,M101,Meera,P002,59,59,295,0,0,,Check sensor
+2025-04-08,Night,M102,John,P002,58,49,98,2,24,,
+2025-04-14,Afternoon,M101,Anita,P003,52,46,184,1,0,,All good
+2025-04-02,Afternoon,M103,Raj,P003,47,44,220,5,0,,Check sensor
+2025-04-11,Morning,M102,Raj,P002,57,56,280,5,20,,Need maintenance
+2025-04-11,Morning,M103,Raj,P002,43,42,168,0,0,,Need maintenance
+2025-04-05,Night,M103,Meera,P001,55,55,165,1,0,,Need maintenance
+2025-04-14,Afternoon,M101,Anita,P003,56,54,108,5,0,,Need maintenance
+2025-04-08,Afternoon,M101,Anita,P001,50,44,220,5,13,Maintenance,Need maintenance
+2025-04-07,Afternoon,M102,Raj,P001,45,36,180,5,1,Machine issue,All good
+2025-04-03,Night,M102,Anita,P002,60,55,275,5,0,,All good
+2025-04-09,Night,M102,John,P002,42,42,168,3,11,,
+2025-04-02,Morning,M103,Raj,P001,48,47,188,4,30,,Need maintenance
+2025-04-08,Morning,M103,Meera,P001,54,46,230,0,19,Power cut,
+2025-04-15,Night,M102,John,P002,40,33,99,0,0,,Check sensor
+2025-04-08,Afternoon,M103,Raj,P003,60,51,153,4,0,,Need maintenance
+2025-04-03,Afternoon,M102,Anita,P001,51,45,225,3,25,,
+2025-04-11,Night,M102,Raj,P003,48,41,164,5,0,,
+2025-04-04,Morning,M101,Meera,P001,51,43,43,5,0,,
+2025-04-05,Morning,M102,Meera,P003,49,47,141,1,0,,
+2025-04-10,Night,M101,Raj,P003,44,38,38,1,0,,Need maintenance
+2025-04-04,Night,M101,Meera,P001,51,49,49,2,0,,Need maintenance
+2025-04-11,Morning,M101,Raj,P001,53,49,147,4,0,,Check sensor
+2025-04-01,Night,M102,John,P003,46,46,138,5,0,,
+2025-04-06,Afternoon,M102,Anita,P002,47,38,152,1,0,,
+2025-04-06,Morning,M103,John,P001,56,51,204,4,0,,All good
+2025-04-04,Afternoon,M102,Anita,P003,45,37,148,5,0,,
+2025-04-11,Afternoon,M102,Raj,P001,41,34,102,4,0,,Need maintenance
+2025-04-09,Afternoon,M102,Meera,P002,56,52,156,5,0,,Need maintenance
+2025-04-01,Night,M101,Meera,P001,45,37,185,3,0,,Need maintenance
+2025-04-15,Afternoon,M102,John,P001,45,35,140,0,21,Material shortage,All good
+2025-04-11,Morning,M103,Anita,P002,50,43,86,4,0,,
+2025-04-02,Night,M103,Anita,P003,60,55,55,5,26,Material shortage,Check sensor
+2025-04-10,Afternoon,M103,Raj,P002,55,50,50,0,13,,Check sensor
+2025-04-03,Night,M103,Meera,P001,40,35,140,4,0,,Need maintenance
+2025-04-08,Night,M102,Raj,P003,44,44,176,0,0,,
+2025-04-05,Afternoon,M101,Raj,P001,50,50,100,5,0,,All good
+2025-04-05,Morning,M102,Meera,P001,53,47,188,2,0,,Need maintenance
+2025-04-09,Morning,M102,John,P002,54,45,135,1,0,,
+2025-04-03,Afternoon,M103,Anita,P002,48,42,168,1,0,,All good
+2025-04-02,Night,M101,Raj,P002,44,39,117,3,0,,Need maintenance
+2025-04-09,Night,M103,Raj,P001,45,44,220,2,0,,
+2025-04-04,Night,M103,Anita,P001,51,47,141,3,2,Maintenance,
+2025-04-03,Morning,M102,Meera,P001,60,55,110,3,0,,All good
+2025-04-10,Night,M102,Anita,P001,58,53,53,0,0,,Need maintenance
+2025-04-08,Night,M101,Raj,P002,47,43,86,0,0,,All good
+2025-04-06,Morning,M103,John,P003,53,44,176,2,0,,Check sensor
+2025-04-04,Night,M101,Anita,P003,56,55,275,3,0,,Need maintenance
+2025-04-03,Morning,M103,Anita,P001,50,40,120,2,0,,All good
+2025-04-02,Afternoon,M102,Raj,P001,42,32,32,3,0,,All good
+2025-04-01,Morning,M101,John,P002,47,38,114,0,0,,Check sensor
+2025-04-02,Afternoon,M102,Anita,P003,48,44,132,4,0,,All good
+2025-04-05,Morning,M101,Raj,P002,51,41,41,3,0,,Check sensor
+2025-04-04,Morning,M102,Raj,P003,58,53,265,1,0,,Check sensor
+2025-04-14,Afternoon,M103,John,P003,41,41,41,3,0,,Need maintenance
+2025-04-03,Afternoon,M103,Raj,P003,53,49,49,0,22,Power cut,Need maintenance
+2025-04-15,Night,M101,Raj,P001,46,43,43,0,0,,Check sensor
+2025-04-03,Morning,M102,Anita,P001,40,39,195,1,3,Maintenance,Check sensor
+2025-04-01,Afternoon,M102,Meera,P002,45,35,70,5,11,Material shortage,All good
+2025-04-07,Night,M101,Anita,P003,42,34,34,1,0,,
+2025-04-04,Night,M101,Meera,P003,43,42,168,2,0,,All good
+2025-04-09,Morning,M101,Anita,P001,53,43,172,0,0,,Check sensor
+2025-04-05,Afternoon,M102,Anita,P001,40,31,155,0,0,,All good
+2025-04-09,Afternoon,M101,Anita,P003,43,41,123,3,0,,All good
+2025-04-07,Night,M103,John,P003,41,40,200,2,0,,Need maintenance
+2025-04-02,Morning,M102,Meera,P002,49,41,82,2,0,,Check sensor
+2025-04-05,Night,M101,John,P003,48,38,152,2,0,,All good
+2025-04-09,Afternoon,M103,Meera,P002,52,46,230,4,0,,
+2025-04-09,Night,M102,Meera,P003,60,56,168,4,0,,Need maintenance
+2025-04-09,Afternoon,M102,Meera,P003,45,42,126,5,0,,All good
+2025-04-12,Afternoon,M103,Meera,P001,43,38,38,2,0,,Check sensor
+2025-04-12,Morning,M103,Anita,P002,55,49,245,2,0,,
+2025-04-03,Morning,M101,John,P003,59,54,270,1,0,,Check sensor
+2025-04-09,Afternoon,M101,Anita,P002,55,52,260,5,0,,Need maintenance
+2025-04-05,Afternoon,M101,John,P001,58,48,240,2,12,Power cut,Check sensor
+2025-04-14,Afternoon,M103,John,P003,53,51,153,5,27,Material shortage,Need maintenance
+2025-04-14,Afternoon,M101,Meera,P001,45,42,126,4,19,Maintenance,
+2025-04-11,Morning,M103,Meera,P002,45,35,140,1,0,,All good
+2025-04-11,Afternoon,M103,Anita,P001,47,43,43,1,24,Power cut,
+2025-04-10,Night,M103,Meera,P001,47,46,92,0,30,Maintenance,All good
+2025-04-04,Night,M102,Meera,P003,45,40,80,2,0,,All good
+2025-04-15,Morning,M101,Raj,P003,60,60,240,1,29,,
+2025-04-02,Morning,M101,John,P002,54,48,240,0,20,Maintenance,All good
+2025-04-15,Morning,M101,Raj,P002,57,50,150,5,0,,Check sensor
+2025-04-07,Morning,M103,John,P001,54,50,100,1,0,,All good
+2025-04-10,Afternoon,M102,Anita,P002,57,56,56,0,0,,Check sensor
+2025-04-09,Night,M103,Raj,P001,45,44,176,1,0,,Need maintenance
+2025-04-02,Night,M101,John,P003,49,40,80,1,0,,All good
+2025-04-02,Morning,M103,Meera,P002,52,49,196,1,0,,
+2025-04-14,Morning,M101,Meera,P003,56,54,216,2,0,,
+2025-04-04,Night,M102,John,P003,60,53,106,5,0,,Check sensor
+2025-04-11,Morning,M101,John,P001,44,36,144,3,2,Machine issue,Check sensor
+2025-04-06,Afternoon,M101,Meera,P002,41,32,64,5,0,,
+2025-04-14,Afternoon,M103,Anita,P001,46,45,225,1,0,,
+2025-04-03,Night,M101,John,P002,56,47,141,3,0,,Need maintenance
+2025-04-05,Afternoon,M103,Raj,P002,43,35,140,0,0,,Check sensor
+2025-04-04,Morning,M103,Raj,P001,56,48,192,3,0,,Need maintenance
+2025-04-03,Night,M103,Raj,P001,52,42,210,5,0,,
+2025-04-03,Morning,M102,John,P002,50,50,150,0,0,,Check sensor
+2025-04-14,Afternoon,M102,Meera,P002,51,48,192,2,7,Machine issue,Need maintenance
+2025-04-06,Afternoon,M102,John,P003,43,35,105,1,0,,Check sensor
+2025-04-08,Night,M103,Anita,P001,40,37,74,0,3,Machine issue,All good
+2025-04-04,Afternoon,M102,Raj,P001,60,51,153,5,0,,
+2025-04-02,Afternoon,M103,Anita,P003,57,48,192,5,0,,Need maintenance
+2025-04-12,Afternoon,M103,John,P002,48,46,138,4,0,,
+2025-04-07,Afternoon,M101,Anita,P002,51,48,48,4,12,Machine issue,All good
+2025-04-06,Afternoon,M103,Raj,P003,60,59,118,0,0,,All good
+2025-04-04,Night,M103,Anita,P001,53,51,51,1,0,,
+2025-04-07,Morning,M101,John,P001,43,33,33,0,3,Material shortage,
+2025-04-04,Morning,M103,John,P003,51,45,45,5,0,,
+2025-04-07,Morning,M102,Anita,P002,51,45,45,3,0,,Check sensor
+2025-04-04,Morning,M101,Anita,P002,49,42,84,4,0,,All good
+2025-04-05,Afternoon,M103,Meera,P003,46,46,92,1,0,,Need maintenance
+2025-04-15,Afternoon,M102,Anita,P003,53,50,200,5,0,,All good
+2025-04-07,Morning,M102,Meera,P001,45,43,129,4,0,,
+2025-04-12,Night,M102,Raj,P002,53,44,88,2,0,,All good
+2025-04-09,Afternoon,M103,Raj,P002,42,39,156,5,0,,
+2025-04-15,Morning,M103,John,P002,44,36,144,1,5,Maintenance,
+2025-04-09,Night,M103,Raj,P001,47,38,38,4,0,,All good
+2025-04-03,Afternoon,M103,John,P002,59,59,236,5,0,,Need maintenance
+2025-04-10,Morning,M101,Anita,P002,53,53,212,0,0,,Check sensor
+2025-04-02,Night,M103,Anita,P001,44,37,148,3,0,,Check sensor
+2025-04-05,Night,M102,Meera,P003,46,42,84,3,0,,Check sensor
+2025-04-14,Afternoon,M101,Anita,P001,52,43,86,3,0,,Check sensor
+2025-04-07,Night,M101,Raj,P001,52,43,129,0,14,Machine issue,All good
+2025-04-05,Morning,M103,Anita,P003,44,39,156,0,18,Power cut,All good
+2025-04-06,Night,M102,Raj,P001,52,51,102,1,0,,Check sensor
+2025-04-02,Morning,M102,Raj,P002,53,49,147,1,0,,All good
+2025-04-14,Afternoon,M102,Meera,P003,44,42,168,5,0,,Check sensor
+2025-04-09,Morning,M102,John,P002,50,50,50,2,0,,All good
+2025-04-06,Night,M103,Meera,P003,43,40,80,1,18,Maintenance,All good
+2025-04-12,Morning,M102,Meera,P002,55,54,54,5,6,Material shortage,Need maintenance
+2025-04-09,Afternoon,M101,John,P002,42,42,168,4,0,,Check sensor
+2025-04-04,Afternoon,M103,Anita,P003,54,44,176,0,0,,
+2025-04-02,Morning,M103,Anita,P002,40,34,102,1,0,,Need maintenance
+2025-04-03,Night,M103,Anita,P001,44,43,86,5,19,Machine issue,All good
+2025-04-12,Afternoon,M101,Meera,P001,44,40,120,2,0,,All good
+2025-04-02,Night,M101,Meera,P001,51,41,205,4,0,,
+2025-04-11,Afternoon,M103,John,P002,43,37,148,3,0,,Need maintenance
+2025-04-04,Afternoon,M101,John,P003,53,48,144,0,0,,All good
+2025-04-05,Afternoon,M103,Meera,P003,54,54,108,0,1,Material shortage,Need maintenance
+2025-04-08,Afternoon,M102,Anita,P002,53,45,180,3,0,,All good
+2025-04-07,Night,M101,Meera,P003,45,36,36,5,17,,All good
+2025-04-12,Afternoon,M103,Meera,P002,45,45,90,1,0,,Need maintenance
+2025-04-13,Afternoon,M102,Meera,P003,42,35,140,1,0,,
+2025-04-06,Afternoon,M102,John,P001,56,49,98,3,0,,Check sensor
+2025-04-14,Night,M102,John,P002,53,50,250,1,5,Power cut,All good
+2025-04-04,Morning,M101,Raj,P001,60,52,52,4,0,,
+2025-04-05,Afternoon,M101,Raj,P002,52,50,50,0,0,,Need maintenance
+2025-04-08,Morning,M101,Anita,P002,50,41,123,3,13,Maintenance,Need maintenance
+2025-04-06,Morning,M102,Anita,P002,47,38,190,3,16,Machine issue,All good
+2025-04-03,Night,M102,Raj,P002,43,43,129,1,0,,Need maintenance
+2025-04-13,Night,M101,John,P002,43,41,123,3,16,Machine issue,
+2025-04-08,Morning,M102,Anita,P002,58,50,200,0,0,,
+2025-04-05,Afternoon,M103,Raj,P003,54,45,90,3,0,,All good
+2025-04-09,Night,M103,John,P002,46,39,156,1,0,,Need maintenance
+2025-04-08,Afternoon,M101,Meera,P003,46,40,120,4,0,,All good
+2025-04-05,Afternoon,M102,Raj,P002,55,51,153,1,0,,
+2025-04-02,Afternoon,M102,Raj,P002,54,54,270,5,0,,All good
+2025-04-06,Afternoon,M103,Anita,P001,54,45,135,1,10,Material shortage,
+2025-04-13,Night,M103,Raj,P001,54,50,100,1,0,,All good
+2025-04-15,Morning,M101,Meera,P001,44,37,111,0,0,,Check sensor
+2025-04-15,Afternoon,M103,John,P002,42,41,82,0,0,,Check sensor
+2025-04-11,Afternoon,M101,Meera,P002,50,49,98,0,0,,
+2025-04-10,Afternoon,M103,Anita,P002,42,32,32,5,16,Maintenance,Check sensor
+2025-04-11,Afternoon,M102,Anita,P003,45,35,35,5,0,,Need maintenance
+2025-04-11,Morning,M103,Raj,P001,43,42,42,3,0,,Check sensor
+2025-04-05,Night,M103,Raj,P002,42,41,123,3,8,Power cut,Check sensor
+2025-04-02,Night,M103,Anita,P001,43,33,66,5,4,,All good
+2025-04-08,Morning,M103,Anita,P001,56,56,112,4,9,Maintenance,Check sensor
+2025-04-01,Morning,M102,John,P003,48,40,80,0,11,Machine issue,Need maintenance
+2025-04-09,Morning,M101,Meera,P003,53,50,50,1,0,,Need maintenance
+2025-04-14,Night,M102,Anita,P003,42,40,200,4,0,,
+2025-04-02,Night,M102,Meera,P002,53,52,260,5,10,Power cut,All good
+2025-04-11,Afternoon,M101,Meera,P001,47,37,148,3,1,,All good
+2025-04-15,Afternoon,M101,Meera,P002,60,50,200,4,0,,Check sensor
+2025-04-11,Night,M101,John,P002,47,38,38,3,0,,Need maintenance
+2025-04-06,Night,M102,Raj,P002,40,33,165,2,14,Power cut,Check sensor
+2025-04-01,Morning,M103,Raj,P001,42,41,82,5,0,,
+2025-04-07,Afternoon,M102,Raj,P002,51,48,192,2,0,,All good
+2025-04-06,Night,M101,John,P002,46,38,152,4,0,,
+2025-04-08,Afternoon,M102,Meera,P002,59,52,104,4,0,,Check sensor
+2025-04-13,Morning,M103,Anita,P001,60,56,56,3,0,,Check sensor
+2025-04-06,Afternoon,M102,Raj,P003,54,52,208,4,23,Maintenance,All good
+2025-04-01,Morning,M103,Meera,P003,44,42,84,4,0,,All good
+2025-04-14,Morning,M103,John,P002,59,50,150,0,0,,
+2025-04-06,Night,M102,Anita,P003,53,48,48,5,0,,
+2025-04-15,Afternoon,M101,Meera,P001,52,44,176,4,0,,Check sensor
+2025-04-09,Morning,M103,John,P001,57,47,47,1,0,,Check sensor
+2025-04-12,Night,M103,John,P003,41,40,120,2,15,,Check sensor
+2025-04-13,Night,M102,Anita,P002,55,55,220,1,24,Material shortage,Check sensor
+2025-04-02,Night,M102,John,P002,50,42,168,4,0,,All good
+2025-04-12,Morning,M101,Raj,P002,53,47,235,0,0,,Need maintenance
+2025-04-12,Morning,M101,Raj,P002,56,52,260,4,0,,
+2025-04-09,Morning,M101,John,P001,58,54,216,0,0,,Need maintenance
+2025-04-07,Afternoon,M101,Anita,P003,54,51,51,4,0,,All good
+2025-04-14,Night,M102,Anita,P003,48,41,164,2,0,,Need maintenance
+2025-04-09,Morning,M101,Meera,P001,46,43,172,2,24,Machine issue,All good
+2025-04-10,Morning,M102,John,P001,50,43,215,0,11,,Need maintenance
+2025-04-12,Night,M103,Raj,P002,56,46,184,4,0,,Need maintenance
+2025-04-09,Morning,M101,John,P001,52,42,126,2,0,,
+2025-04-05,Afternoon,M101,Anita,P003,60,58,174,5,0,,
+2025-04-01,Afternoon,M102,Raj,P001,44,37,111,0,29,Machine issue,Need maintenance
+2025-04-04,Morning,M102,Raj,P003,52,51,102,2,0,,All good
+2025-04-10,Night,M102,Raj,P001,51,50,250,3,0,,Need maintenance
+2025-04-01,Morning,M103,John,P003,43,39,195,2,0,,Need maintenance
+2025-04-13,Afternoon,M101,Meera,P002,40,31,31,3,11,Power cut,
+2025-04-08,Morning,M101,Anita,P002,45,45,225,4,0,,
+2025-04-11,Afternoon,M101,Raj,P003,52,43,86,2,0,,Need maintenance
+2025-04-04,Night,M102,John,P001,60,60,240,3,0,,All good
+2025-04-10,Night,M103,Anita,P001,60,56,280,2,0,,Check sensor
+2025-04-03,Morning,M101,John,P003,56,46,46,0,23,,Need maintenance
+2025-04-01,Afternoon,M101,John,P001,56,49,196,5,2,Maintenance,
+2025-04-05,Night,M102,Meera,P001,51,42,84,1,0,,All good
+2025-04-08,Afternoon,M103,Anita,P001,43,33,66,3,12,,
+2025-04-06,Afternoon,M103,Anita,P002,53,52,208,0,0,,
+2025-04-12,Afternoon,M101,John,P003,50,49,245,5,24,Material shortage,
+2025-04-05,Afternoon,M102,John,P002,59,56,112,4,22,Material shortage,Need maintenance
+2025-04-10,Afternoon,M103,Raj,P001,51,48,240,3,0,,
+2025-04-14,Afternoon,M103,Meera,P001,50,45,135,0,24,,All good
+2025-04-01,Afternoon,M102,Meera,P003,60,60,240,0,13,Machine issue,All good
+2025-04-14,Night,M102,Meera,P003,55,46,92,5,24,Maintenance,Check sensor
+2025-04-01,Afternoon,M102,John,P003,46,44,132,3,0,,Need maintenance
+2025-04-03,Night,M102,Raj,P001,47,37,37,3,0,,Check sensor
+2025-04-01,Morning,M101,Raj,P002,48,42,84,1,28,Power cut,
+2025-04-03,Afternoon,M101,Meera,P003,51,43,172,3,3,Machine issue,Need maintenance
+2025-04-01,Afternoon,M102,Anita,P003,58,48,192,5,0,,
+2025-04-07,Morning,M102,Anita,P003,49,40,160,2,0,,All good
+2025-04-12,Morning,M102,Raj,P003,55,50,100,5,0,,All good
+2025-04-02,Morning,M101,Anita,P001,51,50,50,2,0,,
+2025-04-11,Morning,M102,Raj,P003,60,58,174,0,22,Power cut,All good
+2025-04-13,Afternoon,M101,Anita,P002,58,50,50,3,0,,All good
+2025-04-15,Night,M103,Raj,P001,60,54,270,0,0,,
+2025-04-01,Morning,M101,John,P001,42,32,96,2,3,Maintenance,Check sensor
+2025-04-10,Night,M103,John,P002,51,49,245,5,0,,Check sensor
+2025-04-11,Afternoon,M103,John,P001,45,36,36,3,22,Machine issue,Check sensor
+2025-04-05,Afternoon,M103,Meera,P003,59,57,228,2,0,,
+2025-04-11,Afternoon,M101,John,P003,49,41,205,3,0,,All good
+2025-04-02,Afternoon,M103,Raj,P001,42,35,105,4,28,Power cut,All good
+2025-04-08,Night,M101,Meera,P003,55,49,49,0,0,,Check sensor
+2025-04-14,Morning,M102,Anita,P002,56,49,245,5,0,,Need maintenance
+2025-04-11,Night,M103,John,P001,45,44,176,1,0,,Need maintenance
+2025-04-06,Night,M103,Anita,P002,55,48,144,5,9,Material shortage,All good
+2025-04-08,Night,M102,Anita,P002,50,44,88,1,15,,All good
+2025-04-14,Morning,M102,Raj,P002,45,38,38,0,0,,Need maintenance
+2025-04-14,Afternoon,M102,Raj,P002,45,39,195,3,0,,
+2025-04-12,Night,M102,Meera,P003,60,56,56,2,0,,
+2025-04-13,Morning,M102,Meera,P003,52,46,230,0,0,,Need maintenance
+2025-04-07,Afternoon,M103,Anita,P002,56,48,48,3,8,Maintenance,Check sensor
+2025-04-11,Afternoon,M102,Meera,P003,46,39,39,5,2,Maintenance,
+2025-04-03,Afternoon,M101,Raj,P003,40,38,76,4,0,,All good
+2025-04-08,Morning,M101,Anita,P003,60,51,204,1,0,,All good
+2025-04-07,Afternoon,M103,Meera,P001,60,57,57,3,14,Machine issue,Need maintenance
+2025-04-02,Night,M102,Raj,P003,58,56,112,0,0,,Check sensor
+2025-04-14,Afternoon,M103,Raj,P003,45,42,126,5,0,,Check sensor
+2025-04-04,Afternoon,M101,Anita,P003,60,52,156,5,0,,Check sensor
+2025-04-05,Afternoon,M101,John,P002,40,40,40,0,0,,Need maintenance
+2025-04-01,Night,M101,Meera,P003,52,52,208,3,0,,Need maintenance
+2025-04-05,Morning,M102,John,P001,49,49,49,5,0,,All good
+2025-04-06,Night,M101,Raj,P002,49,39,78,5,0,,All good
+2025-04-06,Night,M101,Meera,P003,60,60,60,0,27,Maintenance,
+2025-04-09,Morning,M102,Raj,P002,42,42,210,0,5,Material shortage,Need maintenance
+2025-04-03,Morning,M103,Anita,P001,45,35,70,5,0,,
+2025-04-04,Afternoon,M101,Raj,P002,57,53,212,1,0,,Need maintenance
+2025-04-10,Night,M103,Anita,P001,43,37,74,0,0,,Need maintenance
+2025-04-04,Afternoon,M102,Meera,P001,49,46,230,4,0,,Check sensor
+2025-04-09,Afternoon,M103,Raj,P001,42,34,68,0,0,,
+2025-04-06,Afternoon,M103,Meera,P003,50,48,192,1,0,,Check sensor
+2025-04-13,Morning,M102,John,P002,45,45,225,1,25,Power cut,Need maintenance
+2025-04-15,Night,M101,John,P001,45,41,164,1,0,,Need maintenance
+2025-04-10,Afternoon,M102,Raj,P001,49,41,82,4,0,,Check sensor
+2025-04-06,Morning,M103,Anita,P001,45,44,132,0,5,,All good
+2025-04-02,Afternoon,M101,Anita,P001,53,51,255,4,0,,
+2025-04-15,Night,M103,Meera,P003,58,51,102,3,0,,
+2025-04-05,Afternoon,M102,Meera,P002,48,44,220,1,0,,Check sensor
+2025-04-06,Morning,M101,John,P002,45,37,74,1,3,Machine issue,Need maintenance
+2025-04-14,Morning,M102,Anita,P003,48,41,123,1,0,,
+2025-04-08,Night,M103,John,P001,40,37,111,2,0,,Check sensor
+2025-04-13,Morning,M101,John,P001,47,45,225,5,23,Maintenance,All good
+2025-04-07,Morning,M101,Anita,P001,50,41,41,4,0,,All good
+2025-04-13,Night,M103,Anita,P001,40,39,78,2,0,,Check sensor
+2025-04-01,Night,M101,Meera,P003,53,43,172,2,1,Power cut,
+2025-04-04,Morning,M103,Raj,P003,50,40,160,2,0,,All good
+2025-04-15,Afternoon,M101,Anita,P001,57,47,188,5,0,,Need maintenance
+2025-04-09,Morning,M101,Meera,P003,57,57,171,3,0,,Check sensor
+2025-04-14,Afternoon,M101,Meera,P003,42,42,42,2,0,,
+2025-04-09,Night,M102,John,P001,41,36,36,0,0,,Check sensor
+2025-04-11,Afternoon,M102,John,P003,47,44,220,3,0,,Need maintenance
+2025-04-01,Afternoon,M103,Anita,P001,50,46,138,2,28,Maintenance,Check sensor
+2025-04-12,Night,M102,Raj,P001,47,43,86,0,0,,Need maintenance
+2025-04-10,Night,M103,Meera,P002,58,51,102,2,28,Material shortage,All good
+2025-04-09,Morning,M102,Anita,P002,50,46,184,5,0,,All good
+2025-04-15,Afternoon,M103,Raj,P001,51,43,172,4,29,Machine issue,
+2025-04-14,Afternoon,M102,Anita,P001,42,40,120,0,26,,Check sensor
+2025-04-03,Morning,M103,Anita,P002,59,52,260,3,0,,Need maintenance
+2025-04-06,Morning,M102,John,P002,49,49,49,3,0,,All good
+2025-04-14,Afternoon,M102,John,P003,42,42,42,3,0,,All good
+2025-04-11,Afternoon,M103,Anita,P003,44,43,215,5,0,,Check sensor
+2025-04-12,Night,M101,John,P003,43,33,99,1,0,,Check sensor
+2025-04-01,Afternoon,M101,Anita,P003,59,56,168,5,0,,
+2025-04-04,Night,M101,Anita,P003,41,36,108,0,21,Power cut,
+2025-04-01,Night,M103,John,P003,53,48,144,0,29,Machine issue,Need maintenance
+2025-04-05,Afternoon,M103,Meera,P003,41,31,93,0,0,,Check sensor
+2025-04-10,Afternoon,M103,Anita,P001,50,40,160,4,16,Maintenance,Check sensor
+2025-04-07,Night,M102,Raj,P001,40,34,34,0,0,,
+2025-04-01,Morning,M101,Anita,P003,46,39,78,3,0,,All good
+2025-04-01,Afternoon,M102,John,P002,57,47,94,5,0,,Check sensor
+2025-04-08,Night,M103,Meera,P002,52,43,172,2,19,Machine issue,All good
+2025-04-09,Afternoon,M103,Meera,P002,59,54,108,3,0,,All good
+2025-04-06,Afternoon,M103,Anita,P002,42,34,136,5,0,,All good
+2025-04-03,Morning,M101,John,P002,47,39,195,1,0,,
+2025-04-04,Night,M102,Meera,P002,47,43,129,1,0,,All good
+2025-04-09,Night,M103,Raj,P001,55,55,275,3,0,,Check sensor
+2025-04-07,Night,M103,John,P001,60,57,285,0,0,,Need maintenance
+2025-04-03,Morning,M101,John,P002,49,43,172,0,17,Maintenance,Need maintenance
+2025-04-03,Morning,M102,Anita,P002,44,35,140,3,0,,Need maintenance
+2025-04-11,Morning,M103,Raj,P002,59,54,216,3,0,,Need maintenance
+2025-04-06,Night,M101,Anita,P003,41,35,140,5,9,Material shortage,Need maintenance
+2025-04-11,Night,M101,John,P002,50,40,160,5,0,,Need maintenance
+2025-04-12,Night,M101,Meera,P003,58,56,280,3,0,,Check sensor
+2025-04-13,Night,M102,John,P002,48,44,176,4,5,Material shortage,Check sensor
+2025-04-12,Morning,M103,Raj,P001,48,46,230,3,0,,Need maintenance
+2025-04-05,Night,M102,John,P003,43,38,114,1,0,,
+2025-04-10,Night,M103,John,P001,55,46,138,4,0,,All good
+2025-04-09,Morning,M103,John,P001,50,41,123,5,0,,Need maintenance
+2025-04-07,Morning,M102,Anita,P001,42,36,180,5,29,,All good
+2025-04-07,Afternoon,M102,Raj,P001,48,38,114,5,0,,All good
+2025-04-15,Morning,M103,Meera,P002,51,47,188,2,0,,Need maintenance
+2025-04-13,Night,M101,John,P002,54,47,141,3,6,Material shortage,Check sensor
+2025-04-05,Night,M102,Anita,P002,48,40,160,5,0,,Check sensor
+2025-04-06,Night,M103,Anita,P003,57,51,51,1,0,,Need maintenance
+2025-04-13,Morning,M102,Anita,P003,47,47,235,2,16,Material shortage,
+2025-04-11,Morning,M103,Raj,P003,46,44,220,4,13,Material shortage,Check sensor
+2025-04-10,Afternoon,M101,John,P002,50,41,205,0,0,,All good
+2025-04-12,Afternoon,M101,Meera,P002,46,41,41,3,0,,
+2025-04-11,Afternoon,M102,Raj,P003,43,43,86,1,6,Material shortage,
+2025-04-02,Morning,M103,Raj,P003,43,40,40,1,0,,
+2025-04-03,Morning,M102,John,P001,51,51,153,5,2,Material shortage,Check sensor
+2025-04-05,Afternoon,M101,Meera,P003,50,45,90,1,0,,
+2025-04-14,Morning,M103,Raj,P001,48,47,235,0,4,Maintenance,All good
+2025-04-10,Night,M101,John,P003,40,37,148,3,0,,Need maintenance
+2025-04-01,Night,M101,Raj,P001,58,50,200,2,0,,All good
+2025-04-07,Night,M103,Meera,P002,52,49,196,3,0,,All good
+2025-04-15,Night,M103,Meera,P001,41,33,132,0,0,,Check sensor
+2025-04-03,Afternoon,M101,Anita,P003,43,41,123,4,0,,Check sensor
+2025-04-04,Morning,M101,John,P001,45,44,44,0,0,,Need maintenance
+2025-04-06,Night,M101,Anita,P003,48,40,200,5,22,Machine issue,
+2025-04-03,Night,M101,Meera,P003,46,43,86,4,0,,Need maintenance
+2025-04-12,Morning,M102,John,P002,43,38,152,0,0,,Check sensor
+2025-04-07,Morning,M101,Anita,P001,44,40,200,0,0,,All good
+2025-04-03,Morning,M101,Raj,P001,54,48,240,5,16,Power cut,Need maintenance
+2025-04-07,Afternoon,M103,John,P002,49,47,235,0,18,Maintenance,
+2025-04-15,Afternoon,M102,John,P001,42,40,80,3,0,,
+2025-04-08,Morning,M101,Meera,P003,55,46,184,5,0,,
+2025-04-07,Morning,M101,Anita,P002,44,42,42,0,26,Power cut,
+2025-04-10,Night,M103,Anita,P003,43,38,190,3,0,,Need maintenance
+2025-04-04,Morning,M103,John,P002,59,57,285,4,0,,All good
+2025-04-15,Afternoon,M103,Anita,P002,47,47,94,3,0,,Need maintenance
+2025-04-09,Afternoon,M101,John,P003,49,42,210,0,0,,Check sensor
+2025-04-06,Morning,M102,John,P002,56,46,46,3,0,,All good
+2025-04-13,Afternoon,M103,Raj,P002,60,55,275,4,0,,All good
+2025-04-01,Morning,M102,Anita,P002,48,42,84,4,0,,Check sensor
+2025-04-01,Afternoon,M102,Meera,P001,59,59,295,4,0,,All good
+2025-04-08,Night,M101,Meera,P003,56,53,53,5,0,,Need maintenance
+2025-04-15,Afternoon,M102,John,P002,56,48,240,3,0,,Need maintenance
+2025-04-03,Night,M101,Anita,P001,47,37,148,1,0,,Need maintenance
+2025-04-11,Afternoon,M102,Meera,P002,53,48,96,1,0,,All good
+2025-04-14,Morning,M101,Meera,P001,40,31,93,1,1,Machine issue,Check sensor
+2025-04-14,Night,M103,Meera,P001,51,42,84,4,25,Maintenance,Check sensor
+2025-04-08,Morning,M101,Meera,P002,54,51,51,5,0,,
+2025-04-12,Morning,M103,Meera,P003,42,39,195,3,27,Machine issue,Check sensor
+2025-04-06,Night,M102,Meera,P001,42,34,34,5,1,Material shortage,
+2025-04-13,Morning,M103,Anita,P002,50,43,86,0,0,,Need maintenance
+2025-04-04,Night,M102,Anita,P003,47,44,220,3,4,,Check sensor
+2025-04-08,Night,M101,Anita,P002,52,48,96,5,0,,Check sensor
+2025-04-15,Afternoon,M103,Meera,P001,53,53,159,4,0,,
+2025-04-10,Night,M102,Anita,P002,58,53,159,0,0,,
+2025-04-13,Afternoon,M102,Raj,P002,44,36,180,0,11,Material shortage,
+2025-04-06,Morning,M102,Anita,P001,42,33,132,3,23,Machine issue,
+2025-04-07,Morning,M103,Meera,P003,43,39,195,2,0,,Need maintenance
+2025-04-15,Afternoon,M103,Meera,P003,60,60,240,4,0,,Need maintenance
+2025-04-02,Afternoon,M101,John,P001,54,47,47,4,0,,
+2025-04-14,Afternoon,M102,Anita,P003,43,36,72,2,30,,
+2025-04-03,Afternoon,M101,John,P003,60,55,275,2,0,,
+2025-04-14,Afternoon,M102,Anita,P002,49,39,156,4,0,,Check sensor
+2025-04-13,Morning,M102,Meera,P001,58,53,53,2,0,,Need maintenance
+2025-04-15,Night,M101,Meera,P002,47,43,215,4,0,,Check sensor
+2025-04-09,Night,M102,Meera,P003,55,55,275,5,0,,All good
+2025-04-10,Night,M101,Anita,P001,44,37,148,4,0,,Need maintenance
+2025-04-08,Afternoon,M103,John,P003,55,47,188,2,0,,Check sensor
+2025-04-15,Night,M103,Anita,P002,42,34,68,3,0,,Check sensor
+2025-04-09,Afternoon,M103,Meera,P003,59,51,255,4,0,,
+2025-04-03,Morning,M103,Raj,P001,58,56,280,0,0,,Check sensor
+2025-04-03,Afternoon,M103,Raj,P002,53,53,265,1,0,,Need maintenance
+2025-04-06,Afternoon,M102,Meera,P002,41,35,140,3,28,,All good
+2025-04-10,Morning,M102,Raj,P003,44,41,164,3,0,,Need maintenance
+2025-04-05,Night,M102,Raj,P003,45,41,205,2,3,Maintenance,Check sensor
+2025-04-09,Afternoon,M101,Meera,P002,57,51,204,5,0,,
+2025-04-08,Night,M101,Meera,P003,48,44,132,2,0,,
+2025-04-05,Morning,M102,Meera,P001,41,38,114,4,0,,Need maintenance
+2025-04-09,Night,M103,Meera,P001,50,41,205,5,0,,Check sensor
+2025-04-07,Morning,M103,Meera,P001,58,58,290,1,0,,Check sensor
+2025-04-03,Night,M101,John,P001,49,39,156,2,0,,All good
+2025-04-03,Afternoon,M102,Anita,P002,52,43,43,4,15,,Check sensor
+2025-04-11,Afternoon,M103,Meera,P002,45,40,40,2,18,Machine issue,Check sensor
+2025-04-09,Morning,M103,Meera,P002,60,60,240,0,9,,All good
+2025-04-08,Night,M103,Anita,P002,46,36,144,0,0,,
+2025-04-12,Afternoon,M102,Raj,P001,44,36,108,5,0,,
+2025-04-11,Afternoon,M102,Meera,P002,49,46,92,5,0,,Check sensor
+2025-04-06,Morning,M103,Raj,P001,52,47,141,4,0,,All good
+2025-04-06,Morning,M102,Meera,P003,45,35,70,3,0,,Need maintenance
+2025-04-10,Morning,M103,John,P003,54,47,47,1,23,Power cut,Need maintenance
+2025-04-13,Morning,M103,Anita,P003,44,44,176,4,0,,Need maintenance
+2025-04-08,Afternoon,M102,John,P002,59,57,285,1,0,,
+2025-04-12,Night,M102,Raj,P003,46,36,144,5,0,,Check sensor
+2025-04-11,Night,M103,Meera,P002,49,43,172,1,0,,Need maintenance
+2025-04-03,Afternoon,M102,Meera,P002,44,44,132,3,0,,Need maintenance
+2025-04-12,Morning,M102,Anita,P002,52,46,230,5,0,,
+2025-04-14,Morning,M102,John,P002,43,43,129,5,0,,
+2025-04-05,Afternoon,M102,John,P003,59,55,165,3,0,,Need maintenance
+2025-04-06,Night,M102,Anita,P003,50,43,172,2,0,,All good
+2025-04-15,Afternoon,M101,Anita,P003,56,49,196,2,19,Maintenance,
+2025-04-12,Night,M102,Anita,P001,40,33,66,4,0,,
+2025-04-08,Afternoon,M103,Meera,P003,43,33,66,1,0,,Need maintenance
+2025-04-04,Morning,M101,John,P001,45,38,190,3,0,,All good
+2025-04-11,Morning,M103,Anita,P002,42,32,128,4,0,,
+2025-04-08,Morning,M101,John,P003,47,46,46,1,22,Material shortage,Need maintenance
+2025-04-03,Afternoon,M103,Anita,P001,55,51,102,2,12,Maintenance,Need maintenance
+2025-04-07,Night,M103,Raj,P001,54,52,156,0,0,,Check sensor
+2025-04-03,Morning,M101,Meera,P002,48,44,220,2,0,,Need maintenance
+2025-04-12,Morning,M103,Anita,P003,44,35,35,3,10,,All good
+2025-04-12,Morning,M102,Anita,P001,58,52,104,1,0,,Check sensor
+2025-04-10,Morning,M101,Meera,P003,59,54,108,1,0,,All good
+2025-04-04,Morning,M103,John,P002,44,38,38,1,16,Power cut,
+2025-04-15,Afternoon,M102,Raj,P002,45,44,132,0,0,,
+2025-04-13,Night,M103,Meera,P001,59,51,204,0,0,,Need maintenance
+2025-04-15,Morning,M102,Raj,P001,42,33,99,4,0,,Need maintenance
+2025-04-10,Afternoon,M102,Meera,P001,43,43,43,2,20,Material shortage,All good
+2025-04-02,Morning,M102,Meera,P001,51,49,147,4,0,,All good
+2025-04-04,Night,M103,Anita,P002,53,44,132,5,0,,
+2025-04-14,Afternoon,M102,Anita,P002,52,49,147,4,0,,Need maintenance
+2025-04-08,Night,M101,Raj,P003,56,56,112,2,19,Material shortage,Check sensor
+2025-04-14,Night,M101,Raj,P002,51,43,172,5,0,,Need maintenance
+2025-04-08,Night,M103,Anita,P001,53,46,92,5,0,,
+2025-04-08,Afternoon,M103,John,P002,45,40,80,4,0,,Check sensor
+2025-04-01,Afternoon,M101,John,P003,56,50,150,5,0,,Check sensor
+2025-04-09,Night,M103,John,P001,41,31,124,3,0,,Need maintenance
+2025-04-06,Afternoon,M103,Meera,P003,57,52,260,3,23,,
+2025-04-14,Morning,M102,Meera,P003,53,43,172,0,0,,All good
+2025-04-13,Morning,M103,Meera,P003,60,52,52,5,18,Power cut,Need maintenance
+2025-04-01,Afternoon,M103,Raj,P003,46,39,156,3,27,Machine issue,Check sensor
+2025-04-11,Afternoon,M101,Anita,P002,50,43,86,1,0,,Check sensor
+2025-04-06,Afternoon,M102,Anita,P001,50,49,245,0,0,,Need maintenance
+2025-04-15,Afternoon,M101,John,P001,40,37,185,4,0,,Need maintenance
+2025-04-02,Afternoon,M101,Anita,P003,49,43,43,1,0,,
+2025-04-04,Night,M102,John,P002,57,52,156,4,0,,All good
+2025-04-14,Afternoon,M103,Raj,P001,59,59,177,3,0,,
+2025-04-07,Night,M102,John,P003,46,46,92,0,0,,
+2025-04-11,Morning,M101,John,P001,48,42,84,3,0,,
+2025-04-01,Morning,M101,Anita,P001,52,42,84,1,0,,Check sensor
+2025-04-02,Morning,M102,Raj,P002,40,32,32,1,0,,Check sensor
+2025-04-01,Morning,M102,John,P002,56,51,204,4,0,,All good
+2025-04-15,Night,M101,Meera,P001,45,35,35,5,9,Maintenance,All good
+2025-04-13,Morning,M101,Raj,P001,50,46,138,5,0,,Check sensor
+2025-04-11,Morning,M103,Anita,P001,43,40,80,2,0,,Check sensor
+2025-04-01,Night,M103,Raj,P003,40,34,170,1,0,,Check sensor
+2025-04-14,Night,M102,John,P002,49,46,184,2,0,,Check sensor
+2025-04-05,Morning,M103,John,P001,45,42,168,1,0,,All good
+2025-04-05,Morning,M101,John,P003,59,57,114,3,0,,Need maintenance
+2025-04-09,Morning,M101,Meera,P002,58,50,100,2,0,,All good
+2025-04-05,Morning,M102,Anita,P003,51,51,51,1,4,,All good
+2025-04-01,Afternoon,M101,Raj,P002,49,49,49,3,0,,Check sensor
+2025-04-03,Night,M101,John,P001,57,57,114,4,0,,
+2025-04-02,Night,M101,Anita,P001,41,34,170,2,0,,All good
+2025-04-14,Night,M103,Meera,P003,45,35,105,0,0,,
+2025-04-05,Night,M103,Raj,P003,50,44,220,3,0,,
+2025-04-14,Afternoon,M103,Raj,P001,49,44,132,4,0,,Need maintenance
+2025-04-04,Morning,M102,Anita,P001,46,36,180,0,0,,Check sensor
+2025-04-02,Morning,M103,Anita,P003,58,55,165,2,0,,All good
+2025-04-01,Night,M102,Anita,P001,49,41,82,0,0,,Need maintenance
+2025-04-05,Night,M102,Meera,P003,40,31,62,3,19,Machine issue,All good
+2025-04-13,Afternoon,M102,Meera,P001,50,40,80,5,0,,Check sensor
+2025-04-08,Afternoon,M103,Meera,P001,46,43,43,3,30,Maintenance,Need maintenance
+2025-04-10,Afternoon,M103,Meera,P002,47,39,156,0,0,,Check sensor
+2025-04-08,Afternoon,M103,Meera,P002,48,44,220,2,0,,Need maintenance
+2025-04-12,Afternoon,M103,John,P003,54,50,150,5,0,,Need maintenance
+2025-04-05,Night,M103,Anita,P003,45,43,43,3,8,,Need maintenance
+2025-04-04,Morning,M103,John,P001,58,58,58,4,0,,All good
+2025-04-02,Night,M102,John,P003,57,51,51,1,0,,
+2025-04-06,Afternoon,M101,John,P002,55,45,45,0,10,,Need maintenance
+2025-04-12,Morning,M102,Raj,P001,56,48,48,2,0,,Need maintenance
+2025-04-12,Morning,M101,Raj,P002,53,44,132,4,0,,
+2025-04-04,Night,M102,John,P001,48,38,114,3,0,,Need maintenance
+2025-04-08,Afternoon,M102,Meera,P002,49,49,245,4,0,,Need maintenance
+2025-04-09,Afternoon,M102,Anita,P003,59,58,290,1,0,,
+2025-04-07,Morning,M101,John,P002,59,56,56,3,27,,Check sensor
+2025-04-04,Morning,M101,Raj,P003,44,41,123,1,0,,
+2025-04-13,Afternoon,M103,Anita,P001,50,41,205,2,0,,
+2025-04-14,Night,M103,John,P002,60,55,165,2,0,,All good
+2025-04-04,Night,M102,John,P003,60,58,58,2,0,,Check sensor
+2025-04-15,Morning,M101,Meera,P001,53,53,159,4,0,,
+2025-04-15,Afternoon,M102,Meera,P003,45,44,44,2,0,,
+2025-04-10,Afternoon,M101,Meera,P003,48,41,82,1,0,,
+2025-04-05,Night,M103,Anita,P003,57,51,255,2,1,,Need maintenance
+2025-04-01,Night,M103,Raj,P001,55,54,162,0,0,,
+2025-04-01,Afternoon,M101,Anita,P003,40,36,108,0,0,,Check sensor
+2025-04-10,Morning,M102,Raj,P001,60,57,285,5,0,,
+2025-04-03,Morning,M102,Raj,P002,58,50,200,5,0,,Check sensor
+2025-04-13,Night,M103,Anita,P002,48,45,180,4,0,,
+2025-04-03,Morning,M101,Raj,P002,57,51,102,1,0,,
+2025-04-07,Morning,M101,John,P003,46,43,43,3,0,,Check sensor
+2025-04-13,Morning,M102,Anita,P003,52,47,141,1,0,,
+2025-04-02,Night,M103,Anita,P002,44,34,34,0,0,,All good
+2025-04-04,Night,M101,John,P003,59,53,212,0,0,,All good
+2025-04-08,Afternoon,M102,Meera,P002,51,45,90,2,0,,All good
+2025-04-02,Morning,M101,Anita,P002,47,43,215,2,0,,All good
+2025-04-05,Morning,M101,Anita,P002,52,47,47,1,0,,All good
+2025-04-11,Afternoon,M103,Meera,P003,55,46,230,0,0,,Check sensor
+2025-04-12,Morning,M102,John,P002,43,33,132,2,0,,Check sensor
+2025-04-01,Morning,M101,Anita,P003,45,43,86,2,15,,
+2025-04-04,Morning,M101,John,P002,60,60,300,3,10,Material shortage,Need maintenance
+2025-04-15,Afternoon,M101,Raj,P001,59,55,55,2,29,Machine issue,
+2025-04-04,Night,M102,John,P002,57,57,228,3,18,Machine issue,Need maintenance
+2025-04-07,Afternoon,M102,John,P001,59,56,112,4,0,,Need maintenance
+2025-04-11,Morning,M101,Raj,P002,44,41,123,3,14,,Check sensor
+2025-04-01,Afternoon,M102,Raj,P001,55,55,110,4,18,Power cut,All good
+2025-04-07,Morning,M102,John,P001,50,44,176,2,0,,
+2025-04-07,Night,M102,Meera,P001,49,43,43,1,19,Material shortage,All good
+2025-04-09,Night,M102,John,P003,60,59,236,1,10,Material shortage,Check sensor
+2025-04-10,Afternoon,M102,Meera,P002,53,50,150,5,0,,All good
+2025-04-10,Morning,M101,John,P001,52,51,102,3,6,Power cut,
+2025-04-04,Afternoon,M102,Raj,P002,55,54,162,5,0,,Need maintenance
+2025-04-04,Night,M102,Anita,P001,52,44,44,5,0,,
+2025-04-03,Morning,M103,Raj,P002,55,53,159,2,0,,
+2025-04-03,Night,M102,Raj,P001,57,51,255,0,18,Power cut,Check sensor
+2025-04-10,Afternoon,M102,Anita,P001,60,51,153,3,0,,Check sensor
+2025-04-08,Night,M103,Raj,P002,48,39,117,5,29,Maintenance,Check sensor
+2025-04-15,Morning,M102,John,P001,53,53,53,2,0,,All good
+2025-04-14,Morning,M103,Raj,P001,42,35,35,5,28,Maintenance,All good
+2025-04-03,Night,M101,Raj,P003,47,39,78,5,0,,All good
+2025-04-11,Night,M103,Meera,P003,47,39,39,3,6,Material shortage,Check sensor
+2025-04-02,Night,M103,John,P003,51,42,210,2,24,Material shortage,All good
+2025-04-05,Morning,M101,Meera,P003,54,53,53,0,0,,Check sensor
+2025-04-14,Morning,M102,John,P001,49,43,172,5,0,,Need maintenance
+2025-04-11,Night,M102,Anita,P003,41,32,64,4,25,Material shortage,All good
+2025-04-10,Morning,M102,Anita,P003,41,35,35,4,0,,Check sensor
+2025-04-05,Afternoon,M101,Meera,P002,56,55,55,1,0,,All good
+2025-04-14,Morning,M101,Anita,P001,40,31,93,1,0,,All good
+2025-04-08,Night,M101,Anita,P001,53,45,180,0,0,,All good
+2025-04-14,Afternoon,M103,Meera,P002,56,54,108,4,21,,
+2025-04-13,Night,M102,Raj,P002,49,43,43,3,0,,All good
+2025-04-11,Afternoon,M102,Raj,P002,54,46,46,0,0,,All good
+2025-04-13,Night,M102,Meera,P001,44,37,37,0,0,,
+2025-04-06,Morning,M102,Anita,P001,40,30,60,3,0,,
+2025-04-12,Night,M101,Raj,P003,52,43,129,0,15,Machine issue,All good
+2025-04-01,Afternoon,M103,Raj,P002,55,53,212,1,0,,Need maintenance
+2025-04-09,Afternoon,M101,John,P001,59,58,232,5,0,,All good
+2025-04-11,Night,M101,Raj,P002,49,49,49,5,0,,
+2025-04-12,Night,M102,Meera,P002,60,60,240,2,23,Machine issue,Need maintenance
+2025-04-01,Afternoon,M101,Raj,P002,44,38,114,4,0,,
+2025-04-09,Morning,M101,Meera,P002,50,45,180,0,0,,
+2025-04-05,Morning,M102,Anita,P002,55,47,141,3,4,Material shortage,Check sensor
+2025-04-06,Afternoon,M103,Raj,P003,55,54,270,4,0,,Need maintenance
+2025-04-01,Morning,M102,Meera,P003,48,42,84,4,13,Material shortage,Need maintenance
+2025-04-14,Morning,M101,Anita,P003,56,49,147,4,0,,
+2025-04-09,Afternoon,M101,John,P001,54,46,138,4,0,,
+2025-04-15,Afternoon,M103,John,P001,42,36,108,3,0,,Check sensor
+2025-04-04,Morning,M101,Anita,P002,60,58,290,1,0,,Check sensor
+2025-04-06,Night,M103,Anita,P001,54,52,156,4,0,,Need maintenance
+2025-04-07,Night,M102,Meera,P002,46,36,180,3,17,Machine issue,All good
+2025-04-02,Morning,M102,Raj,P001,54,46,184,5,18,,Check sensor
+2025-04-07,Morning,M101,Raj,P001,42,41,82,3,29,Machine issue,Need maintenance
+2025-04-08,Afternoon,M102,Anita,P003,48,41,164,1,0,,Check sensor
+2025-04-15,Night,M103,John,P003,43,38,114,1,21,Material shortage,All good
+2025-04-03,Afternoon,M102,John,P003,51,45,225,1,18,Machine issue,
+2025-04-08,Afternoon,M102,Anita,P002,59,53,53,0,0,,Check sensor
+2025-04-12,Afternoon,M103,Meera,P003,59,56,168,3,0,,All good
+2025-04-11,Afternoon,M101,Meera,P002,48,44,132,4,0,,
+2025-04-04,Morning,M101,Meera,P003,42,42,84,1,0,,Need maintenance
+2025-04-03,Morning,M102,John,P002,55,53,159,4,9,Maintenance,Check sensor
+2025-04-05,Afternoon,M103,Anita,P003,51,42,84,0,22,Material shortage,Need maintenance
+2025-04-02,Morning,M101,John,P001,44,43,172,3,24,Material shortage,All good
+2025-04-13,Morning,M101,Meera,P003,46,37,74,1,9,Machine issue,
+2025-04-15,Morning,M102,Raj,P001,57,55,55,2,0,,All good
+2025-04-04,Afternoon,M102,Raj,P001,44,35,35,2,5,,Check sensor
+2025-04-11,Morning,M103,John,P003,40,40,40,0,0,,All good
+2025-04-15,Morning,M102,John,P001,53,49,245,1,1,,Check sensor
+2025-04-14,Morning,M102,Anita,P003,45,41,205,2,0,,All good
+2025-04-11,Night,M102,Raj,P003,50,41,123,2,24,Machine issue,Need maintenance
+2025-04-13,Afternoon,M103,Anita,P001,58,52,156,2,0,,All good
+2025-04-09,Afternoon,M102,Anita,P003,46,45,180,5,0,,Check sensor
+2025-04-02,Afternoon,M102,Anita,P003,60,55,110,2,0,,All good
+2025-04-09,Afternoon,M101,Anita,P001,50,50,250,2,20,Power cut,Need maintenance
+2025-04-06,Morning,M102,Anita,P003,55,52,260,1,14,Power cut,
+2025-04-12,Morning,M102,John,P003,58,50,50,5,0,,Check sensor
+2025-04-14,Afternoon,M103,John,P002,59,52,52,4,19,Machine issue,All good
+2025-04-08,Night,M102,Meera,P003,58,49,98,2,0,,All good
+2025-04-14,Afternoon,M101,Raj,P001,58,54,54,4,0,,Check sensor
+2025-04-02,Afternoon,M102,John,P003,47,45,90,2,25,,Need maintenance
+2025-04-09,Morning,M103,Meera,P001,57,48,192,3,0,,
+2025-04-08,Morning,M102,Raj,P001,58,57,171,1,0,,All good
+2025-04-14,Morning,M103,John,P003,48,41,41,1,4,Power cut,All good
+2025-04-13,Morning,M102,Anita,P002,53,50,100,5,4,Maintenance,Need maintenance
+2025-04-05,Afternoon,M101,Meera,P002,59,57,171,4,0,,All good
+2025-04-14,Night,M101,Anita,P001,40,30,120,1,0,,Need maintenance
+2025-04-03,Morning,M101,Anita,P002,40,36,72,4,0,,
+2025-04-03,Afternoon,M101,Anita,P002,40,32,64,0,0,,Need maintenance
+2025-04-09,Night,M103,Anita,P003,41,33,165,0,5,,All good
+2025-04-02,Morning,M102,Meera,P001,57,54,216,0,0,,Check sensor
+2025-04-05,Night,M102,Meera,P002,45,35,175,4,0,,Need maintenance
+2025-04-03,Afternoon,M101,John,P003,57,55,220,2,0,,All good
+2025-04-10,Afternoon,M102,Meera,P003,50,46,230,4,0,,Check sensor
+2025-04-05,Night,M101,Meera,P001,50,48,240,0,22,Maintenance,Need maintenance
+2025-04-15,Afternoon,M103,John,P002,55,48,240,4,0,,All good
+2025-04-02,Morning,M102,John,P001,50,41,123,3,30,,
+2025-04-10,Night,M102,John,P001,42,35,140,1,0,,Check sensor
+2025-04-14,Night,M102,Meera,P001,48,45,180,1,0,,All good
+2025-04-04,Afternoon,M101,Raj,P001,58,52,156,0,0,,
+2025-04-05,Morning,M102,Meera,P003,42,42,42,4,0,,Need maintenance
+2025-04-14,Morning,M102,John,P001,40,32,160,4,0,,
+2025-04-08,Night,M102,Raj,P002,52,48,192,2,0,,
+2025-04-03,Night,M102,Anita,P003,50,49,98,5,8,,
+2025-04-11,Afternoon,M101,Raj,P001,46,36,180,0,18,,
+2025-04-11,Afternoon,M103,Meera,P003,43,41,164,5,21,Machine issue,
+2025-04-15,Afternoon,M101,Anita,P002,59,55,275,0,0,,Need maintenance
+2025-04-01,Afternoon,M101,Meera,P001,52,50,250,4,0,,All good
+2025-04-04,Morning,M103,Raj,P002,51,47,47,0,16,Machine issue,All good
+2025-04-06,Afternoon,M101,Raj,P002,41,37,148,3,0,,
+2025-04-13,Night,M102,Raj,P002,41,36,180,5,0,,
+2025-04-14,Afternoon,M103,Anita,P001,45,42,42,3,16,Machine issue,
+2025-04-07,Afternoon,M102,Raj,P002,41,34,170,5,14,Maintenance,Check sensor
+2025-04-06,Afternoon,M102,Anita,P002,46,38,76,0,0,,
+2025-04-07,Afternoon,M101,Meera,P001,51,44,220,2,0,,
+2025-04-05,Morning,M101,Anita,P003,51,46,46,0,0,,Need maintenance
+2025-04-12,Afternoon,M101,Anita,P002,44,37,74,2,0,,
+2025-04-09,Afternoon,M101,John,P002,59,52,104,0,0,,
+2025-04-07,Afternoon,M103,Meera,P001,46,45,225,1,0,,
+2025-04-14,Morning,M101,Raj,P003,54,52,208,4,0,,All good
+2025-04-13,Morning,M101,John,P003,58,55,165,4,0,,Need maintenance
+2025-04-13,Afternoon,M101,John,P003,47,39,39,2,12,Machine issue,Check sensor
+2025-04-03,Night,M103,Meera,P003,58,49,196,5,0,,All good
+2025-04-01,Afternoon,M102,John,P002,41,32,32,1,0,,
+2025-04-03,Night,M103,John,P001,58,50,150,2,3,Power cut,Need maintenance
+2025-04-02,Afternoon,M102,Anita,P001,44,43,43,0,0,,
+2025-04-09,Night,M102,Raj,P002,51,48,240,5,0,,All good
+2025-04-14,Morning,M103,John,P002,44,39,117,3,27,,Check sensor
+2025-04-08,Night,M102,Meera,P001,53,47,94,1,0,,All good
+2025-04-15,Morning,M102,John,P003,54,48,96,1,0,,Check sensor
+2025-04-09,Afternoon,M101,Anita,P003,45,35,175,5,4,Machine issue,
+2025-04-14,Afternoon,M101,Raj,P002,40,39,117,1,0,,
+2025-04-08,Morning,M101,John,P001,52,42,126,1,0,,All good
+2025-04-15,Morning,M101,John,P001,57,48,240,3,0,,
+2025-04-11,Afternoon,M101,Anita,P002,54,44,176,4,0,,
+2025-04-11,Afternoon,M102,Raj,P003,52,46,92,1,0,,Need maintenance
+2025-04-07,Night,M103,John,P003,41,31,124,0,0,,
+2025-04-15,Afternoon,M102,Anita,P003,53,51,204,4,0,,Need maintenance
+2025-04-02,Morning,M101,Meera,P003,53,47,47,5,0,,Need maintenance
+2025-04-09,Afternoon,M102,Anita,P002,54,44,132,2,0,,Check sensor
+2025-04-05,Night,M103,Raj,P002,40,34,68,5,0,,Need maintenance
+2025-04-13,Afternoon,M102,John,P002,50,50,50,4,15,Maintenance,Check sensor
+2025-04-13,Afternoon,M102,Meera,P002,45,43,86,2,0,,Check sensor
+2025-04-11,Afternoon,M101,Meera,P001,42,34,68,3,23,Maintenance,
+2025-04-05,Afternoon,M103,Anita,P003,42,38,38,3,28,Maintenance,Check sensor
+2025-04-13,Morning,M103,Meera,P003,59,57,114,3,0,,
+2025-04-01,Afternoon,M102,Anita,P001,60,60,300,1,26,Material shortage,Need maintenance
+2025-04-05,Morning,M102,John,P002,46,46,138,5,0,,
+2025-04-14,Morning,M103,Anita,P001,42,33,66,0,0,,
+2025-04-10,Afternoon,M103,Raj,P001,53,52,104,0,20,Machine issue,Need maintenance
+2025-04-04,Afternoon,M103,Anita,P003,46,39,156,1,0,,
+2025-04-05,Night,M102,Anita,P002,60,55,220,0,0,,
+2025-04-08,Night,M101,Raj,P001,43,38,152,1,20,Machine issue,Check sensor
+2025-04-06,Afternoon,M101,Raj,P001,54,50,100,2,0,,Check sensor
+2025-04-14,Afternoon,M101,Raj,P003,57,50,250,2,0,,
+2025-04-12,Night,M101,Anita,P002,43,34,68,3,0,,
+2025-04-09,Night,M102,John,P001,55,50,150,3,0,,Check sensor
+2025-04-15,Morning,M101,John,P001,46,45,135,4,0,,
+2025-04-07,Morning,M103,John,P001,51,50,200,3,0,,Check sensor
+2025-04-03,Afternoon,M103,Raj,P003,60,55,110,2,10,Power cut,Need maintenance
+2025-04-14,Afternoon,M103,Raj,P003,59,55,220,3,0,,Need maintenance
+2025-04-05,Morning,M103,Anita,P002,44,36,108,3,0,,Need maintenance
+2025-04-07,Morning,M101,John,P002,60,59,236,2,0,,Check sensor
+2025-04-13,Afternoon,M101,Meera,P003,44,34,34,4,0,,All good
+2025-04-06,Afternoon,M102,Raj,P003,44,38,114,5,0,,
+2025-04-14,Night,M102,Anita,P001,41,31,31,3,0,,Check sensor
+2025-04-13,Afternoon,M101,Meera,P002,52,44,220,2,20,Power cut,All good
+2025-04-08,Night,M101,John,P003,59,59,118,3,8,,
+2025-04-13,Morning,M103,Anita,P002,40,34,68,0,22,Material shortage,
+2025-04-01,Night,M102,Anita,P002,41,37,148,0,13,Maintenance,
+2025-04-14,Morning,M103,Anita,P001,44,40,80,5,0,,Need maintenance
+2025-04-11,Afternoon,M103,John,P001,56,47,188,3,15,Machine issue,
+2025-04-14,Night,M101,Meera,P001,60,51,255,4,10,Machine issue,Check sensor
+2025-04-07,Afternoon,M102,Anita,P002,46,45,135,5,0,,
+2025-04-03,Morning,M101,Meera,P001,45,42,168,3,0,,
+2025-04-07,Afternoon,M103,John,P002,49,43,86,5,24,Power cut,Check sensor
+2025-04-04,Morning,M103,Anita,P001,56,48,192,0,8,,Need maintenance
+2025-04-10,Afternoon,M103,Raj,P002,45,40,120,3,0,,
+2025-04-09,Afternoon,M103,Meera,P002,53,51,153,5,7,,
+2025-04-06,Afternoon,M101,Meera,P001,49,41,82,1,0,,
+2025-04-11,Night,M101,Anita,P002,55,45,180,2,0,,All good
+2025-04-05,Morning,M102,Anita,P001,50,47,188,1,5,Material shortage,All good
+2025-04-09,Morning,M101,Meera,P001,49,42,84,4,10,Machine issue,Check sensor
+2025-04-03,Morning,M103,Anita,P002,60,56,224,2,0,,
+2025-04-01,Morning,M102,Anita,P001,40,32,64,1,0,,All good
+2025-04-15,Night,M101,John,P002,54,48,240,1,9,Maintenance,All good
+2025-04-01,Night,M102,John,P001,50,41,123,3,0,,All good
+2025-04-15,Night,M103,Anita,P003,42,32,160,2,18,Power cut,Need maintenance
+2025-04-14,Night,M102,Anita,P003,50,43,172,0,0,,Check sensor
+2025-04-13,Night,M101,Anita,P003,42,36,72,3,16,Material shortage,All good
+2025-04-03,Morning,M102,Raj,P001,42,37,37,5,0,,Need maintenance
+2025-04-07,Afternoon,M101,John,P001,55,47,141,4,0,,Check sensor
+2025-04-14,Afternoon,M101,John,P003,50,48,192,4,0,,Check sensor
+2025-04-10,Night,M103,John,P001,53,50,50,2,0,,All good
+2025-04-07,Morning,M102,John,P001,57,55,275,4,0,,
+2025-04-08,Night,M102,John,P002,46,36,144,0,0,,All good
+2025-04-11,Morning,M102,John,P002,60,51,153,4,0,,
+2025-04-01,Afternoon,M102,Anita,P003,55,48,192,1,0,,Check sensor
+2025-04-13,Night,M101,Meera,P001,59,58,232,2,29,Power cut,Check sensor
+2025-04-14,Morning,M101,Meera,P002,43,40,200,5,0,,All good
+2025-04-07,Afternoon,M101,Raj,P002,52,43,129,1,0,,All good
+2025-04-06,Night,M101,Raj,P003,42,34,68,2,0,,Check sensor
+2025-04-11,Afternoon,M102,John,P001,59,55,165,2,0,,All good
+2025-04-13,Night,M103,Meera,P001,42,33,165,1,0,,Need maintenance
+2025-04-06,Afternoon,M101,Raj,P001,49,40,160,3,0,,
+2025-04-08,Night,M103,John,P003,43,36,108,4,1,Power cut,
+2025-04-07,Afternoon,M103,John,P002,53,48,48,0,24,Power cut,Check sensor
+2025-04-15,Afternoon,M102,Anita,P001,51,50,150,5,0,,Need maintenance
+2025-04-02,Morning,M101,Raj,P003,47,44,220,1,0,,Check sensor
+2025-04-04,Morning,M102,Anita,P003,45,41,164,3,0,,Need maintenance
+2025-04-02,Afternoon,M101,Anita,P002,44,34,102,0,0,,Need maintenance
+2025-04-11,Morning,M101,Raj,P003,41,35,105,1,0,,Need maintenance
+2025-04-13,Afternoon,M103,Raj,P002,56,49,98,2,0,,Need maintenance
+2025-04-06,Morning,M101,Raj,P003,58,56,280,0,0,,Need maintenance
+2025-04-03,Night,M103,Anita,P002,51,42,42,0,0,,All good
+2025-04-09,Night,M103,John,P003,54,50,200,5,16,Machine issue,
+2025-04-01,Night,M101,Meera,P002,47,46,92,1,0,,Check sensor
+2025-04-12,Morning,M103,Meera,P002,52,46,230,4,12,,Need maintenance
+2025-04-07,Morning,M102,Raj,P002,45,44,176,4,0,,Check sensor
+2025-04-13,Night,M103,Raj,P002,55,54,270,2,20,Machine issue,Check sensor
+2025-04-08,Morning,M102,Meera,P001,53,46,138,1,0,,Check sensor
+2025-04-11,Afternoon,M102,Raj,P001,60,50,250,5,0,,Check sensor
+2025-04-13,Morning,M101,Raj,P003,52,52,104,4,0,,Check sensor
+2025-04-05,Afternoon,M103,Raj,P001,56,54,216,0,16,Power cut,All good
+2025-04-04,Morning,M103,Raj,P002,56,49,49,4,26,Maintenance,Need maintenance
+2025-04-06,Afternoon,M102,Meera,P002,52,49,49,2,24,Material shortage,Need maintenance
+2025-04-08,Afternoon,M102,Anita,P002,47,46,184,3,0,,Need maintenance
+2025-04-14,Morning,M103,Meera,P002,50,43,43,1,0,,Check sensor
+2025-04-07,Morning,M101,Anita,P003,52,47,188,0,0,,Check sensor
+2025-04-14,Afternoon,M102,Anita,P001,42,41,123,1,0,,Check sensor
+2025-04-05,Afternoon,M101,Anita,P003,50,40,80,4,23,Power cut,Check sensor
+2025-04-05,Morning,M103,John,P001,40,34,136,2,0,,Need maintenance
+2025-04-06,Afternoon,M102,Meera,P002,43,39,156,4,11,Power cut,
+2025-04-08,Night,M102,Meera,P003,51,51,204,2,28,Maintenance,Check sensor
+2025-04-03,Afternoon,M103,Raj,P002,53,44,176,0,15,Power cut,Check sensor
+2025-04-03,Morning,M103,John,P001,49,39,195,4,0,,Need maintenance
+2025-04-04,Night,M103,John,P001,54,46,230,4,0,,
+2025-04-05,Night,M102,John,P001,51,44,220,1,7,,Check sensor
+2025-04-09,Afternoon,M102,Anita,P003,52,45,135,5,11,Maintenance,All good
+2025-04-11,Night,M101,John,P001,43,42,126,5,0,,Check sensor
+2025-04-14,Afternoon,M101,Meera,P003,41,35,175,2,0,,Need maintenance
+2025-04-13,Night,M102,Anita,P002,58,54,108,3,0,,Need maintenance
+2025-04-06,Afternoon,M103,Raj,P002,47,46,230,0,0,,
+2025-04-05,Morning,M102,Raj,P003,59,54,162,1,0,,
+2025-04-03,Morning,M101,Raj,P001,45,45,45,3,0,,
+2025-04-09,Afternoon,M101,Anita,P001,40,39,156,5,0,,
+2025-04-08,Morning,M103,Anita,P002,48,47,188,1,0,,
+2025-04-08,Afternoon,M102,Meera,P003,53,49,245,4,0,,All good
+2025-04-09,Morning,M101,Anita,P003,60,58,174,2,0,,Check sensor
+2025-04-06,Afternoon,M102,Anita,P003,59,57,228,0,0,,Need maintenance
+2025-04-06,Night,M103,Raj,P002,40,32,128,1,23,Maintenance,Check sensor
+2025-04-12,Afternoon,M102,Anita,P002,53,46,138,4,0,,Need maintenance
+2025-04-14,Night,M101,Raj,P001,46,45,90,0,0,,Need maintenance
+2025-04-04,Afternoon,M103,Meera,P003,45,37,148,3,27,Maintenance,Need maintenance
+2025-04-06,Night,M103,Meera,P002,41,32,64,2,0,,Need maintenance
+2025-04-12,Night,M103,Anita,P002,44,37,185,3,0,,Need maintenance
+2025-04-08,Afternoon,M102,John,P003,59,51,102,5,0,,Check sensor
+2025-04-10,Morning,M103,Raj,P002,59,49,49,2,0,,Check sensor
+2025-04-04,Afternoon,M101,John,P003,54,51,153,5,0,,Need maintenance
+2025-04-13,Night,M102,Meera,P003,46,37,185,1,0,,Check sensor
+2025-04-12,Morning,M103,John,P001,46,38,76,5,28,Material shortage,Check sensor
+2025-04-11,Night,M103,Meera,P001,40,37,74,4,24,Machine issue,
+2025-04-05,Night,M103,Meera,P002,53,50,250,2,17,Machine issue,
+2025-04-13,Morning,M101,Raj,P001,57,47,188,5,0,,Check sensor
+2025-04-07,Afternoon,M103,Raj,P001,40,33,66,2,14,Power cut,Need maintenance
+2025-04-06,Night,M103,Meera,P003,43,39,195,3,0,,
+2025-04-05,Morning,M101,John,P002,44,42,126,2,1,Material shortage,Check sensor
+2025-04-14,Morning,M102,Raj,P002,59,57,285,3,0,,Check sensor
+2025-04-07,Afternoon,M102,Meera,P002,45,36,72,3,30,Material shortage,
+2025-04-06,Morning,M103,Meera,P001,46,37,37,1,14,Maintenance,Need maintenance
+2025-04-03,Morning,M101,Anita,P001,41,41,205,1,0,,Check sensor
+2025-04-13,Afternoon,M102,Anita,P001,44,35,140,3,0,,Check sensor
+2025-04-14,Afternoon,M103,Raj,P002,58,53,265,0,0,,All good
+2025-04-04,Afternoon,M103,John,P001,47,38,76,0,0,,Check sensor
+2025-04-14,Night,M102,Meera,P002,58,48,240,0,0,,Check sensor
+2025-04-01,Morning,M101,Anita,P001,50,41,123,4,0,,Check sensor
+2025-04-13,Night,M102,Raj,P002,59,51,153,5,0,,
+2025-04-05,Morning,M101,Meera,P002,54,44,132,1,6,Material shortage,
+2025-04-12,Afternoon,M103,Anita,P001,43,35,105,3,0,,
+2025-04-02,Morning,M101,Raj,P001,49,49,196,0,10,Machine issue,Need maintenance
+2025-04-02,Morning,M103,Raj,P003,44,37,148,5,0,,Need maintenance
+2025-04-13,Afternoon,M102,Raj,P003,40,34,102,1,0,,Check sensor
+2025-04-14,Night,M102,Anita,P001,48,39,156,2,23,Material shortage,All good
+2025-04-14,Morning,M102,Meera,P003,53,45,180,4,0,,All good
+2025-04-14,Morning,M102,Raj,P002,50,41,164,1,0,,
+2025-04-15,Night,M101,John,P001,58,58,232,2,29,Material shortage,Check sensor
+2025-04-13,Morning,M101,Anita,P001,54,45,135,5,0,,Need maintenance
+2025-04-11,Morning,M102,Raj,P001,51,45,225,4,28,Material shortage,Need maintenance
+2025-04-15,Afternoon,M102,John,P003,52,51,102,0,0,,Check sensor
+2025-04-01,Morning,M103,Raj,P003,46,37,148,2,0,,Need maintenance
+2025-04-03,Afternoon,M103,Meera,P003,56,47,141,5,0,,
+2025-04-01,Morning,M101,Anita,P003,50,42,126,4,28,Material shortage,Check sensor
+2025-04-08,Night,M102,Raj,P002,57,57,57,2,0,,
+2025-04-08,Morning,M103,Anita,P002,59,52,52,1,30,Power cut,Need maintenance
+2025-04-15,Afternoon,M102,John,P002,44,37,37,4,24,Material shortage,Check sensor
+2025-04-14,Afternoon,M103,John,P002,60,58,290,0,0,,Check sensor
+2025-04-05,Morning,M103,Meera,P002,52,43,43,3,0,,Check sensor
+2025-04-04,Night,M103,Raj,P003,40,38,190,4,0,,All good
+2025-04-09,Afternoon,M102,John,P003,49,42,126,1,0,,Check sensor
+2025-04-10,Morning,M102,Anita,P001,50,48,192,5,27,Power cut,
+2025-04-03,Afternoon,M101,John,P002,42,40,120,2,0,,
+2025-04-13,Afternoon,M102,Meera,P003,59,50,200,0,0,,All good
+2025-04-13,Afternoon,M101,Raj,P003,52,49,98,3,0,,All good
+2025-04-03,Morning,M101,Anita,P002,42,33,33,4,0,,Need maintenance
+2025-04-10,Morning,M102,Raj,P001,51,49,49,2,0,,Check sensor
+2025-04-11,Morning,M102,Anita,P001,54,53,265,4,0,,Check sensor
+2025-04-05,Morning,M103,Meera,P001,50,40,40,5,0,,All good
+2025-04-04,Afternoon,M103,Anita,P001,51,51,255,2,0,,Need maintenance
+2025-04-12,Afternoon,M102,Meera,P001,50,47,188,1,0,,Need maintenance
+2025-04-08,Afternoon,M101,Raj,P001,56,55,55,3,0,,
+2025-04-13,Afternoon,M103,Anita,P003,50,46,92,4,0,,All good
+2025-04-03,Night,M103,Anita,P002,55,55,110,2,0,,Check sensor
+2025-04-13,Night,M101,Raj,P002,56,56,280,5,12,,Check sensor
+2025-04-11,Morning,M103,Anita,P002,53,50,200,4,0,,
+2025-04-13,Night,M102,Raj,P002,50,44,176,4,0,,
+2025-04-08,Morning,M102,Meera,P001,45,38,114,2,10,Machine issue,
+2025-04-04,Afternoon,M103,Anita,P003,48,48,240,0,9,Material shortage,Check sensor
+2025-04-15,Night,M102,John,P002,44,34,102,1,18,Power cut,Check sensor
+2025-04-03,Afternoon,M103,Raj,P001,60,59,59,3,17,Machine issue,All good
+2025-04-01,Afternoon,M102,Anita,P001,40,35,105,5,5,,Need maintenance
+2025-04-04,Night,M101,Anita,P002,44,42,210,3,17,,Check sensor
+2025-04-11,Afternoon,M103,Meera,P003,53,47,47,2,23,Maintenance,Check sensor
+2025-04-12,Afternoon,M102,Meera,P001,41,32,160,4,0,,All good
+2025-04-15,Morning,M103,Anita,P002,57,55,110,0,15,Power cut,All good
+2025-04-03,Morning,M101,Raj,P003,40,36,36,2,28,,Check sensor
+2025-04-15,Morning,M101,Meera,P002,47,45,90,3,0,,Check sensor
+2025-04-05,Afternoon,M102,Raj,P003,51,43,172,5,0,,
+2025-04-05,Night,M103,Meera,P003,50,42,210,4,0,,All good
+2025-04-05,Night,M102,John,P003,49,43,172,5,17,Maintenance,Need maintenance
+2025-04-12,Night,M101,Raj,P002,59,57,114,2,0,,Need maintenance
+2025-04-14,Night,M101,Raj,P002,43,37,185,0,0,,
+2025-04-03,Afternoon,M102,Raj,P002,54,45,135,4,0,,Need maintenance
+2025-04-11,Morning,M102,John,P001,43,33,99,4,21,,Need maintenance
+2025-04-12,Morning,M103,Meera,P003,46,45,180,5,24,,All good
+2025-04-03,Afternoon,M101,Raj,P003,52,47,188,1,23,,All good
+2025-04-09,Morning,M102,Raj,P001,48,40,200,1,0,,All good
+2025-04-14,Night,M102,Meera,P002,46,44,132,0,0,,All good
+2025-04-02,Morning,M102,Meera,P003,40,35,105,4,0,,
+2025-04-03,Night,M102,John,P002,42,37,148,5,0,,Check sensor
+2025-04-12,Night,M101,John,P002,60,57,57,0,0,,Need maintenance
+2025-04-11,Afternoon,M103,Meera,P003,53,49,245,2,0,,All good
+2025-04-09,Afternoon,M102,Raj,P002,40,35,105,2,0,,Need maintenance
+2025-04-05,Afternoon,M102,John,P002,40,34,136,4,0,,
+2025-04-11,Night,M101,John,P001,48,41,164,4,0,,Need maintenance
+2025-04-02,Morning,M102,John,P002,54,47,188,2,0,,All good
+2025-04-15,Morning,M103,Raj,P002,50,46,184,4,15,,Need maintenance
+2025-04-12,Night,M101,Raj,P001,49,45,135,5,0,,Check sensor
+2025-04-14,Night,M102,Anita,P002,51,45,225,2,0,,Need maintenance
+2025-04-02,Morning,M102,Raj,P002,46,45,225,2,7,Maintenance,Need maintenance
+2025-04-11,Afternoon,M103,Anita,P002,56,55,165,2,0,,Need maintenance
+2025-04-15,Afternoon,M103,Raj,P001,59,56,168,1,0,,Check sensor
+2025-04-08,Afternoon,M101,Meera,P002,40,36,72,0,0,,Need maintenance
+2025-04-10,Afternoon,M101,Meera,P001,47,39,78,2,0,,
+2025-04-03,Morning,M102,Anita,P003,41,40,160,0,0,,All good
+2025-04-12,Afternoon,M102,Anita,P001,44,36,72,4,0,,Need maintenance
+2025-04-03,Afternoon,M101,Meera,P002,56,46,230,5,0,,Check sensor
+2025-04-14,Afternoon,M101,Raj,P001,41,35,140,3,0,,Need maintenance
+2025-04-05,Night,M102,Anita,P001,40,33,33,3,0,,
+2025-04-07,Afternoon,M103,Raj,P002,44,34,136,0,0,,
+2025-04-12,Morning,M101,Anita,P001,57,49,245,0,0,,
+2025-04-07,Afternoon,M102,Anita,P002,57,51,204,0,0,,Check sensor
+2025-04-13,Afternoon,M102,Anita,P002,52,48,240,1,4,Machine issue,
+2025-04-14,Morning,M103,Meera,P002,56,56,224,1,0,,All good
+2025-04-03,Afternoon,M101,Anita,P002,42,42,84,3,0,,All good
+2025-04-15,Morning,M102,Anita,P002,53,52,208,4,9,Material shortage,Need maintenance
+2025-04-07,Morning,M102,Anita,P001,42,38,152,4,14,Power cut,Need maintenance
+2025-04-10,Night,M102,Meera,P001,41,39,156,1,0,,
+2025-04-14,Morning,M103,Anita,P003,52,44,88,3,24,,Check sensor
+2025-04-01,Night,M101,Meera,P003,55,55,55,0,0,,
+2025-04-14,Morning,M102,John,P001,55,47,94,1,0,,Check sensor
+2025-04-01,Night,M102,John,P003,47,44,88,3,0,,Check sensor
+2025-04-15,Night,M102,Anita,P003,46,45,225,4,0,,Need maintenance
+2025-04-11,Night,M102,Raj,P003,43,42,210,2,23,Maintenance,
+2025-04-11,Morning,M103,Raj,P003,57,56,112,0,0,,Need maintenance
+2025-04-05,Morning,M103,John,P003,59,53,212,5,14,Material shortage,All good
+2025-04-05,Afternoon,M103,Meera,P002,48,46,230,2,29,Machine issue,Need maintenance
+2025-04-08,Night,M103,Anita,P002,48,48,48,1,13,,
+2025-04-08,Afternoon,M102,Raj,P003,53,52,156,5,0,,Check sensor
+2025-04-13,Night,M103,Raj,P003,55,54,108,5,13,,All good
+2025-04-10,Night,M103,Anita,P001,44,38,38,0,0,,All good
+2025-04-13,Morning,M103,Raj,P001,44,38,76,1,0,,Check sensor
+2025-04-02,Afternoon,M102,Raj,P002,40,38,114,3,0,,Need maintenance
+2025-04-06,Morning,M101,Meera,P001,41,37,37,1,0,,All good
+2025-04-02,Morning,M103,John,P001,59,54,162,2,0,,
+2025-04-04,Afternoon,M103,Raj,P002,49,40,160,1,0,,All good
+2025-04-10,Morning,M102,Meera,P003,50,43,86,2,0,,All good
+2025-04-15,Afternoon,M102,John,P001,41,32,160,5,0,,Need maintenance
+2025-04-14,Afternoon,M103,John,P001,60,53,159,3,0,,All good
+2025-04-13,Night,M101,Raj,P003,52,49,98,4,0,,All good
+2025-04-01,Afternoon,M101,Meera,P003,49,40,160,0,28,Maintenance,Check sensor
+2025-04-02,Morning,M102,Raj,P003,44,44,44,4,0,,
+2025-04-15,Afternoon,M102,John,P003,48,42,210,4,0,,All good
+2025-04-15,Afternoon,M102,John,P002,47,41,205,5,0,,
+2025-04-12,Morning,M103,Meera,P001,49,48,48,2,0,,Need maintenance
+2025-04-13,Afternoon,M101,John,P002,52,48,48,0,28,Machine issue,Check sensor
+2025-04-07,Night,M101,Anita,P002,60,58,290,3,4,Machine issue,All good
+2025-04-07,Morning,M102,John,P003,42,37,185,2,0,,Need maintenance
+2025-04-05,Night,M102,Meera,P001,46,43,172,3,20,Machine issue,Check sensor
+2025-04-02,Morning,M101,John,P001,43,41,41,4,12,Maintenance,All good
+2025-04-02,Night,M101,Anita,P003,46,43,215,3,0,,All good
+2025-04-12,Night,M103,Raj,P001,60,58,58,0,0,,Need maintenance
+2025-04-07,Night,M101,John,P001,58,53,265,1,0,,All good
+2025-04-04,Morning,M101,John,P001,59,55,220,5,0,,
+2025-04-09,Morning,M101,Raj,P003,43,39,78,3,0,,Need maintenance
+2025-04-05,Afternoon,M103,Meera,P002,48,47,141,1,0,,Check sensor
+2025-04-08,Morning,M103,Anita,P003,58,49,147,3,29,Maintenance,
+2025-04-01,Morning,M102,Anita,P003,41,39,195,4,0,,
+2025-04-09,Night,M102,Meera,P002,50,47,235,0,0,,Need maintenance
+2025-04-14,Morning,M103,Meera,P001,48,39,117,0,0,,All good
+2025-04-09,Night,M101,Raj,P003,52,46,92,4,0,,Need maintenance
+2025-04-02,Morning,M103,John,P001,59,54,108,1,0,,Check sensor
+2025-04-06,Morning,M102,Raj,P002,56,54,270,1,0,,All good
+2025-04-12,Morning,M101,Anita,P001,45,38,38,0,0,,All good
+2025-04-03,Afternoon,M102,John,P003,42,36,108,3,0,,All good
+2025-04-15,Afternoon,M103,John,P002,47,44,132,2,0,,Need maintenance
+2025-04-04,Morning,M101,John,P001,55,49,245,4,0,,All good
+2025-04-01,Morning,M102,Meera,P001,48,45,225,4,0,,Need maintenance
+2025-04-13,Afternoon,M101,John,P003,49,41,205,1,0,,All good
+2025-04-15,Afternoon,M102,Anita,P003,47,41,205,5,0,,All good
+2025-04-15,Morning,M103,Anita,P001,60,50,50,1,0,,Check sensor
+2025-04-06,Night,M101,Raj,P002,53,51,153,0,23,Material shortage,Need maintenance
+2025-04-13,Morning,M103,John,P001,42,42,168,0,14,,Check sensor
+2025-04-14,Morning,M102,Raj,P003,47,37,185,5,23,Power cut,
+2025-04-14,Night,M101,Meera,P003,57,52,104,4,0,,
+2025-04-06,Night,M103,Raj,P001,41,34,136,5,14,Maintenance,Need maintenance
+2025-04-06,Afternoon,M101,Raj,P002,41,38,114,4,0,,
+2025-04-10,Afternoon,M103,Meera,P001,41,37,74,5,0,,Need maintenance
+2025-04-03,Night,M103,Anita,P002,42,37,111,4,13,,Need maintenance
+2025-04-12,Morning,M101,Raj,P002,49,49,245,4,1,Material shortage,
+2025-04-06,Afternoon,M103,Raj,P002,55,46,138,1,0,,All good
+2025-04-01,Night,M102,Meera,P002,40,30,60,4,0,,Need maintenance
+2025-04-01,Afternoon,M102,Anita,P002,60,57,171,4,0,,Need maintenance
+2025-04-05,Morning,M102,John,P003,50,47,94,0,0,,
+2025-04-05,Night,M102,John,P002,41,32,32,5,19,,
+2025-04-14,Night,M102,Anita,P001,54,47,188,4,0,,All good
+2025-04-11,Morning,M102,Anita,P001,41,31,31,3,0,,Need maintenance
+2025-04-01,Night,M102,Raj,P002,60,54,108,4,0,,
+2025-04-07,Morning,M101,John,P001,44,34,170,2,0,,Check sensor
+2025-04-06,Morning,M101,John,P002,60,58,174,5,0,,Need maintenance
+2025-04-11,Night,M103,Raj,P002,40,39,195,0,6,Power cut,Need maintenance
+2025-04-02,Morning,M101,Anita,P001,60,58,290,3,0,,All good
+2025-04-03,Night,M103,Anita,P002,59,52,208,5,0,,Need maintenance
+2025-04-08,Morning,M103,John,P001,48,40,200,3,0,,Check sensor
+2025-04-05,Morning,M103,Meera,P003,48,47,94,4,10,Machine issue,Check sensor
+2025-04-03,Night,M102,John,P002,51,47,141,0,0,,
+2025-04-09,Morning,M101,Raj,P003,45,43,86,3,25,,Need maintenance
+2025-04-09,Morning,M103,Raj,P003,53,50,50,5,0,,Need maintenance
+2025-04-12,Afternoon,M101,Meera,P001,46,45,180,3,16,Maintenance,Check sensor
+2025-04-11,Morning,M101,John,P002,50,50,150,0,0,,Check sensor
+2025-04-12,Morning,M102,Meera,P001,59,51,204,1,16,,Need maintenance
+2025-04-03,Night,M102,John,P001,41,39,117,2,0,,All good
+2025-04-14,Morning,M102,Meera,P002,49,43,43,2,0,,Check sensor
+2025-04-04,Night,M103,Meera,P003,47,44,176,1,14,Machine issue,
+2025-04-07,Morning,M103,Anita,P003,59,55,165,3,30,Power cut,
+2025-04-14,Afternoon,M101,Raj,P002,58,56,112,3,0,,All good
+2025-04-10,Morning,M101,Anita,P002,42,33,99,4,0,,Check sensor
+2025-04-13,Morning,M102,Raj,P001,56,50,200,2,0,,All good
+2025-04-05,Afternoon,M101,Raj,P002,44,37,185,3,0,,Check sensor
+2025-04-01,Afternoon,M101,Anita,P003,59,49,196,1,20,Power cut,Check sensor
+2025-04-15,Afternoon,M102,John,P003,55,46,138,2,0,,
+2025-04-07,Afternoon,M103,Meera,P001,60,57,114,3,0,,Need maintenance
+2025-04-13,Morning,M103,Raj,P002,43,35,105,5,19,Maintenance,
+2025-04-15,Morning,M102,Anita,P003,55,47,94,0,0,,
+2025-04-15,Morning,M103,John,P001,42,41,205,1,0,,Check sensor
+2025-04-13,Morning,M101,Raj,P003,45,45,225,3,0,,Need maintenance
+2025-04-12,Morning,M103,Meera,P003,52,51,102,4,7,Material shortage,Check sensor
+2025-04-08,Night,M102,Raj,P002,58,56,224,1,12,Machine issue,All good
+2025-04-10,Night,M101,Raj,P002,40,34,170,5,0,,Need maintenance
+2025-04-12,Night,M101,Anita,P002,48,44,44,5,0,,
+2025-04-10,Night,M102,Meera,P003,59,58,58,0,16,Maintenance,All good
+2025-04-12,Morning,M102,Anita,P002,44,34,136,2,0,,
+2025-04-05,Night,M103,John,P003,54,48,192,0,0,,
+2025-04-02,Night,M102,Raj,P002,53,45,225,2,0,,All good
+2025-04-02,Morning,M101,Raj,P001,43,33,132,0,0,,Need maintenance
+2025-04-10,Morning,M102,Anita,P001,49,49,98,3,0,,Need maintenance
+2025-04-06,Night,M101,Anita,P003,44,44,220,3,0,,Check sensor
+2025-04-08,Afternoon,M103,John,P003,48,41,82,1,0,,Check sensor
+2025-04-05,Morning,M101,John,P002,45,40,160,1,0,,
+2025-04-09,Afternoon,M101,John,P002,49,47,141,0,11,Machine issue,
+2025-04-03,Afternoon,M103,John,P002,58,55,275,4,0,,All good
+2025-04-13,Afternoon,M103,Meera,P002,42,39,39,2,14,,All good
+2025-04-09,Night,M101,Meera,P001,45,37,185,4,27,,Need maintenance
+2025-04-07,Afternoon,M101,Raj,P003,59,53,53,3,0,,Check sensor
+2025-04-06,Morning,M103,Anita,P003,49,45,180,2,0,,Need maintenance
+2025-04-02,Night,M102,Anita,P001,40,31,155,3,0,,Need maintenance
+2025-04-01,Morning,M103,Raj,P001,47,47,94,3,0,,Need maintenance
+2025-04-05,Afternoon,M101,John,P001,46,42,42,4,0,,Need maintenance
+2025-04-06,Afternoon,M102,Anita,P003,57,51,255,0,23,Maintenance,
+2025-04-06,Morning,M103,Meera,P003,60,59,177,5,0,,
+2025-04-03,Night,M103,Meera,P003,55,45,135,3,0,,Check sensor
+2025-04-09,Morning,M103,Raj,P002,46,46,230,5,0,,All good
+2025-04-07,Afternoon,M101,Meera,P002,60,51,102,2,12,Machine issue,Need maintenance
+2025-04-15,Afternoon,M101,Raj,P003,49,49,98,2,0,,
+2025-04-04,Afternoon,M101,Raj,P002,40,35,175,5,1,Maintenance,All good
+2025-04-15,Night,M103,Anita,P002,49,46,138,2,0,,Check sensor
+2025-04-13,Morning,M102,Meera,P001,60,57,285,1,26,Power cut,Check sensor
+2025-04-15,Morning,M101,Anita,P002,50,48,144,3,0,,All good
+2025-04-10,Night,M101,John,P002,47,43,215,5,0,,Need maintenance
+2025-04-12,Morning,M102,Meera,P002,57,56,56,0,0,,Check sensor
+2025-04-11,Afternoon,M102,Raj,P003,43,34,136,5,0,,
+2025-04-14,Afternoon,M103,Anita,P002,52,52,52,1,0,,Need maintenance
+2025-04-02,Afternoon,M103,Meera,P003,56,53,265,0,0,,
+2025-04-10,Afternoon,M101,John,P002,40,40,120,4,0,,Check sensor
+2025-04-04,Afternoon,M103,Anita,P002,40,32,64,1,0,,
+2025-04-08,Morning,M103,John,P003,54,50,50,0,0,,
+2025-04-12,Night,M101,John,P003,56,49,245,2,0,,Check sensor
+2025-04-05,Morning,M102,John,P002,50,44,176,0,25,Material shortage,Need maintenance
+2025-04-13,Night,M103,John,P002,53,51,102,5,11,Material shortage,
+2025-04-03,Night,M101,Anita,P001,50,46,184,3,0,,Need maintenance
+2025-04-06,Night,M103,Meera,P002,59,49,49,3,0,,All good
+2025-04-09,Night,M101,Anita,P002,42,33,132,3,0,,
+2025-04-04,Night,M102,Meera,P002,52,48,96,4,6,Material shortage,Check sensor
+2025-04-15,Afternoon,M103,Anita,P001,51,46,92,5,0,,Check sensor
+2025-04-09,Afternoon,M103,Raj,P001,50,49,245,0,0,,All good
+2025-04-04,Afternoon,M102,John,P003,44,38,190,0,0,,
+2025-04-07,Morning,M102,John,P002,43,35,105,0,0,,Need maintenance
+2025-04-13,Morning,M101,John,P003,60,50,150,4,0,,Need maintenance
+2025-04-07,Night,M103,Raj,P001,42,39,78,1,0,,Need maintenance
+2025-04-09,Afternoon,M102,John,P003,43,39,117,4,0,,Need maintenance
+2025-04-15,Afternoon,M103,Raj,P001,56,53,265,0,9,Maintenance,Check sensor
+2025-04-04,Afternoon,M103,Raj,P003,46,43,215,5,9,Maintenance,
+2025-04-09,Morning,M103,Meera,P003,57,57,57,1,2,Power cut,Check sensor
+2025-04-12,Afternoon,M101,Meera,P003,45,37,111,1,0,,All good
+2025-04-03,Morning,M102,Anita,P001,48,40,40,1,0,,Check sensor
+2025-04-04,Night,M102,John,P002,57,52,104,1,0,,Check sensor
+2025-04-07,Morning,M102,Anita,P003,48,39,78,3,0,,Check sensor
+2025-04-15,Afternoon,M102,Raj,P003,42,42,126,0,7,Machine issue,
+2025-04-01,Night,M102,Raj,P001,45,39,117,5,0,,
+2025-04-10,Night,M101,Meera,P001,53,45,225,3,0,,Check sensor
+2025-04-07,Night,M102,Anita,P002,49,39,39,1,0,,
+2025-04-11,Morning,M102,Anita,P002,59,55,275,2,0,,All good
+2025-04-13,Night,M102,John,P002,57,55,110,2,0,,All good
+2025-04-06,Night,M101,Anita,P003,59,59,177,5,0,,All good
+2025-04-15,Night,M103,Anita,P001,56,56,56,2,6,Maintenance,Check sensor
+2025-04-02,Morning,M103,Meera,P003,54,45,45,0,29,Machine issue,All good
+2025-04-12,Night,M103,John,P001,43,38,114,1,2,,Check sensor
+2025-04-08,Night,M101,Meera,P001,48,41,82,5,0,,
+2025-04-12,Afternoon,M102,John,P002,48,43,172,0,0,,All good
+2025-04-09,Night,M103,John,P003,53,44,44,2,4,Power cut,All good
+2025-04-11,Morning,M103,John,P003,53,48,192,3,0,,All good
+2025-04-04,Night,M103,Raj,P001,47,42,84,2,0,,Need maintenance
+2025-04-10,Night,M101,Meera,P002,40,37,111,2,30,Power cut,Check sensor
+2025-04-10,Morning,M101,Raj,P001,43,43,215,2,0,,Check sensor
+2025-04-01,Morning,M102,Raj,P002,50,43,43,2,26,Maintenance,Check sensor
+2025-04-03,Morning,M101,John,P002,55,50,150,0,0,,All good
+2025-04-14,Night,M101,Raj,P001,50,46,46,3,0,,Check sensor
+2025-04-01,Night,M102,Anita,P001,51,51,153,2,4,Material shortage,Need maintenance
+2025-04-10,Afternoon,M103,Anita,P001,60,57,228,3,0,,
+2025-04-10,Night,M101,John,P003,58,52,104,5,0,,Need maintenance
+2025-04-09,Afternoon,M103,Anita,P002,44,38,76,5,0,,
+2025-04-13,Morning,M102,Anita,P003,48,45,135,4,30,Power cut,Need maintenance
+2025-04-14,Night,M101,Anita,P001,43,33,165,1,0,,
+2025-04-08,Night,M102,John,P001,47,47,94,2,0,,Need maintenance
+2025-04-13,Morning,M102,John,P003,41,31,62,2,25,Material shortage,All good
+2025-04-08,Night,M102,John,P001,44,39,39,4,0,,Need maintenance
+2025-04-11,Afternoon,M101,John,P002,58,52,208,2,0,,Need maintenance
+2025-04-01,Afternoon,M101,Meera,P002,60,60,300,2,0,,Check sensor
+2025-04-14,Morning,M101,Raj,P002,51,42,168,2,1,,Check sensor
+2025-04-05,Night,M101,Anita,P001,49,45,90,0,0,,
+2025-04-15,Afternoon,M103,Meera,P002,53,43,129,3,0,,Need maintenance
+2025-04-05,Morning,M101,John,P002,58,54,270,0,0,,Need maintenance
+2025-04-03,Afternoon,M103,Anita,P003,55,54,54,0,0,,Check sensor
+2025-04-14,Morning,M103,Raj,P001,52,50,250,0,0,,Check sensor
+2025-04-04,Night,M102,Anita,P001,51,43,129,1,10,Machine issue,Check sensor
+2025-04-06,Night,M102,John,P002,53,49,49,0,0,,
+2025-04-07,Night,M102,Anita,P002,45,37,74,3,0,,
+2025-04-01,Morning,M101,Anita,P002,40,32,96,3,0,,Check sensor
+2025-04-04,Morning,M103,Meera,P002,52,51,153,0,0,,
+2025-04-10,Afternoon,M103,Anita,P002,48,39,78,3,0,,
+2025-04-12,Morning,M102,John,P001,49,42,210,4,0,,Need maintenance
+2025-04-08,Night,M101,John,P003,42,39,156,3,11,Machine issue,Need maintenance
+2025-04-06,Afternoon,M103,Meera,P002,60,58,232,0,23,Power cut,Check sensor
+2025-04-12,Afternoon,M102,Raj,P001,41,40,200,0,0,,All good
+2025-04-08,Afternoon,M102,Meera,P003,59,50,50,1,16,Maintenance,Need maintenance
+2025-04-11,Afternoon,M101,Raj,P002,52,47,47,4,5,,Check sensor
+2025-04-12,Afternoon,M101,Anita,P001,44,38,38,1,0,,Check sensor
+2025-04-10,Afternoon,M103,John,P003,56,54,270,4,0,,All good
+2025-04-02,Afternoon,M103,Anita,P001,46,45,225,5,0,,Need maintenance
+2025-04-09,Afternoon,M103,Meera,P003,52,42,126,5,9,Material shortage,Need maintenance
+2025-04-03,Morning,M102,Anita,P003,49,49,196,1,0,,All good
+2025-04-04,Afternoon,M101,John,P003,48,45,225,2,0,,All good
+2025-04-09,Night,M103,Anita,P001,46,37,74,2,17,Maintenance,Check sensor
+2025-04-02,Afternoon,M101,Raj,P002,43,43,86,3,0,,All good
+2025-04-03,Morning,M101,Anita,P003,53,49,245,3,0,,Check sensor
+2025-04-13,Morning,M102,Meera,P003,59,54,162,2,0,,All good
+2025-04-02,Morning,M102,John,P003,57,50,150,2,0,,Need maintenance
+2025-04-04,Morning,M101,Meera,P001,56,53,265,1,0,,All good
+2025-04-02,Afternoon,M102,Meera,P002,47,47,235,0,0,,Check sensor
+2025-04-07,Night,M103,Raj,P001,52,50,150,3,0,,All good
+2025-04-13,Afternoon,M102,Meera,P001,59,59,59,5,25,Machine issue,
+2025-04-14,Morning,M102,John,P002,52,44,44,0,25,,All good
+2025-04-14,Morning,M101,John,P003,45,42,42,5,0,,
+2025-04-15,Afternoon,M103,John,P003,60,56,56,3,0,,Check sensor
+2025-04-07,Morning,M103,Raj,P003,46,46,138,0,0,,All good
+2025-04-08,Night,M102,Anita,P002,40,31,62,4,0,,Need maintenance
+2025-04-02,Morning,M101,Meera,P001,58,50,250,4,15,Material shortage,
+2025-04-08,Afternoon,M103,John,P002,58,50,250,5,0,,All good
+2025-04-13,Afternoon,M102,John,P002,56,51,153,4,0,,Need maintenance
+2025-04-12,Night,M101,John,P001,48,44,220,0,0,,
+2025-04-02,Morning,M101,Raj,P003,43,35,140,0,7,Material shortage,
+2025-04-03,Morning,M103,Anita,P002,44,35,35,5,28,Power cut,All good
+2025-04-06,Afternoon,M101,John,P003,58,52,156,4,15,Power cut,All good
+2025-04-09,Night,M102,Raj,P002,57,47,141,2,4,Maintenance,All good
+2025-04-03,Afternoon,M101,Anita,P003,42,40,160,1,4,,Need maintenance
+2025-04-03,Afternoon,M103,John,P002,53,43,215,4,0,,Check sensor
+2025-04-01,Morning,M101,Raj,P001,54,49,196,4,0,,Need maintenance
+2025-04-05,Morning,M101,Anita,P002,52,48,48,5,0,,Check sensor
+2025-04-10,Night,M103,Anita,P001,42,36,144,1,0,,All good
+2025-04-11,Night,M101,John,P003,48,38,76,1,21,Material shortage,All good
+2025-04-09,Morning,M101,Anita,P001,55,46,92,0,4,Machine issue,Check sensor
+2025-04-14,Afternoon,M101,John,P002,40,39,156,0,0,,All good
+2025-04-12,Night,M101,Anita,P001,53,53,212,5,2,,
+2025-04-10,Afternoon,M103,Raj,P001,44,37,37,4,0,,Need maintenance
+2025-04-05,Night,M101,Anita,P001,54,53,265,2,0,,
+2025-04-05,Night,M102,Anita,P001,56,56,224,4,0,,All good
+2025-04-05,Morning,M103,Anita,P002,50,43,43,3,0,,
+2025-04-15,Morning,M102,Raj,P002,60,59,236,4,0,,Check sensor
+2025-04-15,Night,M101,Meera,P002,43,42,42,3,0,,All good
+2025-04-02,Night,M101,Meera,P002,59,50,50,1,3,,All good
+2025-04-02,Morning,M102,John,P003,50,49,147,0,0,,All good
+2025-04-05,Night,M101,Meera,P003,42,37,185,2,0,,Check sensor
+2025-04-04,Afternoon,M102,Anita,P002,44,35,70,3,5,Machine issue,All good
+2025-04-11,Morning,M101,Meera,P001,40,39,195,4,0,,Need maintenance
+2025-04-07,Afternoon,M101,John,P001,54,49,49,0,14,Material shortage,
+2025-04-04,Night,M101,Anita,P002,42,41,41,5,16,Maintenance,
+2025-04-10,Afternoon,M101,Raj,P001,40,32,160,5,15,Power cut,Check sensor
+2025-04-09,Morning,M102,Raj,P002,52,47,47,0,11,Power cut,Check sensor
+2025-04-04,Afternoon,M103,John,P003,50,41,41,5,0,,Check sensor
+2025-04-15,Night,M102,John,P001,41,35,70,1,11,Machine issue,Check sensor
+2025-04-11,Night,M103,Raj,P003,48,44,88,1,30,Material shortage,All good
+2025-04-02,Night,M101,Raj,P003,45,45,135,3,0,,
+2025-04-01,Afternoon,M102,Anita,P002,55,51,204,4,24,Maintenance,Need maintenance
+2025-04-13,Afternoon,M101,John,P002,44,37,111,0,0,,Check sensor
+2025-04-09,Morning,M101,Raj,P003,51,49,196,1,0,,Need maintenance
+2025-04-06,Night,M102,John,P001,41,36,108,1,4,Machine issue,Need maintenance
+2025-04-06,Morning,M103,Raj,P002,53,49,98,2,0,,Check sensor
+2025-04-12,Morning,M103,Raj,P001,53,47,188,5,0,,
+2025-04-09,Night,M101,Raj,P001,45,35,175,5,0,,Check sensor
+2025-04-09,Afternoon,M103,John,P002,51,47,188,1,0,,
+2025-04-10,Afternoon,M103,John,P003,57,50,250,3,0,,Check sensor
+2025-04-10,Morning,M101,John,P002,55,49,98,1,0,,Check sensor
+2025-04-04,Morning,M103,Anita,P002,55,54,54,4,0,,Check sensor
+2025-04-09,Night,M102,John,P003,60,56,56,2,0,,Check sensor
+2025-04-15,Morning,M101,Raj,P002,44,39,39,4,0,,Check sensor
+2025-04-15,Morning,M101,John,P001,47,46,46,2,4,Material shortage,All good
+2025-04-02,Afternoon,M103,Meera,P002,40,35,105,5,0,,All good
+2025-04-05,Morning,M103,Anita,P002,60,59,236,2,0,,Check sensor
+2025-04-07,Night,M101,Raj,P001,51,42,210,0,0,,Need maintenance
+2025-04-10,Night,M102,Raj,P003,58,52,208,0,0,,Need maintenance
+2025-04-11,Afternoon,M102,John,P001,53,50,150,4,0,,Need maintenance
+2025-04-04,Night,M103,John,P002,59,49,245,4,0,,All good
+2025-04-10,Night,M101,Meera,P002,59,59,59,4,21,,Check sensor
+2025-04-10,Afternoon,M103,Anita,P002,43,33,99,3,0,,
+2025-04-02,Night,M101,John,P002,55,47,235,4,0,,
+2025-04-09,Night,M101,Meera,P002,56,46,46,4,0,,Check sensor
+2025-04-10,Morning,M101,Anita,P002,43,43,129,3,0,,Check sensor
+2025-04-04,Afternoon,M102,Anita,P003,53,48,48,2,0,,All good
+2025-04-15,Afternoon,M102,Anita,P001,58,54,270,1,0,,Check sensor
+2025-04-01,Night,M103,Meera,P002,55,54,162,2,0,,Need maintenance
+2025-04-09,Morning,M102,John,P003,49,43,172,1,0,,
+2025-04-06,Night,M103,Raj,P001,41,40,80,0,0,,Check sensor
+2025-04-01,Afternoon,M103,Meera,P001,41,39,156,5,0,,All good
+2025-04-15,Afternoon,M101,John,P003,60,58,116,0,0,,Need maintenance
+2025-04-13,Afternoon,M103,John,P003,59,53,159,4,30,Maintenance,All good
+2025-04-01,Afternoon,M103,Raj,P002,45,43,86,3,0,,All good
+2025-04-13,Afternoon,M101,Anita,P003,40,40,40,0,0,,All good
+2025-04-11,Night,M101,Raj,P001,57,48,48,0,0,,All good
+2025-04-06,Night,M101,Anita,P002,42,36,144,2,29,Material shortage,Check sensor
+2025-04-09,Morning,M103,Raj,P003,47,42,42,0,6,Maintenance,Check sensor
+2025-04-12,Afternoon,M101,Anita,P001,58,49,245,2,0,,Need maintenance
+2025-04-13,Afternoon,M101,Meera,P003,42,37,148,3,0,,Check sensor
+2025-04-03,Night,M101,Meera,P003,56,52,260,1,0,,
+2025-04-07,Afternoon,M101,Raj,P003,48,45,45,5,0,,
+2025-04-11,Night,M103,Anita,P003,45,42,84,0,0,,
+2025-04-14,Morning,M102,Anita,P002,46,38,38,0,0,,
+2025-04-07,Morning,M103,Raj,P001,46,42,210,1,21,Maintenance,Check sensor
+2025-04-11,Night,M101,Anita,P002,52,50,250,1,24,Machine issue,All good
+2025-04-10,Morning,M101,Meera,P001,40,31,31,5,0,,Check sensor
+2025-04-10,Morning,M101,John,P001,57,48,96,3,28,Material shortage,All good
+2025-04-01,Morning,M102,John,P003,59,49,196,5,0,,Need maintenance
+2025-04-07,Afternoon,M103,John,P003,41,31,93,4,0,,Check sensor
+2025-04-01,Afternoon,M103,John,P001,58,50,150,1,3,Power cut,Check sensor
+2025-04-08,Morning,M103,John,P002,47,44,132,1,11,Machine issue,Need maintenance
+2025-04-03,Night,M103,John,P003,47,39,117,2,0,,All good
+2025-04-01,Night,M102,Anita,P002,52,42,210,0,0,,Need maintenance
+2025-04-12,Afternoon,M103,John,P002,47,41,205,3,12,,
+2025-04-06,Night,M101,Anita,P003,60,56,56,3,0,,
+2025-04-06,Afternoon,M103,Anita,P003,49,40,160,4,0,,All good
+2025-04-07,Morning,M102,Raj,P001,42,41,82,4,0,,Need maintenance
+2025-04-11,Afternoon,M103,Anita,P003,47,43,172,0,0,,Check sensor
+2025-04-03,Afternoon,M101,Anita,P003,40,31,62,5,13,Machine issue,Need maintenance
+2025-04-01,Morning,M102,Anita,P003,40,33,33,2,0,,
+2025-04-11,Morning,M101,Anita,P002,58,52,104,2,23,Maintenance,Check sensor
+2025-04-04,Night,M103,Anita,P002,48,45,180,2,0,,Check sensor
+2025-04-11,Morning,M103,Meera,P001,58,54,270,3,0,,Check sensor
+2025-04-14,Night,M103,Anita,P001,58,50,100,1,0,,
+2025-04-15,Afternoon,M103,Meera,P003,56,50,150,4,0,,
+2025-04-12,Afternoon,M103,Raj,P002,52,47,94,0,0,,Check sensor
+2025-04-12,Night,M103,Raj,P003,41,34,102,2,0,,Need maintenance
+2025-04-11,Afternoon,M102,Anita,P003,44,36,108,4,2,Machine issue,
+2025-04-09,Morning,M103,Raj,P003,50,48,192,0,0,,
+2025-04-04,Morning,M103,John,P003,51,47,94,0,6,Material shortage,Check sensor
+2025-04-07,Morning,M102,Raj,P003,43,43,86,0,25,Power cut,
+2025-04-15,Afternoon,M102,Meera,P003,57,48,96,1,0,,All good
+2025-04-13,Afternoon,M101,Anita,P002,49,41,41,4,0,,
+2025-04-02,Morning,M101,Anita,P002,46,40,80,0,0,,Need maintenance
+2025-04-04,Morning,M101,John,P001,53,51,204,5,3,Power cut,Check sensor
+2025-04-08,Night,M101,Meera,P002,42,39,78,1,30,Machine issue,
+2025-04-15,Afternoon,M103,Anita,P002,58,57,285,5,0,,Check sensor
+2025-04-13,Afternoon,M101,John,P003,44,40,120,2,0,,Need maintenance
+2025-04-01,Afternoon,M103,John,P003,49,48,48,5,0,,Check sensor
+2025-04-13,Night,M101,Raj,P003,55,45,180,0,20,Power cut,
+2025-04-09,Afternoon,M102,Raj,P001,58,53,53,5,0,,
+2025-04-11,Afternoon,M102,Raj,P003,46,43,86,1,0,,Need maintenance
+2025-04-08,Afternoon,M102,Meera,P003,52,47,188,0,0,,All good
+2025-04-11,Morning,M103,Anita,P002,42,33,165,0,0,,Check sensor
+2025-04-05,Afternoon,M101,John,P001,49,44,44,3,21,Material shortage,Need maintenance
+2025-04-15,Afternoon,M103,Meera,P003,60,51,255,5,14,Maintenance,Check sensor
+2025-04-07,Night,M103,John,P003,45,35,175,5,0,,Need maintenance
+2025-04-04,Morning,M103,Raj,P002,53,43,86,2,0,,
+2025-04-14,Night,M103,John,P002,56,51,153,0,0,,All good
+2025-04-05,Afternoon,M103,Anita,P003,40,34,102,0,0,,Check sensor
+2025-04-12,Morning,M101,Anita,P002,48,48,48,5,0,,Need maintenance
+2025-04-09,Afternoon,M101,Meera,P003,44,39,156,4,0,,All good
+2025-04-01,Morning,M102,Meera,P002,51,43,215,0,0,,Need maintenance
+2025-04-09,Afternoon,M101,Anita,P001,54,49,147,0,0,,
+2025-04-12,Night,M101,John,P001,55,48,240,4,19,Machine issue,All good
+2025-04-14,Morning,M102,Meera,P003,46,37,185,5,29,Machine issue,Need maintenance
+2025-04-08,Afternoon,M101,Meera,P003,51,47,188,1,2,Material shortage,
+2025-04-13,Morning,M101,Anita,P003,56,47,235,5,0,,All good
+2025-04-04,Afternoon,M102,Raj,P001,49,46,46,1,0,,All good
+2025-04-12,Night,M103,Meera,P002,46,37,74,2,0,,All good
+2025-04-12,Morning,M103,Anita,P003,41,38,38,1,0,,All good
+2025-04-01,Afternoon,M103,Meera,P001,54,49,49,2,23,,Check sensor
+2025-04-03,Morning,M101,Anita,P003,44,42,84,1,0,,
+2025-04-02,Morning,M101,Anita,P001,44,40,40,3,20,Material shortage,All good
+2025-04-12,Afternoon,M101,Raj,P003,53,52,156,3,0,,Need maintenance
+2025-04-11,Morning,M103,Raj,P001,45,42,168,5,0,,Need maintenance
+2025-04-14,Night,M101,John,P003,40,31,124,5,0,,
+2025-04-02,Afternoon,M102,Meera,P003,43,35,140,1,0,,All good
+2025-04-11,Night,M102,Raj,P003,44,38,190,5,0,,
+2025-04-08,Night,M102,Meera,P001,60,60,300,0,0,,All good
+2025-04-11,Morning,M102,Meera,P001,42,40,160,4,0,,Need maintenance
+2025-04-09,Afternoon,M102,Anita,P001,56,49,49,5,0,,All good
+2025-04-03,Night,M103,Raj,P003,47,46,138,3,0,,Check sensor
+2025-04-06,Morning,M102,Anita,P002,47,47,188,1,21,Material shortage,Need maintenance
+2025-04-09,Morning,M102,Anita,P001,60,60,180,0,30,Maintenance,Check sensor
+2025-04-03,Night,M103,John,P003,41,37,185,5,0,,Check sensor
+2025-04-11,Afternoon,M101,Anita,P002,54,50,50,4,18,Power cut,All good
+2025-04-07,Night,M101,Meera,P001,48,46,138,1,24,Machine issue,Need maintenance
+2025-04-07,Morning,M101,Meera,P001,52,49,245,4,20,Power cut,Need maintenance
+2025-04-10,Afternoon,M103,John,P001,41,33,165,1,0,,Check sensor
+2025-04-11,Afternoon,M103,John,P002,57,50,50,3,0,,Need maintenance
+2025-04-13,Night,M102,John,P002,46,43,129,4,0,,
+2025-04-12,Night,M103,Meera,P002,40,36,144,2,0,,Need maintenance
+2025-04-02,Morning,M103,John,P002,57,53,53,5,22,Material shortage,Check sensor
+2025-04-10,Night,M103,Anita,P003,54,49,49,3,0,,Need maintenance
+2025-04-06,Night,M101,John,P002,43,33,132,2,0,,Check sensor
+2025-04-03,Afternoon,M103,Anita,P001,48,42,126,3,0,,
+2025-04-12,Morning,M101,John,P001,44,38,114,2,19,Machine issue,
+2025-04-14,Morning,M102,John,P001,57,47,235,5,28,,Check sensor
+2025-04-14,Afternoon,M103,Meera,P003,49,40,120,4,18,Maintenance,All good
+2025-04-04,Night,M101,Meera,P003,48,44,220,0,0,,Need maintenance
+2025-04-13,Afternoon,M102,Meera,P001,51,49,147,4,23,Material shortage,All good
+2025-04-07,Morning,M103,Raj,P003,49,41,205,2,10,Power cut,Check sensor
+2025-04-15,Night,M102,Anita,P003,40,31,93,1,23,,All good
+2025-04-05,Afternoon,M103,Anita,P002,53,46,92,3,10,Material shortage,All good
+2025-04-10,Morning,M101,John,P002,43,42,126,4,0,,Check sensor
+2025-04-02,Afternoon,M101,Anita,P001,52,46,46,5,0,,
+2025-04-14,Afternoon,M101,Raj,P003,54,53,265,1,23,Material shortage,Check sensor
+2025-04-12,Morning,M102,Raj,P001,42,40,120,0,0,,
+2025-04-15,Afternoon,M103,Meera,P003,46,38,114,4,0,,Need maintenance
+2025-04-15,Afternoon,M102,Meera,P001,56,53,106,1,28,Maintenance,Need maintenance
+2025-04-14,Afternoon,M102,Anita,P003,50,48,144,0,26,Material shortage,
+2025-04-01,Afternoon,M102,Raj,P001,56,47,47,3,0,,All good
+2025-04-12,Night,M102,John,P003,50,48,144,1,0,,All good
+2025-04-03,Night,M102,Raj,P003,47,45,90,4,1,Machine issue,
+2025-04-01,Afternoon,M103,John,P001,58,52,208,2,0,,
+2025-04-10,Night,M103,Anita,P001,49,44,132,0,0,,Check sensor
+2025-04-06,Afternoon,M103,Meera,P002,41,36,144,5,8,Material shortage,All good
+2025-04-06,Afternoon,M102,Meera,P003,60,58,232,3,22,Maintenance,All good
+2025-04-14,Afternoon,M101,Anita,P001,41,31,93,3,0,,Check sensor
+2025-04-07,Morning,M102,Meera,P003,57,52,104,0,0,,Need maintenance
+2025-04-12,Afternoon,M103,John,P001,51,50,200,2,0,,Need maintenance
+2025-04-06,Night,M102,Anita,P003,42,37,74,3,0,,Check sensor
+2025-04-04,Morning,M102,John,P002,52,50,100,2,0,,Check sensor
+2025-04-06,Afternoon,M103,Meera,P003,54,44,220,3,13,Maintenance,Need maintenance
+2025-04-02,Night,M101,Anita,P003,52,43,129,1,0,,All good
+2025-04-14,Afternoon,M101,Raj,P001,49,44,132,5,3,Material shortage,Need maintenance
+2025-04-12,Afternoon,M102,Raj,P001,43,34,136,1,0,,All good
+2025-04-03,Night,M101,Meera,P002,55,51,102,4,4,Material shortage,All good
+2025-04-05,Morning,M103,John,P002,47,44,88,1,0,,Check sensor
+2025-04-09,Afternoon,M103,Raj,P002,56,46,184,0,0,,Need maintenance
+2025-04-12,Morning,M102,Anita,P001,45,45,90,2,0,,
+2025-04-02,Night,M101,Anita,P003,56,46,230,4,0,,Check sensor
+2025-04-04,Night,M102,John,P002,52,48,144,1,29,Maintenance,Need maintenance
+2025-04-15,Night,M102,Raj,P002,53,48,144,3,0,,Check sensor
+2025-04-03,Morning,M102,John,P001,49,40,80,0,0,,
+2025-04-01,Afternoon,M101,Anita,P001,41,33,165,4,0,,Check sensor
+2025-04-04,Night,M101,Meera,P001,43,34,68,2,0,,Need maintenance
+2025-04-06,Night,M102,Anita,P003,40,38,38,2,0,,All good
+2025-04-06,Morning,M103,John,P003,41,40,120,2,0,,Check sensor
+2025-04-10,Night,M103,John,P002,52,47,188,4,9,,Need maintenance
+2025-04-05,Morning,M102,Raj,P003,53,45,180,4,0,,
+2025-04-11,Night,M101,Meera,P001,40,31,155,0,0,,
+2025-04-06,Morning,M103,Anita,P003,52,43,215,4,22,Maintenance,Check sensor
+2025-04-09,Afternoon,M101,John,P001,44,40,120,0,3,Material shortage,Check sensor
+2025-04-13,Night,M103,Anita,P003,43,33,99,0,0,,Need maintenance
+2025-04-04,Afternoon,M101,Anita,P001,57,52,208,5,0,,Check sensor
+2025-04-07,Morning,M102,Raj,P001,50,45,45,3,0,,Need maintenance
+2025-04-06,Night,M103,John,P003,56,52,260,1,0,,All good
+2025-04-08,Afternoon,M102,Anita,P003,47,43,172,5,2,Maintenance,
+2025-04-01,Morning,M103,Raj,P001,41,38,38,4,30,Machine issue,Check sensor
+2025-04-09,Night,M103,Raj,P003,51,48,144,4,13,Machine issue,Check sensor
+2025-04-14,Afternoon,M101,Raj,P001,58,52,260,4,0,,Check sensor
+2025-04-07,Afternoon,M101,Anita,P002,58,49,147,0,17,Material shortage,Check sensor
+2025-04-08,Night,M101,Meera,P001,60,50,200,0,22,Power cut,Check sensor
+2025-04-11,Morning,M103,John,P003,49,40,160,3,4,Power cut,All good
+2025-04-06,Afternoon,M103,John,P003,46,36,72,3,0,,All good
+2025-04-10,Afternoon,M103,Anita,P001,59,59,295,5,10,Material shortage,Need maintenance
+2025-04-08,Night,M102,Meera,P002,47,41,123,3,0,,
+2025-04-07,Night,M103,Meera,P001,47,46,92,2,0,,
+2025-04-08,Afternoon,M101,Anita,P001,46,45,90,1,0,,Need maintenance
+2025-04-15,Afternoon,M101,Raj,P002,60,53,159,4,20,,Need maintenance
+2025-04-02,Night,M102,Raj,P002,41,41,82,1,0,,
+2025-04-11,Night,M102,Anita,P003,55,49,147,0,0,,All good
+2025-04-09,Morning,M102,Anita,P003,40,36,36,3,15,Power cut,Need maintenance
+2025-04-02,Afternoon,M102,Anita,P003,42,41,123,3,0,,All good
+2025-04-13,Night,M103,Raj,P002,41,41,123,5,0,,Check sensor
+2025-04-11,Afternoon,M101,Raj,P001,44,41,82,3,0,,All good
+2025-04-08,Morning,M101,Meera,P003,56,52,260,0,0,,
+2025-04-12,Afternoon,M103,Meera,P002,42,33,99,0,21,Material shortage,Check sensor
+2025-04-09,Night,M102,Meera,P001,40,36,36,4,0,,Check sensor
+2025-04-11,Morning,M102,John,P003,43,39,195,4,0,,All good
+2025-04-14,Afternoon,M103,Meera,P003,59,53,106,2,0,,All good
+2025-04-11,Morning,M102,Anita,P001,45,45,225,2,0,,Need maintenance
+2025-04-03,Night,M102,Raj,P003,60,53,265,3,0,,
+2025-04-06,Night,M102,Meera,P002,45,45,45,1,11,Maintenance,Need maintenance
+2025-04-02,Afternoon,M101,John,P002,55,46,46,4,0,,Need maintenance
+2025-04-09,Night,M101,Anita,P001,47,40,40,2,1,Maintenance,All good
+2025-04-13,Morning,M103,Meera,P001,59,50,100,1,28,Power cut,All good
+2025-04-11,Night,M101,Meera,P002,54,44,88,2,0,,Need maintenance
+2025-04-08,Morning,M102,Anita,P003,46,40,40,3,0,,Check sensor
+2025-04-05,Morning,M102,Anita,P002,60,57,171,0,17,Power cut,All good
+2025-04-01,Morning,M101,Raj,P003,53,51,153,3,0,,Need maintenance
+2025-04-06,Morning,M102,John,P001,53,53,212,2,0,,Check sensor
+2025-04-13,Afternoon,M103,John,P002,41,40,120,2,0,,Need maintenance
+2025-04-13,Afternoon,M103,Raj,P003,41,35,175,0,0,,All good
+2025-04-12,Afternoon,M102,John,P002,58,51,102,5,0,,Check sensor
+2025-04-14,Morning,M101,Meera,P001,54,45,225,5,0,,Check sensor
+2025-04-04,Morning,M101,Anita,P001,43,37,148,2,28,Power cut,Check sensor
+2025-04-05,Afternoon,M102,Anita,P003,42,40,40,3,0,,All good
+2025-04-05,Morning,M103,Anita,P002,57,57,114,1,0,,Need maintenance
+2025-04-08,Morning,M102,Anita,P002,48,40,80,0,0,,Need maintenance
+2025-04-13,Night,M101,Raj,P003,53,50,200,4,0,,Need maintenance
+2025-04-10,Night,M103,Anita,P003,51,47,235,4,24,,
+2025-04-09,Afternoon,M102,Raj,P002,60,54,216,5,0,,Check sensor
+2025-04-09,Night,M102,Meera,P003,60,58,290,0,0,,
+2025-04-14,Night,M101,Anita,P002,57,56,56,4,0,,Need maintenance
+2025-04-02,Afternoon,M102,Meera,P001,54,53,265,4,3,Maintenance,All good
+2025-04-06,Night,M103,Raj,P003,55,47,141,1,0,,Need maintenance
+2025-04-05,Afternoon,M101,Raj,P002,48,38,114,2,0,,Need maintenance
+2025-04-01,Morning,M103,John,P001,52,48,96,1,0,,Check sensor
+2025-04-06,Morning,M101,Anita,P001,43,40,40,5,0,,Check sensor
+2025-04-14,Afternoon,M102,Anita,P002,49,46,46,3,0,,
+2025-04-13,Night,M103,Anita,P002,49,41,205,4,21,Material shortage,Check sensor
+2025-04-14,Morning,M103,John,P003,50,41,164,0,0,,Check sensor
+2025-04-02,Morning,M101,Meera,P003,49,42,42,2,20,,
+2025-04-11,Morning,M101,Raj,P003,57,49,147,4,0,,All good
+2025-04-14,Morning,M102,Meera,P003,49,46,46,3,21,Maintenance,All good
+2025-04-11,Afternoon,M102,Meera,P003,50,48,192,2,18,Maintenance,Need maintenance
+2025-04-07,Afternoon,M102,John,P001,58,57,114,0,0,,Need maintenance
+2025-04-04,Morning,M102,Anita,P002,41,40,160,4,0,,All good
+2025-04-07,Afternoon,M103,John,P001,44,43,86,4,16,Power cut,Need maintenance
+2025-04-02,Night,M103,Anita,P001,51,45,180,3,5,Maintenance,Check sensor
+2025-04-04,Morning,M102,Raj,P002,41,41,123,4,0,,
+2025-04-11,Afternoon,M102,Meera,P003,45,36,180,1,0,,Need maintenance
+2025-04-13,Afternoon,M102,Raj,P003,50,49,245,5,0,,All good
+2025-04-11,Morning,M102,Meera,P003,42,39,117,4,0,,All good
+2025-04-12,Night,M103,Meera,P003,44,40,160,0,0,,All good
+2025-04-12,Morning,M101,Anita,P003,48,44,220,2,2,Power cut,
+2025-04-11,Morning,M102,John,P002,46,39,39,2,0,,Need maintenance
+2025-04-03,Morning,M102,Anita,P003,43,40,40,1,4,,Check sensor
+2025-04-15,Afternoon,M101,Anita,P003,48,44,220,0,0,,All good
+2025-04-05,Night,M102,John,P001,50,45,45,2,0,,Need maintenance
+2025-04-02,Night,M101,Raj,P001,41,37,111,2,26,Material shortage,Need maintenance
+2025-04-12,Night,M103,Anita,P003,43,33,165,4,0,,Need maintenance
+2025-04-15,Night,M103,Meera,P002,55,53,106,0,24,Maintenance,Need maintenance
+2025-04-12,Afternoon,M103,Meera,P003,58,54,54,1,0,,Check sensor
+2025-04-09,Night,M103,Anita,P002,52,48,48,3,29,Maintenance,
+2025-04-10,Night,M101,Raj,P003,44,44,132,1,0,,Need maintenance
+2025-04-07,Morning,M103,Meera,P003,59,54,162,3,0,,Need maintenance
+2025-04-10,Night,M101,John,P003,44,34,102,1,0,,Check sensor
+2025-04-11,Night,M103,John,P003,51,51,102,4,22,Material shortage,
+2025-04-12,Night,M101,Raj,P002,51,47,235,1,0,,All good
+2025-04-03,Night,M102,Meera,P003,45,37,148,5,15,Material shortage,Need maintenance
+2025-04-10,Morning,M102,Anita,P003,58,49,49,3,0,,
+2025-04-05,Night,M103,John,P003,41,41,164,2,0,,Check sensor
+2025-04-03,Afternoon,M103,John,P003,48,47,47,0,0,,Need maintenance
+2025-04-06,Night,M103,Raj,P003,47,39,78,1,0,,
+2025-04-13,Night,M102,John,P001,53,53,106,3,23,Machine issue,Check sensor
+2025-04-02,Night,M102,John,P001,57,52,260,3,20,Machine issue,All good
+2025-04-02,Morning,M102,Anita,P003,48,43,215,1,0,,Need maintenance
+2025-04-09,Morning,M101,Anita,P003,54,44,176,1,20,,All good
+2025-04-12,Morning,M101,Anita,P002,43,37,148,1,0,,All good
+2025-04-10,Night,M101,John,P003,40,38,190,0,0,,Need maintenance
+2025-04-10,Afternoon,M102,Meera,P003,40,35,140,1,8,,All good
+2025-04-13,Morning,M101,Anita,P001,49,39,195,2,0,,
+2025-04-14,Night,M101,Anita,P003,40,36,72,2,0,,Need maintenance
+2025-04-15,Afternoon,M102,Meera,P003,59,54,162,5,0,,Need maintenance
+2025-04-03,Morning,M102,Meera,P001,46,40,120,4,0,,
+2025-04-13,Night,M102,Meera,P003,46,41,205,1,0,,
+2025-04-05,Morning,M102,John,P001,46,41,164,1,18,,Need maintenance
+2025-04-10,Night,M101,Meera,P003,57,47,235,2,0,,
+2025-04-06,Night,M103,John,P002,55,48,96,2,18,Machine issue,
+2025-04-14,Night,M102,Meera,P002,59,57,285,3,0,,Check sensor
+2025-04-01,Morning,M101,Anita,P003,53,45,90,5,0,,Need maintenance
+2025-04-07,Night,M102,John,P002,41,32,160,2,0,,Check sensor
+2025-04-01,Afternoon,M102,John,P002,53,51,204,3,0,,
+2025-04-04,Morning,M103,Anita,P002,40,30,30,0,24,Power cut,
+2025-04-04,Afternoon,M103,Raj,P003,40,39,156,1,0,,Check sensor
+2025-04-13,Afternoon,M102,Anita,P001,59,57,57,2,18,,Check sensor
+2025-04-14,Morning,M101,Raj,P003,54,54,270,1,0,,All good
+2025-04-04,Afternoon,M101,Raj,P002,47,46,138,2,0,,Check sensor
+2025-04-04,Night,M101,Meera,P003,53,50,50,4,0,,Need maintenance
+2025-04-08,Afternoon,M102,John,P003,51,45,45,1,0,,All good
+2025-04-14,Afternoon,M103,Raj,P002,48,39,39,3,4,,
+2025-04-15,Night,M102,Meera,P002,40,32,96,1,0,,All good
+2025-04-10,Night,M101,John,P003,50,46,46,3,0,,All good
+2025-04-14,Morning,M103,Anita,P002,47,46,46,3,0,,
+2025-04-12,Night,M102,John,P002,50,45,225,1,17,Maintenance,All good
+2025-04-01,Morning,M103,Raj,P003,51,46,46,0,0,,
+2025-04-05,Morning,M103,Meera,P001,46,41,123,3,0,,
+2025-04-06,Morning,M101,Meera,P003,56,54,108,2,0,,
+2025-04-09,Morning,M101,Meera,P003,50,40,120,5,0,,All good
+2025-04-10,Afternoon,M102,Anita,P003,55,55,275,3,16,Material shortage,
+2025-04-02,Night,M103,Raj,P001,42,42,42,1,30,Machine issue,Need maintenance
+2025-04-06,Morning,M102,Meera,P003,58,55,165,1,0,,Check sensor
+2025-04-08,Morning,M101,Raj,P001,54,54,162,0,0,,Need maintenance
+2025-04-09,Night,M101,John,P003,51,47,94,4,0,,All good
+2025-04-08,Night,M102,Raj,P001,49,42,168,3,0,,Check sensor
+2025-04-04,Night,M102,Raj,P001,49,42,210,3,0,,Check sensor
+2025-04-01,Afternoon,M103,John,P003,45,41,164,1,0,,Check sensor
+2025-04-09,Afternoon,M102,Raj,P001,45,42,210,2,0,,
+2025-04-09,Afternoon,M103,Meera,P003,46,42,84,5,0,,
+2025-04-03,Morning,M103,John,P001,53,47,188,4,0,,
+2025-04-03,Afternoon,M103,Anita,P002,41,40,160,5,2,Power cut,Need maintenance
+2025-04-13,Morning,M103,John,P002,60,58,290,4,27,Machine issue,Check sensor
+2025-04-02,Morning,M101,Anita,P001,47,46,230,5,0,,Need maintenance
+2025-04-12,Morning,M102,Raj,P001,51,49,147,2,0,,Check sensor
+2025-04-03,Night,M101,John,P003,47,37,148,3,26,,All good
+2025-04-15,Morning,M103,Meera,P001,49,43,172,5,0,,Need maintenance
+2025-04-08,Morning,M103,Anita,P003,60,57,114,0,27,Power cut,
+2025-04-15,Morning,M101,Meera,P003,59,57,228,2,28,Material shortage,
+2025-04-14,Afternoon,M101,John,P003,47,45,45,4,0,,Check sensor
+2025-04-06,Afternoon,M101,Anita,P002,60,55,220,0,0,,All good
+2025-04-13,Afternoon,M102,Anita,P002,56,48,192,2,4,,Need maintenance
+2025-04-13,Morning,M102,Meera,P001,45,43,215,2,0,,Need maintenance
+2025-04-07,Afternoon,M101,Raj,P003,46,46,92,0,0,,Check sensor
+2025-04-11,Night,M102,Raj,P003,50,40,120,0,0,,
+2025-04-02,Afternoon,M101,John,P003,57,49,49,1,0,,
+2025-04-09,Night,M103,Raj,P001,42,36,108,4,0,,All good
+2025-04-01,Night,M101,Anita,P002,55,49,49,1,0,,Check sensor
+2025-04-11,Morning,M101,Meera,P002,53,44,44,4,0,,
+2025-04-13,Afternoon,M101,Meera,P003,49,44,220,4,0,,Need maintenance
+2025-04-13,Afternoon,M103,Meera,P003,53,48,192,2,18,Machine issue,Check sensor
+2025-04-13,Morning,M103,Meera,P002,54,45,135,4,29,,
+2025-04-13,Afternoon,M102,Anita,P001,60,55,110,3,0,,
+2025-04-14,Night,M102,John,P003,53,49,49,5,0,,Need maintenance
+2025-04-02,Night,M101,Meera,P002,46,43,86,3,0,,
+2025-04-05,Morning,M101,Meera,P001,40,38,38,3,0,,Need maintenance
+2025-04-14,Night,M102,Meera,P003,54,47,47,1,0,,Check sensor
+2025-04-14,Afternoon,M103,John,P002,42,36,180,3,0,,Need maintenance
+2025-04-03,Morning,M103,Raj,P003,59,58,290,1,0,,Check sensor
+2025-04-02,Morning,M103,Meera,P002,47,37,185,3,0,,
+2025-04-05,Night,M102,Anita,P001,44,35,175,5,5,Power cut,Check sensor
+2025-04-09,Afternoon,M101,Meera,P001,56,54,162,0,0,,All good
+2025-04-04,Night,M102,John,P002,58,48,240,1,21,Maintenance,All good
+2025-04-11,Night,M102,John,P003,56,51,255,0,0,,Check sensor
+2025-04-05,Morning,M101,John,P001,45,35,175,2,0,,Need maintenance
+2025-04-13,Afternoon,M102,Raj,P003,47,38,114,3,0,,Check sensor
+2025-04-07,Morning,M102,Raj,P001,41,33,99,0,0,,Need maintenance
+2025-04-06,Afternoon,M101,Raj,P003,50,42,210,4,0,,Check sensor
+2025-04-10,Night,M103,Raj,P003,45,45,180,3,0,,Need maintenance
+2025-04-01,Night,M103,Raj,P003,58,50,100,4,10,Maintenance,Need maintenance
+2025-04-12,Morning,M101,John,P001,46,44,132,4,0,,
+2025-04-05,Night,M103,Raj,P002,48,41,41,2,0,,All good
+2025-04-07,Afternoon,M101,Meera,P002,40,31,31,4,0,,Need maintenance
+2025-04-02,Afternoon,M103,Raj,P003,56,49,245,5,15,,All good
+2025-04-02,Night,M102,Anita,P002,52,46,46,3,23,Material shortage,All good
+2025-04-01,Night,M102,John,P001,47,43,215,4,0,,
+2025-04-03,Afternoon,M101,Raj,P001,46,45,135,5,22,,
+2025-04-07,Night,M102,John,P003,59,59,59,1,27,Material shortage,All good
+2025-04-14,Afternoon,M103,Meera,P001,55,47,47,5,0,,
+2025-04-01,Afternoon,M103,Anita,P002,52,44,176,2,0,,All good
+2025-04-08,Afternoon,M103,Raj,P002,60,55,165,1,0,,Check sensor
+2025-04-10,Morning,M102,Raj,P003,60,57,228,3,0,,
+2025-04-15,Afternoon,M103,Anita,P001,46,46,92,5,0,,
+2025-04-04,Morning,M101,Raj,P003,42,37,37,2,19,,Need maintenance
+2025-04-15,Morning,M103,John,P003,55,55,275,4,0,,
+2025-04-07,Night,M101,John,P003,51,51,153,5,0,,Need maintenance
+2025-04-01,Night,M101,Anita,P002,42,42,168,5,0,,
+2025-04-05,Night,M101,John,P003,43,33,33,4,0,,
+2025-04-10,Afternoon,M101,John,P002,57,50,250,4,13,Material shortage,Need maintenance
+2025-04-01,Morning,M102,Raj,P003,46,43,172,0,0,,Check sensor
+2025-04-03,Afternoon,M101,John,P003,59,51,204,2,0,,
+2025-04-14,Morning,M103,Anita,P001,53,49,49,2,0,,Need maintenance
+2025-04-12,Morning,M101,Raj,P002,60,50,150,4,0,,All good
+2025-04-14,Night,M103,Raj,P003,43,33,66,2,13,Machine issue,Check sensor
+2025-04-06,Morning,M103,Raj,P002,43,37,74,2,1,Power cut,Need maintenance
+2025-04-01,Morning,M102,Anita,P002,43,41,41,4,17,Maintenance,All good
+2025-04-08,Morning,M102,Meera,P003,41,41,41,1,0,,
+2025-04-05,Afternoon,M103,Meera,P001,50,46,184,1,2,Machine issue,Check sensor
+2025-04-08,Morning,M102,John,P003,41,31,93,1,0,,Check sensor
+2025-04-09,Afternoon,M103,John,P002,48,39,39,1,0,,All good
+2025-04-02,Morning,M102,Anita,P001,46,37,111,2,0,,
+2025-04-13,Night,M103,John,P001,50,43,43,3,0,,All good
+2025-04-01,Morning,M102,John,P002,56,48,96,3,0,,Need maintenance
+2025-04-08,Afternoon,M102,John,P001,51,49,147,2,0,,Need maintenance
+2025-04-02,Afternoon,M102,Meera,P001,60,53,159,4,0,,All good
+2025-04-09,Morning,M103,Raj,P002,52,50,250,2,0,,Need maintenance
+2025-04-01,Night,M102,Anita,P002,50,49,49,4,23,Material shortage,Check sensor
+2025-04-09,Morning,M102,Meera,P002,56,56,112,3,0,,Need maintenance
+2025-04-02,Afternoon,M101,Meera,P001,52,45,135,3,22,,Check sensor
+2025-04-01,Morning,M101,Meera,P001,43,35,105,3,0,,
+2025-04-10,Night,M102,Meera,P001,59,55,220,5,0,,Need maintenance
+2025-04-08,Afternoon,M102,John,P003,44,44,220,5,0,,Need maintenance
+2025-04-15,Afternoon,M101,John,P003,53,44,88,4,15,Material shortage,All good
+2025-04-03,Morning,M102,Meera,P002,46,45,45,1,0,,Need maintenance
+2025-04-12,Morning,M101,John,P003,60,56,224,3,13,Material shortage,Check sensor
+2025-04-07,Night,M103,Raj,P001,47,43,86,1,27,Maintenance,Check sensor
+2025-04-13,Night,M102,Raj,P002,47,42,126,4,0,,
+2025-04-10,Morning,M102,John,P003,45,42,42,5,0,,Need maintenance
+2025-04-03,Morning,M102,John,P003,48,41,205,3,20,Material shortage,Need maintenance
+2025-04-12,Night,M102,Meera,P002,54,51,255,4,0,,All good
+2025-04-04,Afternoon,M103,John,P001,50,45,225,5,0,,Check sensor
+2025-04-11,Morning,M102,Anita,P003,55,49,245,2,0,,
+2025-04-02,Afternoon,M101,Meera,P001,53,51,51,2,0,,Need maintenance
+2025-04-05,Morning,M102,Meera,P002,48,45,45,4,30,,
+2025-04-11,Afternoon,M101,Anita,P002,40,37,37,3,0,,Need maintenance
+2025-04-06,Afternoon,M102,Raj,P001,49,44,88,0,0,,
+2025-04-13,Night,M103,Meera,P002,41,41,123,1,0,,All good
+2025-04-09,Morning,M103,Anita,P001,56,51,255,0,25,Machine issue,Check sensor
+2025-04-10,Morning,M103,Anita,P001,53,48,48,4,0,,
+2025-04-09,Afternoon,M101,John,P002,44,34,34,1,0,,All good
+2025-04-14,Morning,M101,John,P001,45,36,108,0,27,Power cut,
+2025-04-11,Afternoon,M102,Meera,P003,41,41,123,4,0,,Need maintenance
+2025-04-12,Afternoon,M103,John,P002,59,55,220,2,28,Power cut,Check sensor
+2025-04-01,Morning,M101,Meera,P002,42,35,105,0,27,,
+2025-04-06,Night,M101,Anita,P003,56,52,260,4,0,,All good
+2025-04-12,Afternoon,M102,Anita,P001,59,55,55,3,0,,All good
+2025-04-15,Afternoon,M101,Meera,P003,41,36,144,2,0,,Check sensor
+2025-04-06,Morning,M102,Anita,P001,52,52,156,3,0,,Check sensor
+2025-04-02,Morning,M102,Meera,P003,51,48,144,0,0,,
+2025-04-03,Night,M101,Meera,P003,52,48,144,0,0,,All good
+2025-04-10,Morning,M103,Meera,P002,53,46,92,4,12,Material shortage,Need maintenance
+2025-04-07,Morning,M102,Anita,P003,55,45,180,3,0,,
+2025-04-12,Morning,M102,Raj,P002,58,48,96,4,0,,Check sensor
+2025-04-08,Morning,M103,Anita,P001,50,50,50,3,23,,
+2025-04-15,Afternoon,M103,Meera,P002,57,53,53,3,0,,Need maintenance
+2025-04-15,Morning,M101,Raj,P003,56,53,265,3,0,,
+2025-04-04,Afternoon,M102,Anita,P003,58,50,150,4,29,Material shortage,Need maintenance
+2025-04-11,Night,M101,Meera,P003,51,50,200,0,0,,
+2025-04-15,Afternoon,M101,Raj,P003,41,38,114,0,0,,Need maintenance
+2025-04-04,Morning,M102,Anita,P003,48,46,46,5,0,,All good
+2025-04-14,Morning,M103,Anita,P001,40,31,62,3,0,,All good
+2025-04-07,Night,M101,Anita,P002,42,32,128,0,5,Maintenance,Need maintenance
+2025-04-01,Morning,M102,Meera,P001,43,35,105,5,30,Power cut,Check sensor
+2025-04-07,Night,M101,Anita,P001,41,34,102,2,12,,Check sensor
+2025-04-12,Night,M101,Anita,P001,56,50,200,0,0,,Need maintenance
+2025-04-05,Night,M103,Raj,P002,40,37,37,3,0,,
+2025-04-06,Afternoon,M101,John,P001,59,52,208,3,3,Material shortage,All good
+2025-04-09,Morning,M103,Anita,P002,57,49,147,1,0,,
+2025-04-06,Morning,M103,Raj,P003,58,57,57,1,0,,Check sensor
+2025-04-12,Night,M103,John,P001,44,44,88,0,27,Machine issue,
+2025-04-03,Afternoon,M101,Anita,P002,55,46,46,5,0,,Need maintenance
+2025-04-14,Night,M102,Anita,P002,50,49,245,1,0,,Check sensor
+2025-04-05,Morning,M101,Anita,P001,51,41,164,2,4,,All good
+2025-04-05,Afternoon,M102,Raj,P002,42,32,160,2,0,,Need maintenance
+2025-04-10,Morning,M101,Raj,P003,57,51,255,0,0,,Check sensor
+2025-04-07,Morning,M102,Meera,P001,52,47,141,1,0,,
+2025-04-12,Afternoon,M102,Raj,P002,41,31,124,5,0,,Need maintenance
+2025-04-14,Night,M101,Anita,P001,44,42,168,3,12,,Need maintenance
+2025-04-10,Night,M103,Meera,P001,50,41,82,2,0,,Need maintenance
+2025-04-15,Morning,M101,John,P001,57,55,165,3,0,,
+2025-04-02,Morning,M103,John,P002,44,37,185,4,26,Maintenance,Need maintenance
+2025-04-08,Morning,M101,Raj,P001,60,59,177,4,0,,
+2025-04-06,Morning,M101,Anita,P003,50,47,188,5,0,,All good
+2025-04-07,Night,M103,John,P001,59,51,153,4,0,,
+2025-04-10,Morning,M103,John,P001,40,37,148,4,4,Maintenance,Check sensor
+2025-04-12,Afternoon,M103,Meera,P001,40,38,38,5,0,,Check sensor
+2025-04-10,Afternoon,M101,Meera,P003,50,47,235,1,0,,Need maintenance
+2025-04-01,Night,M102,John,P003,56,54,108,3,20,Material shortage,All good
+2025-04-13,Afternoon,M103,Meera,P003,55,52,104,4,0,,Check sensor
+2025-04-11,Afternoon,M103,John,P002,60,55,110,4,0,,
+2025-04-09,Afternoon,M101,Raj,P002,44,35,105,1,8,Material shortage,All good
+2025-04-08,Morning,M103,Anita,P001,60,53,53,4,0,,Need maintenance
+2025-04-12,Morning,M103,Anita,P002,53,47,141,0,0,,Need maintenance
+2025-04-09,Morning,M103,Anita,P002,40,31,31,2,22,Machine issue,
+2025-04-01,Afternoon,M103,Meera,P003,52,42,84,2,0,,Need maintenance
+2025-04-10,Morning,M102,Anita,P002,58,49,98,0,0,,Check sensor
+2025-04-07,Morning,M102,Meera,P002,42,32,128,5,0,,All good
+2025-04-04,Afternoon,M102,Anita,P003,46,44,132,5,0,,All good
+2025-04-11,Morning,M101,Meera,P002,51,45,180,0,7,Power cut,Check sensor
+2025-04-09,Afternoon,M103,Anita,P001,55,47,47,1,0,,All good
+2025-04-05,Afternoon,M102,John,P003,40,33,99,1,0,,Need maintenance
+2025-04-11,Afternoon,M101,Anita,P001,56,51,102,2,0,,All good
+2025-04-01,Afternoon,M103,Anita,P003,50,46,230,2,26,Machine issue,Need maintenance
+2025-04-04,Morning,M103,Anita,P003,41,32,128,0,22,,Check sensor
+2025-04-04,Night,M101,Anita,P002,56,51,51,2,0,,Check sensor
+2025-04-02,Afternoon,M101,Anita,P003,58,48,240,2,0,,Need maintenance
+2025-04-09,Morning,M103,Anita,P003,46,40,120,5,22,Material shortage,Need maintenance
+2025-04-06,Night,M101,Meera,P001,43,36,180,5,0,,Need maintenance
+2025-04-04,Night,M102,Anita,P003,59,52,104,3,18,Power cut,Need maintenance
+2025-04-02,Afternoon,M102,John,P002,53,44,88,1,0,,All good
+2025-04-12,Night,M103,Anita,P002,53,46,184,2,0,,Check sensor
+2025-04-14,Afternoon,M102,Raj,P001,41,31,124,5,18,Maintenance,
+2025-04-08,Morning,M103,Meera,P001,42,35,140,2,0,,Check sensor
+2025-04-10,Morning,M102,Raj,P002,44,35,105,3,3,Material shortage,
+2025-04-09,Night,M101,John,P001,52,46,184,4,0,,Need maintenance
+2025-04-05,Afternoon,M101,John,P003,54,47,94,4,14,Maintenance,All good
+2025-04-03,Afternoon,M103,John,P001,60,58,58,3,0,,Check sensor
+2025-04-01,Afternoon,M101,John,P002,52,50,250,0,25,Maintenance,All good
+2025-04-11,Night,M103,John,P003,49,41,41,4,0,,Need maintenance
+2025-04-01,Morning,M102,John,P003,55,48,240,0,26,,
+2025-04-14,Afternoon,M103,John,P001,57,52,260,1,0,,Check sensor
+2025-04-07,Afternoon,M101,Anita,P002,47,40,200,1,0,,
+2025-04-11,Morning,M103,Raj,P003,58,49,147,0,0,,Need maintenance
+2025-04-13,Afternoon,M103,Meera,P001,49,42,84,2,0,,Need maintenance
+2025-04-03,Night,M102,Meera,P001,58,58,58,1,0,,All good
+2025-04-09,Night,M102,John,P001,45,40,120,4,0,,
+2025-04-04,Morning,M102,John,P001,45,35,140,3,27,Machine issue,All good
+2025-04-01,Afternoon,M101,Anita,P001,60,60,60,5,0,,
+2025-04-06,Morning,M101,Anita,P002,48,43,86,1,0,,Check sensor
+2025-04-04,Afternoon,M102,Meera,P002,53,49,49,4,23,Maintenance,Check sensor
+2025-04-03,Morning,M101,Raj,P001,52,44,132,0,8,Maintenance,
+2025-04-03,Night,M102,Anita,P003,40,30,90,4,0,,
+2025-04-06,Night,M103,John,P001,59,54,54,2,18,,All good
+2025-04-01,Morning,M102,Meera,P002,44,37,111,4,0,,
+2025-04-10,Night,M102,John,P001,55,49,245,0,0,,Need maintenance
+2025-04-06,Morning,M103,Anita,P001,52,48,192,0,18,Maintenance,Need maintenance
+2025-04-07,Afternoon,M103,Raj,P003,51,45,225,5,28,Material shortage,All good
+2025-04-03,Afternoon,M102,John,P003,59,54,108,5,0,,All good
+2025-04-11,Night,M102,Meera,P002,45,36,72,4,21,Power cut,Check sensor
+2025-04-04,Night,M103,John,P001,40,33,66,3,0,,Need maintenance
+2025-04-06,Night,M101,Meera,P001,60,59,295,2,0,,All good
+2025-04-15,Morning,M102,Raj,P002,60,57,171,4,11,Power cut,
+2025-04-09,Morning,M103,Raj,P003,58,52,156,0,0,,Check sensor
+2025-04-11,Morning,M101,John,P002,42,39,156,5,0,,
+2025-04-06,Afternoon,M102,Raj,P003,60,50,100,4,0,,Check sensor
+2025-04-04,Morning,M102,John,P003,54,49,245,0,0,,All good
+2025-04-12,Night,M102,Anita,P001,59,54,108,4,0,,Check sensor
+2025-04-05,Morning,M103,Anita,P003,40,38,114,3,13,Maintenance,Check sensor
+2025-04-11,Afternoon,M102,Anita,P001,53,52,104,4,0,,
+2025-04-02,Morning,M103,Anita,P002,58,58,58,0,0,,Need maintenance
+2025-04-10,Afternoon,M102,Meera,P002,51,48,48,5,0,,Need maintenance
+2025-04-04,Night,M101,Meera,P002,54,53,53,1,0,,Check sensor
+2025-04-09,Afternoon,M102,John,P003,42,36,36,3,6,Power cut,Need maintenance
+2025-04-03,Morning,M101,John,P002,43,33,165,2,26,Material shortage,All good
+2025-04-11,Night,M103,Meera,P003,60,56,280,1,0,,Need maintenance
+2025-04-08,Night,M103,Meera,P001,46,44,220,1,27,,Need maintenance
+2025-04-07,Morning,M102,Raj,P003,46,46,184,0,13,Maintenance,Need maintenance
+2025-04-15,Morning,M103,Meera,P001,47,43,43,3,22,Maintenance,Check sensor
+2025-04-12,Morning,M102,John,P003,55,53,265,0,0,,Check sensor
+2025-04-14,Afternoon,M103,John,P003,42,35,140,5,23,Power cut,
+2025-04-06,Afternoon,M101,Meera,P002,59,51,204,1,0,,All good
+2025-04-04,Morning,M102,Meera,P001,47,37,185,5,25,Material shortage,Need maintenance
+2025-04-04,Afternoon,M103,Anita,P003,56,56,168,0,0,,Need maintenance
+2025-04-09,Night,M101,John,P003,55,55,55,0,0,,Need maintenance
+2025-04-11,Night,M103,Meera,P003,55,45,45,4,5,,
+2025-04-01,Morning,M103,Meera,P003,41,38,38,4,0,,All good
+2025-04-02,Afternoon,M103,Raj,P003,43,39,78,5,15,Machine issue,Check sensor
+2025-04-08,Night,M103,Raj,P002,53,46,138,3,0,,
+2025-04-01,Morning,M103,Raj,P001,50,46,46,5,0,,Need maintenance
+2025-04-15,Night,M101,Raj,P001,50,47,47,2,24,Maintenance,Check sensor
+2025-04-15,Night,M103,Raj,P003,47,42,168,3,0,,
+2025-04-04,Morning,M103,Anita,P001,40,30,90,0,0,,Need maintenance
+2025-04-03,Night,M101,Raj,P003,56,49,196,1,9,Machine issue,
+2025-04-10,Morning,M102,Meera,P002,57,50,250,0,0,,Need maintenance
+2025-04-13,Morning,M101,Anita,P003,45,35,35,3,0,,Check sensor
+2025-04-15,Morning,M101,Anita,P001,50,49,49,5,0,,All good
+2025-04-10,Morning,M102,Meera,P001,51,51,102,3,0,,All good
+2025-04-09,Night,M101,Anita,P002,46,39,156,2,20,Material shortage,Need maintenance
+2025-04-03,Afternoon,M103,John,P002,55,53,265,1,0,,Check sensor
+2025-04-07,Night,M102,Meera,P002,52,42,126,5,18,Machine issue,Check sensor
+2025-04-01,Afternoon,M103,Anita,P001,47,42,168,0,0,,All good
+2025-04-13,Night,M102,John,P001,56,49,98,4,5,Maintenance,Need maintenance
+2025-04-03,Morning,M103,Meera,P002,42,38,38,3,0,,Check sensor
+2025-04-02,Afternoon,M101,John,P001,44,44,88,1,22,Material shortage,Check sensor
+2025-04-14,Morning,M103,Raj,P002,48,41,82,2,0,,
+2025-04-04,Afternoon,M103,Raj,P001,41,41,164,0,0,,All good
+2025-04-07,Afternoon,M101,Raj,P001,50,50,50,1,22,Machine issue,
+2025-04-13,Afternoon,M101,Anita,P003,44,35,175,5,0,,All good
+2025-04-01,Afternoon,M101,Meera,P002,44,34,68,5,0,,
+2025-04-08,Night,M102,Raj,P003,51,46,92,0,0,,Check sensor
+2025-04-03,Night,M101,Raj,P001,54,44,44,0,25,Material shortage,Check sensor
+2025-04-10,Night,M102,Meera,P003,52,49,98,3,0,,
+2025-04-09,Morning,M102,Meera,P002,56,54,216,1,0,,All good
+2025-04-06,Morning,M101,Anita,P002,45,41,123,5,0,,
+2025-04-11,Night,M103,Raj,P002,50,42,210,5,0,,Check sensor
+2025-04-07,Afternoon,M101,John,P003,53,43,215,3,5,Power cut,All good
+2025-04-04,Afternoon,M103,Raj,P003,58,54,216,5,0,,
+2025-04-03,Night,M101,Anita,P001,46,46,92,4,0,,All good
+2025-04-12,Night,M101,John,P003,49,45,45,3,0,,Need maintenance
+2025-04-07,Night,M101,Anita,P001,57,49,98,1,0,,All good
+2025-04-02,Night,M103,Meera,P001,57,48,48,4,0,,Need maintenance
+2025-04-04,Morning,M102,Anita,P003,59,55,55,3,0,,Need maintenance
+2025-04-11,Morning,M102,Raj,P001,55,51,204,5,0,,
+2025-04-02,Morning,M103,Anita,P002,58,57,57,0,0,,Need maintenance
+2025-04-09,Night,M102,Meera,P003,43,34,102,3,0,,
+2025-04-04,Morning,M103,John,P001,49,45,135,0,25,Material shortage,
+2025-04-02,Morning,M101,Raj,P002,52,49,147,4,0,,
+2025-04-06,Night,M103,Anita,P003,52,51,255,1,0,,
+2025-04-10,Night,M103,Anita,P003,45,35,35,3,0,,All good
+2025-04-01,Afternoon,M102,John,P001,60,59,177,0,0,,Need maintenance
+2025-04-14,Morning,M102,Anita,P003,59,51,153,5,0,,All good
+2025-04-04,Afternoon,M103,John,P002,52,42,84,4,4,,Need maintenance
+2025-04-05,Morning,M103,Raj,P003,55,47,141,0,0,,Check sensor
+2025-04-13,Night,M101,Raj,P001,40,38,114,2,0,,
+2025-04-15,Afternoon,M101,Anita,P003,57,49,147,1,29,Machine issue,Need maintenance
+2025-04-15,Night,M101,John,P003,55,47,235,5,0,,
+2025-04-03,Morning,M102,John,P003,57,51,204,5,0,,Need maintenance
+2025-04-11,Morning,M101,John,P003,52,51,255,5,0,,Need maintenance
+2025-04-01,Night,M101,John,P001,47,44,176,0,0,,Need maintenance
+2025-04-15,Night,M102,Raj,P002,52,45,225,1,27,Machine issue,
+2025-04-07,Afternoon,M103,Raj,P001,46,37,111,0,0,,
+2025-04-07,Afternoon,M101,Anita,P002,52,44,220,1,0,,Need maintenance
+2025-04-10,Morning,M102,Raj,P002,48,45,135,5,0,,Need maintenance
+2025-04-06,Night,M103,Anita,P003,42,36,36,0,0,,Need maintenance
+2025-04-15,Morning,M103,John,P003,52,49,147,0,0,,Check sensor
+2025-04-11,Morning,M102,Meera,P001,41,37,185,3,0,,Check sensor
+2025-04-03,Morning,M103,Raj,P001,52,44,220,0,0,,Check sensor
+2025-04-14,Morning,M103,John,P001,55,49,49,5,0,,Check sensor
+2025-04-05,Afternoon,M101,Raj,P001,60,59,236,0,0,,
+2025-04-15,Morning,M103,John,P002,42,40,120,1,0,,All good
+2025-04-13,Afternoon,M101,Meera,P001,50,43,43,4,4,,Check sensor
+2025-04-05,Afternoon,M102,Meera,P002,60,53,212,0,27,Material shortage,Check sensor
+2025-04-03,Afternoon,M102,Anita,P002,41,35,35,0,28,Power cut,
+2025-04-11,Afternoon,M103,John,P001,41,38,114,4,0,,Check sensor
+2025-04-12,Afternoon,M102,Meera,P003,58,51,102,3,18,Power cut,Need maintenance
+2025-04-02,Night,M103,Raj,P003,57,51,102,2,0,,Check sensor
+2025-04-04,Morning,M102,Anita,P002,46,42,84,0,0,,Check sensor
+2025-04-03,Morning,M101,Raj,P003,52,44,44,5,0,,All good
+2025-04-13,Morning,M103,Anita,P002,40,31,62,5,0,,
+2025-04-14,Afternoon,M102,Anita,P001,45,41,164,5,0,,All good
+2025-04-01,Afternoon,M102,John,P001,50,41,164,1,0,,All good
+2025-04-01,Morning,M103,Raj,P001,59,54,162,1,0,,All good
+2025-04-09,Night,M103,Anita,P002,47,47,235,5,17,,Check sensor
+2025-04-08,Morning,M103,Meera,P001,56,55,110,2,30,Machine issue,
+2025-04-06,Night,M102,John,P003,59,52,208,0,0,,Check sensor
+2025-04-15,Night,M101,Raj,P003,48,41,82,3,0,,
+2025-04-14,Night,M101,Meera,P001,40,37,185,5,9,Machine issue,
+2025-04-07,Night,M103,John,P002,56,50,150,1,0,,Need maintenance
+2025-04-13,Afternoon,M103,John,P003,47,41,41,2,23,,
+2025-04-01,Night,M101,Anita,P003,56,46,92,2,0,,All good
+2025-04-03,Morning,M101,Raj,P001,43,37,185,2,0,,Need maintenance
+2025-04-10,Afternoon,M103,Meera,P003,50,44,44,4,0,,Need maintenance
+2025-04-01,Night,M101,Raj,P001,54,45,225,1,9,Power cut,Check sensor
+2025-04-13,Night,M102,Meera,P003,55,51,153,3,0,,Need maintenance
+2025-04-11,Night,M101,Raj,P003,51,42,126,0,0,,
+2025-04-10,Afternoon,M101,Raj,P001,46,38,152,0,0,,All good
+2025-04-10,Night,M101,Meera,P003,53,50,100,1,0,,Check sensor
+2025-04-09,Afternoon,M103,John,P002,60,53,212,5,0,,Check sensor
+2025-04-02,Afternoon,M102,Meera,P001,41,34,170,4,0,,All good
+2025-04-14,Morning,M103,Raj,P002,47,44,220,5,0,,
+2025-04-04,Morning,M103,Raj,P002,55,52,260,1,0,,Check sensor
+2025-04-10,Night,M102,John,P002,48,45,180,4,0,,All good
+2025-04-07,Morning,M103,Raj,P003,51,48,192,5,18,,All good
+2025-04-01,Afternoon,M102,Anita,P001,40,37,148,0,0,,All good
+2025-04-13,Night,M101,John,P003,48,47,47,3,0,,
+2025-04-01,Morning,M101,Meera,P002,49,45,180,2,0,,Need maintenance
+2025-04-02,Morning,M101,Meera,P001,49,47,188,4,0,,All good
+2025-04-14,Morning,M102,John,P002,44,40,200,3,22,,Check sensor
+2025-04-05,Afternoon,M103,Raj,P001,47,47,141,5,27,Machine issue,Check sensor
+2025-04-10,Afternoon,M101,Meera,P002,46,46,230,5,30,Material shortage,
+2025-04-13,Afternoon,M102,Anita,P002,52,48,240,3,0,,Check sensor
+2025-04-04,Night,M103,John,P001,52,52,260,4,26,,Need maintenance
+2025-04-10,Night,M103,Meera,P001,53,52,260,0,0,,Check sensor
+2025-04-07,Night,M102,Raj,P003,49,45,180,2,9,Power cut,Check sensor
+2025-04-04,Morning,M101,Meera,P003,40,33,33,0,1,Machine issue,All good
+2025-04-10,Morning,M101,Meera,P001,58,48,144,3,0,,Check sensor
+2025-04-09,Morning,M102,John,P003,56,46,184,0,0,,Check sensor
+2025-04-10,Afternoon,M103,Raj,P003,60,51,102,0,0,,All good
+2025-04-13,Morning,M102,John,P002,41,38,190,1,0,,
+2025-04-02,Afternoon,M103,Anita,P002,60,50,100,4,12,,All good
+2025-04-12,Night,M101,John,P003,52,45,225,3,0,,Need maintenance
+2025-04-15,Afternoon,M101,John,P003,53,51,102,3,0,,Check sensor
+2025-04-05,Afternoon,M102,Meera,P001,44,43,215,4,0,,
+2025-04-02,Night,M103,John,P002,55,55,110,0,0,,
+2025-04-04,Night,M102,John,P003,44,36,108,1,0,,Check sensor
+2025-04-15,Afternoon,M101,John,P001,57,52,208,4,17,Machine issue,
+2025-04-13,Morning,M102,John,P003,43,38,152,4,1,Material shortage,Need maintenance
+2025-04-04,Morning,M102,John,P001,48,44,220,1,11,Machine issue,All good
+2025-04-04,Morning,M103,John,P003,46,39,39,0,0,,
+2025-04-04,Night,M102,John,P001,59,50,200,5,0,,All good
+2025-04-07,Night,M103,Meera,P003,60,54,162,0,0,,All good
+2025-04-15,Afternoon,M101,Anita,P001,41,34,136,3,0,,Need maintenance
+2025-04-15,Morning,M102,Raj,P002,52,50,100,1,0,,Check sensor
+2025-04-01,Afternoon,M101,Anita,P001,60,53,265,5,0,,Need maintenance
+2025-04-01,Night,M102,John,P002,40,33,66,5,0,,Need maintenance
+2025-04-11,Night,M103,Anita,P002,46,36,108,5,23,Power cut,
+2025-04-04,Morning,M102,Raj,P002,52,47,94,2,21,Material shortage,Check sensor
+2025-04-10,Afternoon,M102,John,P002,40,35,140,0,11,Maintenance,Need maintenance
+2025-04-09,Morning,M103,Anita,P003,47,41,123,3,0,,All good
+2025-04-07,Afternoon,M102,Meera,P002,52,48,144,3,0,,
+2025-04-06,Night,M101,Meera,P003,57,57,114,3,0,,All good
+2025-04-12,Morning,M103,John,P003,54,49,147,0,0,,Need maintenance
+2025-04-12,Night,M101,Anita,P001,58,56,280,3,24,Machine issue,Check sensor
+2025-04-13,Afternoon,M103,John,P001,48,41,82,2,0,,Need maintenance
+2025-04-14,Morning,M103,Raj,P002,51,49,49,5,9,Power cut,Need maintenance
+2025-04-12,Afternoon,M101,Raj,P001,56,46,46,4,0,,Need maintenance
+2025-04-08,Morning,M101,Anita,P003,52,51,255,5,0,,Need maintenance
+2025-04-02,Afternoon,M103,Raj,P002,48,45,180,1,0,,Check sensor
+2025-04-12,Night,M101,Meera,P002,46,36,36,1,0,,Need maintenance
+2025-04-08,Night,M102,John,P001,52,46,184,0,0,,
+2025-04-14,Morning,M101,Raj,P001,60,59,236,1,0,,Check sensor
+2025-04-13,Afternoon,M102,Meera,P003,44,41,205,1,30,Power cut,
+2025-04-11,Afternoon,M101,Meera,P003,58,58,58,1,16,Maintenance,
+2025-04-03,Morning,M102,John,P002,55,55,165,3,26,,All good
+2025-04-01,Night,M102,John,P001,42,36,108,0,0,,
+2025-04-05,Morning,M103,Anita,P001,45,43,86,5,0,,All good
+2025-04-02,Afternoon,M102,Anita,P002,54,54,162,2,0,,All good
+2025-04-09,Afternoon,M102,John,P002,53,49,49,4,12,Material shortage,Check sensor
+2025-04-10,Afternoon,M102,Raj,P001,53,49,98,4,0,,Check sensor
+2025-04-05,Morning,M102,Anita,P003,55,55,275,3,15,Maintenance,All good
+2025-04-05,Morning,M103,Meera,P002,56,46,46,4,0,,Check sensor
+2025-04-12,Morning,M101,Meera,P001,58,53,106,4,7,Power cut,All good
+2025-04-13,Afternoon,M101,Raj,P003,55,51,204,2,9,Material shortage,Need maintenance
+2025-04-14,Afternoon,M103,John,P002,50,44,44,5,0,,Need maintenance
+2025-04-08,Night,M103,Raj,P003,51,44,88,1,0,,
+2025-04-04,Afternoon,M101,John,P002,50,48,48,3,0,,Check sensor
+2025-04-06,Morning,M102,Meera,P001,41,36,180,0,0,,Check sensor
+2025-04-09,Night,M103,John,P002,49,43,172,3,7,Power cut,
+2025-04-14,Night,M102,Anita,P002,52,47,141,0,4,,
+2025-04-12,Night,M102,Anita,P003,46,41,205,5,0,,Check sensor
+2025-04-08,Morning,M103,Meera,P002,53,46,138,0,0,,All good
+2025-04-04,Afternoon,M102,Meera,P003,40,39,78,5,0,,All good
+2025-04-14,Afternoon,M101,Anita,P002,47,41,123,4,0,,
+2025-04-14,Afternoon,M101,Meera,P001,51,51,204,5,1,Maintenance,Need maintenance
+2025-04-01,Night,M102,Meera,P003,49,49,98,5,0,,
+2025-04-01,Morning,M101,John,P001,56,49,245,3,0,,
+2025-04-07,Afternoon,M101,Raj,P002,49,43,215,2,19,Maintenance,
+2025-04-12,Afternoon,M102,Raj,P003,40,33,33,3,0,,
+2025-04-14,Morning,M103,John,P001,53,53,53,0,0,,All good
+2025-04-07,Morning,M103,John,P002,40,30,150,3,0,,Need maintenance
+2025-04-05,Night,M102,Raj,P001,59,53,212,1,1,,Check sensor
+2025-04-08,Night,M101,Anita,P003,40,31,31,1,0,,Need maintenance
+2025-04-14,Afternoon,M103,John,P003,41,32,64,0,0,,All good
+2025-04-07,Night,M103,Anita,P002,41,31,93,0,0,,Need maintenance
+2025-04-15,Morning,M101,John,P001,57,49,245,5,0,,
+2025-04-09,Morning,M101,Meera,P001,60,52,104,0,15,Material shortage,Need maintenance
+2025-04-01,Morning,M102,Raj,P003,51,51,102,4,28,Material shortage,All good
+2025-04-06,Night,M101,Raj,P003,43,38,190,3,0,,
+2025-04-11,Night,M103,John,P001,41,34,34,1,25,Material shortage,All good
+2025-04-01,Morning,M102,Anita,P002,44,44,220,1,0,,Check sensor
+2025-04-01,Morning,M102,Anita,P003,48,42,42,1,0,,Check sensor
+2025-04-02,Morning,M103,Anita,P003,50,48,96,0,2,Material shortage,Check sensor
+2025-04-10,Morning,M103,Meera,P001,40,36,180,5,6,Machine issue,
+2025-04-09,Night,M102,Anita,P002,47,42,210,4,0,,All good
+2025-04-04,Night,M101,Raj,P002,56,50,100,3,0,,
+2025-04-08,Afternoon,M103,Anita,P001,43,34,136,3,0,,All good
+2025-04-01,Night,M102,Anita,P001,45,36,72,4,0,,Need maintenance
+2025-04-11,Afternoon,M102,Meera,P001,55,55,220,2,18,Maintenance,All good
+2025-04-07,Afternoon,M102,Anita,P002,40,36,180,2,5,Material shortage,Need maintenance
+2025-04-05,Morning,M103,Raj,P003,48,48,192,2,16,Machine issue,
+2025-04-15,Night,M102,Anita,P003,44,37,37,0,0,,
+2025-04-07,Night,M103,Anita,P002,42,34,34,4,0,,Need maintenance
+2025-04-03,Morning,M103,Meera,P003,50,47,235,3,0,,Need maintenance
+2025-04-11,Afternoon,M101,Anita,P002,49,43,43,1,0,,
+2025-04-10,Afternoon,M102,Anita,P002,54,54,216,0,0,,Check sensor
+2025-04-02,Afternoon,M103,Meera,P002,60,51,255,1,8,Machine issue,Need maintenance
+2025-04-06,Afternoon,M103,John,P003,53,52,260,3,0,,Need maintenance
+2025-04-15,Afternoon,M102,John,P003,48,41,41,2,8,Material shortage,Check sensor
+2025-04-02,Morning,M102,Raj,P002,48,38,76,5,0,,Need maintenance
+2025-04-13,Night,M101,Meera,P001,55,48,96,1,13,Power cut,Check sensor
+2025-04-07,Afternoon,M102,Anita,P002,56,47,235,5,0,,Check sensor
+2025-04-09,Morning,M102,John,P001,60,55,220,4,9,,All good
+2025-04-03,Afternoon,M102,Anita,P002,60,56,280,5,21,,Check sensor
+2025-04-14,Night,M103,Anita,P003,55,47,141,0,0,,Check sensor
+2025-04-06,Morning,M101,Raj,P003,47,37,74,3,9,Maintenance,
+2025-04-11,Afternoon,M101,Raj,P002,48,43,43,0,0,,Check sensor
+2025-04-07,Night,M102,Anita,P001,47,45,90,3,0,,Need maintenance
+2025-04-03,Night,M102,Meera,P003,48,43,129,2,0,,Check sensor
+2025-04-05,Morning,M103,Anita,P001,57,49,147,2,0,,Need maintenance
+2025-04-10,Morning,M103,Raj,P001,60,56,224,3,22,,
+2025-04-11,Morning,M102,Raj,P002,47,39,195,0,0,,Need maintenance
+2025-04-15,Morning,M102,Meera,P002,57,50,100,3,0,,All good
+2025-04-13,Morning,M102,Raj,P003,56,52,104,3,0,,All good
+2025-04-15,Night,M102,Raj,P002,51,50,200,2,18,Maintenance,Need maintenance
+2025-04-12,Morning,M101,Meera,P003,43,43,129,1,0,,Check sensor
+2025-04-05,Night,M101,Raj,P003,54,48,240,3,22,Material shortage,Need maintenance
+2025-04-08,Afternoon,M103,Meera,P002,55,50,150,0,0,,Check sensor
+2025-04-13,Afternoon,M101,Anita,P001,45,45,90,3,16,Machine issue,Need maintenance
+2025-04-07,Morning,M102,Raj,P002,41,41,123,2,0,,Need maintenance
+2025-04-09,Morning,M102,John,P003,50,49,49,4,13,Power cut,Need maintenance
+2025-04-02,Afternoon,M102,Meera,P003,42,32,64,3,0,,Need maintenance
+2025-04-12,Morning,M103,Meera,P003,55,49,147,2,0,,Check sensor
+2025-04-11,Morning,M103,John,P003,52,45,225,3,0,,
+2025-04-02,Night,M103,Raj,P001,58,55,110,2,0,,Check sensor
+2025-04-12,Night,M102,Raj,P002,47,43,129,0,0,,Check sensor
+2025-04-12,Night,M102,John,P003,51,50,100,3,0,,Need maintenance
+2025-04-10,Afternoon,M102,Meera,P003,42,34,136,2,0,,Check sensor
+2025-04-09,Morning,M102,John,P001,60,57,114,5,0,,
+2025-04-10,Morning,M102,Raj,P001,55,48,192,4,0,,
+2025-04-11,Afternoon,M103,Meera,P002,42,42,126,4,0,,Need maintenance
+2025-04-15,Morning,M103,Raj,P001,46,37,74,4,21,Machine issue,
+2025-04-11,Afternoon,M103,Meera,P002,49,48,240,4,0,,Check sensor
+2025-04-02,Morning,M102,John,P001,55,49,49,2,0,,Check sensor
+2025-04-09,Morning,M102,John,P001,49,46,92,5,0,,
+2025-04-06,Morning,M102,Anita,P001,49,45,45,3,0,,Need maintenance
+2025-04-07,Morning,M103,Meera,P001,44,41,205,3,0,,Check sensor
+2025-04-03,Afternoon,M102,Raj,P002,51,47,141,4,0,,All good
+2025-04-09,Afternoon,M103,Anita,P001,54,53,212,5,0,,Need maintenance
+2025-04-10,Morning,M103,Raj,P002,57,53,159,5,0,,All good
+2025-04-13,Night,M101,Raj,P001,47,47,188,4,0,,Need maintenance
+2025-04-14,Morning,M102,Anita,P003,40,39,195,0,0,,Check sensor
+2025-04-08,Morning,M103,John,P002,59,50,200,5,0,,
+2025-04-10,Morning,M101,Meera,P002,43,38,114,2,0,,
+2025-04-04,Night,M103,Raj,P001,55,48,240,5,5,Power cut,Need maintenance
+2025-04-03,Morning,M101,Meera,P001,48,38,76,1,3,Power cut,All good
+2025-04-03,Night,M101,Anita,P001,58,51,153,2,0,,
+2025-04-15,Night,M103,Meera,P002,52,48,144,5,0,,All good
+2025-04-14,Afternoon,M102,Meera,P002,45,44,220,3,16,Maintenance,Need maintenance
+2025-04-03,Night,M101,John,P002,58,48,240,3,0,,Need maintenance
+2025-04-02,Morning,M102,Anita,P001,49,47,188,5,0,,All good
+2025-04-05,Night,M102,Raj,P002,53,46,92,4,27,Power cut,All good
+2025-04-06,Morning,M101,Anita,P001,55,53,159,0,0,,
+2025-04-08,Afternoon,M103,John,P002,40,33,165,4,0,,Need maintenance
+2025-04-02,Afternoon,M102,Anita,P001,52,52,156,3,0,,
+2025-04-03,Afternoon,M103,John,P002,55,54,270,3,0,,
+2025-04-12,Night,M101,Meera,P001,51,49,196,1,0,,Need maintenance
+2025-04-05,Night,M103,Meera,P001,60,52,52,2,0,,Check sensor
+2025-04-13,Afternoon,M103,John,P001,59,50,100,2,0,,
+2025-04-08,Morning,M101,Anita,P001,45,37,37,2,0,,Check sensor
+2025-04-03,Night,M103,Anita,P002,57,52,260,5,11,Material shortage,
+2025-04-09,Night,M101,John,P003,50,40,40,0,0,,
+2025-04-01,Afternoon,M103,Meera,P001,48,46,92,1,0,,Need maintenance
+2025-04-10,Morning,M103,Raj,P001,54,49,49,3,0,,Check sensor
+2025-04-06,Night,M103,Anita,P003,56,47,94,2,0,,All good
+2025-04-02,Morning,M101,John,P002,59,55,55,1,22,,Need maintenance
+2025-04-09,Morning,M102,John,P002,45,43,129,5,0,,Check sensor
+2025-04-10,Night,M103,Raj,P001,40,37,74,3,0,,Check sensor
+2025-04-05,Afternoon,M102,Raj,P003,52,43,43,2,0,,Need maintenance
+2025-04-01,Morning,M102,Anita,P003,58,57,171,5,0,,Need maintenance
+2025-04-04,Night,M103,Meera,P002,56,50,50,0,0,,
+2025-04-03,Night,M101,Meera,P001,47,43,129,1,0,,Check sensor
+2025-04-06,Afternoon,M103,Raj,P002,43,43,172,3,3,Power cut,All good
+2025-04-01,Night,M101,John,P001,41,39,39,5,0,,Need maintenance
+2025-04-02,Afternoon,M101,Meera,P003,59,58,116,5,0,,Check sensor
+2025-04-14,Night,M103,Anita,P003,43,36,36,2,0,,All good
+2025-04-12,Morning,M103,Anita,P003,44,37,148,4,0,,All good
+2025-04-15,Morning,M103,Raj,P001,49,44,176,4,27,,All good
+2025-04-08,Night,M103,Anita,P002,57,53,159,1,0,,Need maintenance
+2025-04-09,Night,M102,Raj,P001,54,50,250,3,9,Material shortage,Check sensor
+2025-04-11,Afternoon,M102,Meera,P001,40,40,120,2,0,,All good
+2025-04-02,Night,M103,Anita,P003,46,40,200,0,0,,Check sensor
+2025-04-02,Morning,M102,John,P002,44,41,205,3,30,Maintenance,Check sensor
+2025-04-12,Afternoon,M103,John,P002,56,49,98,4,0,,
+2025-04-02,Morning,M101,Meera,P003,52,49,245,5,10,,Need maintenance
+2025-04-14,Afternoon,M101,Anita,P003,48,42,126,5,18,Maintenance,All good
+2025-04-05,Morning,M102,Anita,P001,45,41,82,0,0,,Check sensor
+2025-04-02,Night,M101,Anita,P002,49,44,132,4,0,,All good
+2025-04-09,Morning,M102,Meera,P002,51,42,210,5,23,Machine issue,Check sensor
+2025-04-13,Morning,M103,Meera,P002,56,47,188,3,0,,
+2025-04-12,Night,M103,Raj,P001,40,35,105,2,0,,All good
+2025-04-01,Night,M103,Anita,P001,40,39,156,2,0,,
+2025-04-12,Morning,M103,Meera,P003,42,33,99,4,0,,All good
+2025-04-05,Afternoon,M103,Raj,P001,49,48,240,1,22,Power cut,Need maintenance
+2025-04-12,Morning,M101,Raj,P001,41,40,120,3,0,,
+2025-04-10,Morning,M101,Raj,P002,40,36,72,2,0,,All good
+2025-04-06,Afternoon,M103,Raj,P002,54,51,255,0,0,,Need maintenance
+2025-04-02,Afternoon,M103,John,P003,55,45,135,2,0,,
+2025-04-09,Afternoon,M103,Meera,P003,60,52,156,5,0,,All good
+2025-04-05,Night,M103,Raj,P002,44,41,123,5,0,,All good
+2025-04-03,Night,M102,Raj,P003,55,53,53,0,0,,Need maintenance
+2025-04-12,Afternoon,M102,Anita,P002,42,38,114,3,24,Maintenance,All good
+2025-04-10,Morning,M103,Meera,P002,52,50,200,1,0,,Need maintenance
+2025-04-14,Afternoon,M101,Anita,P001,58,50,50,3,0,,All good
+2025-04-05,Morning,M103,Raj,P001,49,46,46,3,10,Material shortage,Need maintenance
+2025-04-01,Night,M102,Meera,P001,48,42,210,4,0,,
+2025-04-04,Morning,M103,Raj,P003,47,46,92,4,0,,Need maintenance
+2025-04-07,Night,M102,Anita,P003,52,52,208,5,0,,Check sensor
+2025-04-11,Afternoon,M101,John,P001,58,48,144,4,0,,
+2025-04-05,Night,M103,Raj,P003,59,59,236,1,0,,All good
+2025-04-11,Night,M103,Raj,P001,47,38,114,5,18,,All good
+2025-04-05,Afternoon,M103,Raj,P001,46,43,172,4,0,,All good
+2025-04-10,Night,M101,John,P002,59,58,290,3,30,Power cut,Need maintenance
+2025-04-04,Morning,M102,Meera,P003,54,50,100,2,0,,All good
+2025-04-13,Night,M103,Anita,P001,53,50,100,1,20,Power cut,All good
+2025-04-05,Night,M101,Anita,P001,58,53,53,2,0,,
+2025-04-10,Night,M102,John,P003,55,54,270,1,0,,All good
+2025-04-04,Afternoon,M101,Anita,P001,51,45,90,5,26,,All good
+2025-04-07,Afternoon,M102,Meera,P002,46,42,126,0,5,,All good
+2025-04-12,Morning,M101,John,P001,50,49,147,4,0,,All good
+2025-04-08,Morning,M103,John,P003,50,49,245,3,0,,
+2025-04-02,Afternoon,M102,Raj,P002,41,39,156,4,22,Power cut,
+2025-04-03,Night,M101,Anita,P002,59,58,174,5,0,,Need maintenance
+2025-04-07,Morning,M103,Anita,P002,57,56,224,4,0,,
+2025-04-04,Morning,M102,Raj,P001,59,59,118,2,0,,All good
+2025-04-06,Morning,M103,Meera,P002,60,59,236,4,9,Material shortage,All good
+2025-04-04,Night,M103,Raj,P003,54,50,250,5,3,Power cut,
+2025-04-13,Night,M103,John,P001,47,45,45,5,26,Material shortage,Check sensor
+2025-04-09,Morning,M102,Anita,P001,59,55,275,1,0,,All good
+2025-04-15,Morning,M102,Meera,P003,58,50,50,0,0,,Check sensor
+2025-04-14,Morning,M101,Anita,P001,49,46,92,5,0,,Check sensor
+2025-04-12,Morning,M103,John,P003,50,42,84,4,0,,All good
+2025-04-01,Morning,M102,Meera,P002,56,46,46,4,8,Maintenance,Need maintenance
+2025-04-02,Night,M102,Raj,P002,48,44,220,5,0,,Check sensor
+2025-04-08,Morning,M101,John,P002,41,33,33,3,0,,All good
+2025-04-03,Night,M103,Anita,P003,48,40,200,2,0,,
+2025-04-12,Afternoon,M102,Raj,P001,41,34,136,5,0,,All good
+2025-04-06,Morning,M103,Anita,P001,59,53,106,5,0,,All good
+2025-04-09,Afternoon,M101,Raj,P002,55,53,212,4,0,,Check sensor
+2025-04-08,Night,M101,Anita,P002,60,50,50,4,0,,All good
+2025-04-05,Morning,M102,Anita,P003,52,52,208,0,24,Material shortage,
+2025-04-09,Night,M103,Meera,P003,59,58,116,2,13,Material shortage,
+2025-04-09,Morning,M101,Meera,P002,47,44,132,2,0,,All good
+2025-04-12,Afternoon,M103,Anita,P001,52,49,98,2,0,,All good
+2025-04-06,Morning,M101,Meera,P001,47,42,210,3,25,Material shortage,
+2025-04-11,Night,M103,Meera,P003,44,34,102,5,0,,
+2025-04-06,Night,M101,Anita,P003,52,42,126,2,0,,Need maintenance
+2025-04-07,Night,M103,Meera,P001,57,49,49,1,11,Power cut,Check sensor
+2025-04-11,Afternoon,M101,Raj,P002,56,46,230,4,0,,
+2025-04-04,Night,M102,Raj,P001,57,48,240,3,0,,
+2025-04-12,Afternoon,M102,Raj,P001,59,55,275,2,0,,Need maintenance
+2025-04-10,Afternoon,M102,Raj,P003,56,54,162,2,0,,Check sensor
+2025-04-11,Night,M101,Anita,P002,60,53,53,0,0,,Check sensor
+2025-04-06,Morning,M101,Anita,P002,43,34,102,2,0,,All good
+2025-04-03,Night,M101,Raj,P002,59,59,118,5,0,,
+2025-04-04,Night,M101,Raj,P001,54,51,51,4,0,,All good
+2025-04-08,Night,M102,Anita,P003,43,39,78,0,0,,Need maintenance
+2025-04-11,Morning,M103,Raj,P001,46,42,210,3,0,,All good
+2025-04-01,Morning,M101,Anita,P003,40,36,144,4,0,,Need maintenance
+2025-04-13,Afternoon,M102,John,P003,57,56,112,3,0,,
+2025-04-01,Morning,M101,Meera,P002,48,46,230,5,0,,All good
+2025-04-07,Morning,M103,Raj,P002,59,53,212,0,0,,Need maintenance
+2025-04-09,Morning,M101,Anita,P002,50,46,230,1,0,,All good
+2025-04-08,Night,M103,Anita,P002,54,46,184,0,0,,Need maintenance
+2025-04-01,Afternoon,M102,Meera,P002,44,43,43,1,0,,All good
+2025-04-07,Afternoon,M101,John,P002,42,42,168,0,0,,Need maintenance
+2025-04-04,Morning,M103,Meera,P002,51,50,50,0,0,,
+2025-04-10,Afternoon,M102,Meera,P003,42,32,64,4,0,,Need maintenance
+2025-04-11,Afternoon,M103,Meera,P001,47,38,38,0,0,,Need maintenance
+2025-04-07,Night,M103,Raj,P001,44,38,152,2,8,Material shortage,Check sensor
+2025-04-03,Morning,M101,Raj,P002,57,56,112,3,27,Maintenance,
+2025-04-10,Night,M101,Meera,P001,52,47,94,3,0,,Check sensor
+2025-04-04,Night,M103,Raj,P003,57,54,54,4,0,,
+2025-04-14,Night,M103,John,P003,52,45,45,1,21,Maintenance,Check sensor
+2025-04-07,Night,M102,Raj,P003,57,53,159,0,0,,Need maintenance
+2025-04-12,Night,M101,John,P001,46,44,132,2,0,,All good
+2025-04-04,Morning,M102,Raj,P002,57,47,141,4,0,,Need maintenance
+2025-04-07,Afternoon,M102,Anita,P003,57,49,49,2,0,,
+2025-04-09,Night,M102,Anita,P002,48,42,84,4,25,Machine issue,Need maintenance
+2025-04-12,Afternoon,M101,Anita,P001,57,55,275,5,0,,Check sensor
+2025-04-09,Night,M101,Raj,P003,52,48,192,1,0,,All good
+2025-04-10,Afternoon,M102,Meera,P003,49,48,96,0,0,,All good
+2025-04-03,Night,M102,Anita,P003,47,42,168,5,3,Power cut,Check sensor
+2025-04-13,Night,M101,John,P001,50,46,184,2,27,Power cut,Check sensor
+2025-04-14,Afternoon,M102,John,P002,44,43,43,2,0,,Need maintenance
+2025-04-11,Morning,M102,Meera,P002,55,49,98,1,17,Power cut,
+2025-04-11,Afternoon,M101,Raj,P002,60,56,112,5,0,,Check sensor
+2025-04-06,Morning,M103,Anita,P002,58,53,159,0,7,Machine issue,
+2025-04-10,Night,M103,John,P003,48,47,47,4,0,,All good
+2025-04-05,Night,M101,Anita,P002,52,46,184,2,0,,Need maintenance
+2025-04-09,Night,M102,Anita,P003,58,52,208,1,5,Power cut,
+2025-04-05,Night,M101,Raj,P003,43,43,215,3,0,,
+2025-04-08,Morning,M102,Meera,P003,53,48,48,4,0,,All good
+2025-04-12,Afternoon,M101,John,P003,40,37,74,2,0,,Check sensor
+2025-04-11,Morning,M102,Anita,P001,54,48,240,1,0,,Need maintenance
+2025-04-10,Morning,M101,Anita,P003,58,54,54,3,5,,Check sensor
+2025-04-08,Afternoon,M103,Anita,P001,42,32,128,4,6,Material shortage,Check sensor
+2025-04-05,Night,M102,John,P001,50,42,168,5,0,,
+2025-04-14,Morning,M103,Meera,P002,55,45,135,0,0,,Check sensor
+2025-04-02,Afternoon,M103,Raj,P002,57,50,250,3,0,,All good
+2025-04-04,Night,M101,Anita,P001,42,41,205,2,0,,Need maintenance
+2025-04-15,Night,M101,Meera,P002,42,36,72,3,0,,Need maintenance
+2025-04-06,Night,M103,John,P001,56,55,165,2,3,Maintenance,Need maintenance
+2025-04-11,Afternoon,M102,Meera,P002,59,49,98,0,15,Machine issue,Need maintenance
+2025-04-08,Afternoon,M103,John,P003,58,52,52,0,0,,Check sensor
+2025-04-12,Night,M101,John,P001,56,52,52,5,5,Power cut,All good
+2025-04-04,Afternoon,M103,Meera,P001,42,38,114,3,0,,Check sensor
+2025-04-08,Afternoon,M102,Raj,P003,41,35,70,5,0,,All good
+2025-04-12,Morning,M101,Meera,P001,47,39,156,3,0,,All good
+2025-04-07,Morning,M102,John,P002,52,49,49,2,0,,Need maintenance
+2025-04-05,Afternoon,M102,John,P002,45,41,205,2,0,,All good
+2025-04-07,Night,M101,Raj,P003,59,50,200,5,10,Power cut,Need maintenance
+2025-04-14,Night,M102,Anita,P001,60,56,280,0,0,,Check sensor
+2025-04-15,Afternoon,M103,Anita,P002,55,52,104,4,0,,Need maintenance
+2025-04-01,Night,M103,John,P003,56,52,208,3,0,,Need maintenance
+2025-04-13,Night,M102,Meera,P001,51,41,123,2,0,,Need maintenance
+2025-04-08,Night,M103,Raj,P003,52,46,184,1,0,,Check sensor
+2025-04-05,Night,M103,Raj,P003,53,43,43,2,5,,Need maintenance
+2025-04-12,Afternoon,M101,Meera,P001,42,37,111,0,0,,All good
+2025-04-06,Morning,M101,Meera,P001,42,42,210,4,0,,Check sensor
+2025-04-11,Morning,M103,John,P001,49,49,196,3,0,,Check sensor
+2025-04-03,Night,M101,Meera,P003,50,43,172,1,0,,Need maintenance
+2025-04-09,Night,M103,Anita,P002,43,35,175,1,22,Maintenance,Check sensor
+2025-04-15,Afternoon,M101,Meera,P003,47,37,37,2,0,,
+2025-04-10,Morning,M102,Raj,P001,55,46,92,2,7,Machine issue,All good
+2025-04-02,Afternoon,M101,Meera,P003,55,55,165,3,0,,
+2025-04-10,Afternoon,M101,Meera,P001,47,47,188,3,0,,All good
+2025-04-14,Afternoon,M102,John,P002,45,40,160,0,26,Material shortage,
+2025-04-02,Night,M102,John,P003,55,50,200,2,13,Machine issue,Need maintenance
+2025-04-13,Morning,M103,Anita,P001,49,46,138,3,0,,Need maintenance
+2025-04-10,Morning,M103,Anita,P001,54,54,270,1,29,Maintenance,Need maintenance
+2025-04-12,Afternoon,M101,John,P002,41,40,40,3,0,,Need maintenance
+2025-04-12,Afternoon,M101,Anita,P001,54,47,188,0,26,Maintenance,Need maintenance
+2025-04-01,Night,M101,Raj,P001,44,40,200,2,0,,All good
+2025-04-11,Morning,M103,John,P001,55,49,147,1,3,Machine issue,Check sensor
+2025-04-02,Afternoon,M103,John,P001,41,35,140,0,0,,All good
+2025-04-06,Morning,M102,John,P003,48,47,235,2,17,Machine issue,
+2025-04-06,Night,M103,John,P003,54,49,196,5,0,,Check sensor
+2025-04-04,Afternoon,M103,Raj,P002,58,51,102,2,0,,
+2025-04-15,Night,M101,Raj,P001,45,45,135,1,14,Material shortage,Need maintenance
+2025-04-14,Afternoon,M102,Meera,P001,51,47,188,5,0,,Check sensor
+2025-04-03,Morning,M102,Anita,P003,40,32,96,4,0,,All good
+2025-04-08,Night,M101,Anita,P003,55,53,212,1,0,,All good
+2025-04-13,Night,M102,Raj,P003,49,42,210,2,0,,Check sensor
+2025-04-02,Morning,M102,John,P001,41,39,39,3,7,Maintenance,Need maintenance
+2025-04-11,Night,M103,John,P003,41,38,38,3,0,,All good
+2025-04-13,Morning,M103,Anita,P003,40,31,31,0,0,,Need maintenance
+2025-04-12,Morning,M103,Raj,P003,55,53,106,3,28,,All good
+2025-04-08,Afternoon,M102,Raj,P003,43,38,152,3,0,,
+2025-04-15,Night,M101,Anita,P001,60,52,52,4,14,Power cut,All good
+2025-04-07,Night,M102,Raj,P002,40,35,175,4,0,,Check sensor
+2025-04-03,Afternoon,M101,Raj,P002,47,41,123,4,0,,All good
+2025-04-13,Night,M103,John,P002,47,37,111,5,0,,Need maintenance
+2025-04-15,Morning,M102,Raj,P002,51,46,92,0,0,,Need maintenance
+2025-04-04,Night,M102,Meera,P002,41,37,37,4,0,,Check sensor
+2025-04-02,Night,M101,Raj,P002,53,52,156,1,11,Machine issue,Need maintenance
+2025-04-14,Afternoon,M103,Anita,P003,46,46,46,5,0,,Check sensor
+2025-04-11,Night,M102,John,P002,51,46,46,0,0,,
+2025-04-03,Night,M101,John,P002,55,49,147,1,0,,All good
+2025-04-08,Night,M102,Anita,P002,51,43,129,0,0,,Need maintenance
+2025-04-05,Afternoon,M102,Meera,P001,60,60,300,5,0,,Need maintenance
+2025-04-08,Night,M103,Raj,P001,48,38,152,2,12,,All good
+2025-04-09,Morning,M103,Anita,P002,53,51,204,5,0,,Need maintenance
+2025-04-07,Afternoon,M102,John,P003,55,46,184,5,0,,
+2025-04-11,Afternoon,M103,Raj,P001,47,38,114,2,21,Material shortage,
+2025-04-10,Morning,M102,John,P002,60,50,250,3,0,,Check sensor
+2025-04-12,Afternoon,M103,Raj,P001,43,37,111,3,0,,
+2025-04-14,Morning,M101,Raj,P002,58,49,98,1,0,,Check sensor
+2025-04-07,Morning,M102,Anita,P002,58,57,57,2,0,,Check sensor
+2025-04-15,Night,M101,Raj,P003,44,44,220,5,0,,Check sensor
+2025-04-06,Night,M102,Anita,P001,45,38,190,4,23,Power cut,Need maintenance
+2025-04-09,Morning,M102,Anita,P002,54,44,132,2,0,,Check sensor
+2025-04-10,Morning,M101,John,P003,42,40,120,2,0,,Need maintenance
+2025-04-02,Night,M103,Meera,P001,50,44,220,0,0,,Check sensor
+2025-04-02,Morning,M102,Anita,P002,45,42,42,0,5,Machine issue,All good
+2025-04-02,Afternoon,M102,Anita,P001,56,53,159,5,0,,Check sensor
+2025-04-05,Morning,M102,Raj,P002,50,43,86,2,0,,Need maintenance
+2025-04-02,Afternoon,M103,Anita,P002,45,36,72,1,2,Maintenance,Need maintenance
+2025-04-05,Night,M102,John,P002,52,46,46,0,8,Maintenance,Need maintenance
+2025-04-04,Afternoon,M103,Meera,P002,41,35,175,2,0,,All good
+2025-04-08,Night,M101,Anita,P003,40,32,32,1,21,,Check sensor
+2025-04-15,Afternoon,M103,John,P001,60,53,265,4,0,,All good
+2025-04-12,Night,M101,Meera,P003,50,45,45,1,0,,All good
+2025-04-10,Morning,M102,John,P003,51,51,51,0,0,,
+2025-04-07,Night,M102,Anita,P002,52,50,200,2,1,Power cut,All good
+2025-04-15,Afternoon,M102,John,P001,58,50,50,3,0,,Check sensor
+2025-04-10,Afternoon,M101,John,P001,46,42,42,3,0,,All good
+2025-04-12,Morning,M101,Meera,P003,55,54,216,3,0,,
+2025-04-03,Afternoon,M103,John,P001,54,47,94,0,0,,Need maintenance
+2025-04-02,Afternoon,M101,John,P002,46,37,37,5,0,,All good
+2025-04-04,Afternoon,M103,John,P001,51,46,230,5,23,Power cut,Need maintenance
+2025-04-05,Morning,M103,Raj,P002,45,42,42,4,0,,
+2025-04-04,Morning,M101,Meera,P001,42,39,156,3,0,,Need maintenance
+2025-04-03,Morning,M103,John,P003,41,37,74,1,21,,Check sensor
+2025-04-10,Morning,M103,John,P001,45,40,120,1,30,Maintenance,Need maintenance
+2025-04-13,Morning,M101,Anita,P001,46,41,82,3,5,Machine issue,
+2025-04-07,Morning,M103,John,P002,46,40,200,4,9,,All good
+2025-04-15,Morning,M103,John,P003,42,32,96,1,0,,Need maintenance
+2025-04-01,Morning,M102,Raj,P001,56,49,245,1,0,,Need maintenance
+2025-04-03,Afternoon,M103,Anita,P002,45,41,205,3,12,Maintenance,Check sensor
+2025-04-12,Afternoon,M103,Meera,P003,46,43,129,1,0,,Need maintenance
+2025-04-04,Night,M103,John,P001,46,36,72,5,0,,Need maintenance
+2025-04-14,Morning,M101,Meera,P002,41,32,64,5,0,,Check sensor
+2025-04-10,Night,M103,Anita,P001,45,43,43,5,0,,Check sensor
+2025-04-01,Morning,M101,Meera,P003,58,55,110,2,0,,All good
+2025-04-02,Afternoon,M101,Raj,P001,40,36,180,3,30,Material shortage,Need maintenance
+2025-04-06,Morning,M102,John,P001,56,50,200,2,0,,Need maintenance
+2025-04-10,Afternoon,M103,Anita,P003,59,49,147,1,18,Power cut,Check sensor
+2025-04-09,Night,M101,John,P001,49,44,132,0,0,,Need maintenance
+2025-04-06,Morning,M103,Meera,P001,59,59,295,1,0,,All good
+2025-04-04,Afternoon,M103,Anita,P003,52,43,172,4,0,,Need maintenance
+2025-04-08,Morning,M103,Meera,P003,45,40,40,2,27,,Check sensor
+2025-04-13,Night,M101,John,P001,49,48,96,2,25,,All good
+2025-04-05,Morning,M102,Anita,P003,53,45,90,4,0,,All good
+2025-04-13,Night,M103,Raj,P002,57,48,144,5,0,,
+2025-04-15,Morning,M101,Raj,P001,42,38,38,1,0,,Check sensor
+2025-04-15,Afternoon,M101,Anita,P003,49,41,123,1,0,,Check sensor
+2025-04-04,Morning,M102,Anita,P002,56,54,162,2,17,Machine issue,Check sensor
+2025-04-13,Morning,M101,John,P003,50,41,123,3,0,,Need maintenance
+2025-04-14,Afternoon,M102,Raj,P002,43,38,114,5,0,,
+2025-04-15,Night,M103,Raj,P003,46,39,195,2,17,Power cut,
+2025-04-10,Night,M101,Anita,P003,45,43,172,1,5,Maintenance,All good
+2025-04-04,Morning,M103,Raj,P001,41,38,38,5,25,Maintenance,All good
+2025-04-12,Morning,M102,Meera,P002,42,39,156,5,29,,Need maintenance
+2025-04-05,Night,M102,Meera,P003,50,46,138,5,0,,Check sensor
+2025-04-11,Morning,M102,John,P003,49,39,39,2,0,,Check sensor
+2025-04-12,Morning,M101,John,P003,56,48,48,2,0,,All good
+2025-04-14,Morning,M103,Anita,P001,47,43,215,1,0,,All good
+2025-04-11,Morning,M101,Raj,P002,54,47,141,5,22,Maintenance,
+2025-04-13,Night,M101,Anita,P002,48,40,200,4,0,,
+2025-04-03,Morning,M102,John,P002,58,52,52,5,0,,All good
+2025-04-14,Night,M102,John,P001,46,41,82,3,0,,Check sensor
+2025-04-03,Night,M102,John,P003,44,44,220,2,0,,
+2025-04-13,Night,M103,Raj,P001,45,35,105,0,0,,Need maintenance
+2025-04-07,Morning,M101,Raj,P003,40,38,190,3,0,,All good
+2025-04-15,Morning,M102,Anita,P003,42,34,34,1,0,,Need maintenance
+2025-04-10,Morning,M101,John,P003,59,49,196,3,0,,All good
+2025-04-11,Afternoon,M101,Anita,P003,40,37,111,4,20,Power cut,Check sensor
+2025-04-15,Night,M101,John,P001,45,39,39,4,22,Maintenance,Need maintenance
+2025-04-03,Night,M102,John,P002,48,47,141,4,0,,
+2025-04-04,Night,M103,Anita,P001,41,41,41,0,0,,
+2025-04-11,Night,M102,Anita,P001,46,44,44,0,15,Material shortage,
+2025-04-12,Night,M101,Anita,P003,43,40,120,5,0,,
+2025-04-12,Morning,M101,Meera,P002,54,47,235,3,6,Material shortage,All good
+2025-04-10,Morning,M103,Meera,P003,48,38,114,3,28,Material shortage,Check sensor
+2025-04-13,Night,M103,Anita,P002,49,42,42,4,0,,All good
+2025-04-06,Morning,M103,John,P001,44,43,215,2,0,,
+2025-04-09,Night,M103,Anita,P002,47,39,156,2,0,,All good
+2025-04-02,Afternoon,M101,Raj,P001,47,45,135,2,0,,
+2025-04-03,Afternoon,M103,Anita,P001,54,49,196,5,0,,Need maintenance
+2025-04-02,Morning,M103,Raj,P001,43,40,40,2,11,,Check sensor
+2025-04-05,Morning,M101,Anita,P003,56,47,94,3,24,Maintenance,
+2025-04-06,Night,M101,Anita,P003,46,45,135,3,0,,All good
+2025-04-03,Morning,M103,Meera,P001,41,38,152,5,0,,All good
+2025-04-02,Night,M101,Meera,P002,58,56,56,4,18,Machine issue,Need maintenance
+2025-04-03,Afternoon,M101,Meera,P001,59,50,250,1,14,Material shortage,Need maintenance
+2025-04-10,Night,M103,Anita,P003,41,37,185,0,7,Machine issue,Check sensor
+2025-04-11,Afternoon,M101,Raj,P002,53,51,255,0,7,Maintenance,All good
+2025-04-06,Night,M103,Meera,P001,60,51,204,4,0,,All good
+2025-04-15,Night,M103,Raj,P003,40,39,39,5,0,,Need maintenance
+2025-04-10,Night,M102,Anita,P001,47,44,44,4,20,Power cut,
+2025-04-05,Night,M102,Meera,P001,48,40,160,5,29,Machine issue,All good
+2025-04-05,Afternoon,M102,Anita,P001,43,39,156,4,0,,
+2025-04-09,Afternoon,M103,Raj,P001,58,54,216,5,15,Power cut,Check sensor
+2025-04-02,Morning,M103,John,P002,58,54,108,3,21,Machine issue,Check sensor
+2025-04-03,Morning,M101,Raj,P001,54,54,162,1,26,Maintenance,
+2025-04-11,Morning,M102,Raj,P001,51,45,90,2,0,,
+2025-04-11,Night,M103,Anita,P001,41,35,140,3,0,,Need maintenance
+2025-04-10,Afternoon,M101,John,P002,60,51,102,2,0,,Check sensor
+2025-04-06,Night,M101,John,P001,52,51,102,5,15,Maintenance,Check sensor
+2025-04-06,Morning,M101,Raj,P001,41,41,82,2,0,,All good
+2025-04-03,Morning,M101,Raj,P002,43,35,35,5,0,,Check sensor
+2025-04-13,Morning,M103,Meera,P003,52,44,176,3,0,,
+2025-04-03,Night,M103,Anita,P001,59,56,112,5,0,,
+2025-04-02,Afternoon,M102,Meera,P002,42,42,210,5,0,,Need maintenance
+2025-04-12,Night,M101,Anita,P003,53,52,156,4,0,,
+2025-04-02,Night,M101,Anita,P001,60,50,250,5,0,,All good
+2025-04-06,Morning,M101,Raj,P003,42,41,123,5,0,,Need maintenance
+2025-04-02,Afternoon,M103,John,P001,40,37,37,3,0,,
+2025-04-13,Night,M102,Raj,P003,43,36,72,2,18,Power cut,
+2025-04-04,Morning,M101,Anita,P002,40,37,148,2,17,Maintenance,Need maintenance
+2025-04-07,Morning,M103,John,P003,42,35,35,3,0,,All good
+2025-04-13,Morning,M101,Meera,P003,57,54,108,2,0,,Check sensor
+2025-04-11,Afternoon,M101,Raj,P003,53,50,150,5,0,,
+2025-04-07,Night,M103,Raj,P002,53,50,100,4,0,,
+2025-04-11,Night,M102,Anita,P001,53,52,208,3,0,,All good
+2025-04-09,Night,M102,John,P001,46,38,38,5,0,,All good
+2025-04-02,Night,M101,John,P002,43,43,172,4,28,Maintenance,All good
+2025-04-12,Morning,M103,Anita,P003,41,32,32,3,25,Machine issue,
+2025-04-01,Morning,M103,Raj,P001,43,39,39,4,28,Power cut,
+2025-04-10,Morning,M103,Anita,P001,58,58,174,5,0,,Need maintenance
+2025-04-07,Afternoon,M101,Anita,P003,42,34,136,3,0,,All good
+2025-04-07,Night,M103,Meera,P003,59,57,228,4,0,,Check sensor
+2025-04-06,Afternoon,M101,Raj,P001,52,48,144,3,0,,Check sensor
+2025-04-02,Afternoon,M103,Anita,P002,54,49,147,0,0,,
+2025-04-13,Afternoon,M101,Anita,P001,53,43,215,3,0,,Need maintenance
+2025-04-15,Night,M102,John,P002,51,46,46,4,0,,Need maintenance
+2025-04-15,Night,M102,John,P003,41,31,62,5,6,Machine issue,
+2025-04-12,Morning,M103,Anita,P003,51,42,210,3,0,,All good
+2025-04-09,Afternoon,M102,Raj,P002,58,48,96,4,21,Power cut,Need maintenance
+2025-04-13,Night,M101,Anita,P003,49,39,195,3,0,,All good
+2025-04-02,Afternoon,M101,Anita,P001,58,49,147,1,0,,Check sensor
+2025-04-07,Morning,M102,John,P003,48,48,240,4,0,,
+2025-04-12,Night,M101,Meera,P002,59,49,245,0,0,,Check sensor
+2025-04-03,Afternoon,M101,Raj,P003,43,42,168,1,0,,All good
+2025-04-14,Morning,M101,Raj,P003,52,50,50,3,5,Maintenance,
+2025-04-14,Morning,M103,Anita,P001,47,44,220,3,0,,All good
+2025-04-03,Morning,M103,John,P003,48,38,76,2,0,,Need maintenance
+2025-04-11,Afternoon,M102,Anita,P002,52,46,92,3,0,,All good
+2025-04-10,Morning,M102,John,P001,45,40,200,2,4,Material shortage,All good
+2025-04-15,Afternoon,M101,Meera,P003,41,34,136,5,0,,Check sensor
+2025-04-11,Night,M103,John,P003,52,47,141,0,23,Power cut,All good
+2025-04-10,Night,M103,John,P002,44,38,190,2,13,Material shortage,Check sensor
+2025-04-12,Afternoon,M102,Raj,P003,55,49,196,5,0,,Need maintenance
+2025-04-02,Afternoon,M102,Anita,P001,48,46,138,3,0,,Need maintenance
+2025-04-14,Night,M102,John,P001,40,33,33,5,0,,
+2025-04-09,Afternoon,M102,Raj,P003,46,44,132,5,0,,All good
+2025-04-10,Afternoon,M102,Meera,P002,50,48,96,1,0,,
+2025-04-04,Afternoon,M103,Anita,P003,42,39,117,2,0,,Check sensor
+2025-04-14,Night,M102,Anita,P001,56,54,162,4,0,,All good
+2025-04-05,Afternoon,M101,Anita,P003,54,49,245,0,0,,Need maintenance
+2025-04-05,Morning,M102,Anita,P003,55,46,230,2,10,Power cut,All good
+2025-04-01,Morning,M101,Meera,P001,60,60,300,5,0,,
+2025-04-05,Night,M103,Meera,P003,41,37,74,2,0,,Check sensor
+2025-04-13,Afternoon,M103,Anita,P001,47,44,220,5,0,,
+2025-04-09,Morning,M101,Raj,P003,51,41,123,4,0,,All good
+2025-04-01,Night,M101,Raj,P002,57,51,255,4,0,,Check sensor
+2025-04-01,Morning,M102,Anita,P002,40,36,36,0,0,,Check sensor
+2025-04-03,Morning,M102,Raj,P003,47,40,120,4,15,Material shortage,Need maintenance
+2025-04-12,Afternoon,M103,Anita,P002,54,44,44,2,0,,
+2025-04-12,Night,M102,Raj,P001,44,40,200,2,26,Maintenance,
+2025-04-15,Afternoon,M103,Meera,P001,46,46,138,1,0,,All good
+2025-04-15,Night,M101,Anita,P001,50,47,235,2,0,,Check sensor
+2025-04-10,Morning,M102,Raj,P002,41,41,41,0,25,Machine issue,Need maintenance
+2025-04-15,Night,M102,John,P003,51,49,245,2,0,,Check sensor
+2025-04-11,Morning,M101,Meera,P003,55,54,270,5,2,Machine issue,Check sensor
+2025-04-11,Afternoon,M101,Anita,P003,56,50,150,4,0,,Check sensor
+2025-04-12,Night,M101,Meera,P001,48,38,114,0,0,,All good
+2025-04-01,Afternoon,M103,Anita,P001,54,52,208,4,0,,Check sensor
+2025-04-05,Night,M102,Meera,P003,56,53,265,2,0,,Need maintenance
+2025-04-05,Afternoon,M102,Anita,P003,50,40,160,0,0,,Check sensor
+2025-04-10,Morning,M101,John,P001,57,50,100,4,0,,Check sensor
+2025-04-15,Night,M102,Raj,P002,42,33,165,4,0,,All good
+2025-04-08,Morning,M101,Meera,P003,54,50,150,3,0,,
+2025-04-10,Night,M102,Raj,P002,50,48,48,3,0,,
+2025-04-07,Morning,M101,Raj,P001,49,47,235,1,0,,
+2025-04-10,Morning,M102,Meera,P003,50,45,135,2,0,,
+2025-04-08,Afternoon,M101,Raj,P002,42,41,123,0,24,,
+2025-04-04,Morning,M102,Meera,P003,48,48,240,3,0,,
+2025-04-06,Afternoon,M101,Raj,P001,40,37,111,3,0,,
